@@ -1,0 +1,83 @@
+[
+    {
+      "id": "sm10-",
+      "name": "",
+      "supertype": "Pokémon",
+      "subtypes": [""],
+      "types": [""],
+      "set": {
+        "id": "sm10",
+        "name": "Unbroken Bonds",
+        "series": "Sun & Moon"
+      },
+      "rarity": "",
+      "images": {
+        "small": "https://images.pokemontcg.io/sm10/#.png",
+        "large": "https://images.pokemontcg.io/sm10/#_hires.png"
+      },
+      "prices": [
+        {
+          "normal":{
+            "low": ,
+            "high": ,
+            "market":
+          }
+        },
+        {
+          "reverseHolofoil":{
+            "low": ,
+            "high": ,
+            "market":
+          }
+        },
+        {
+          "holofoil":{
+            "low": ,
+            "high": ,
+            "market":
+          }
+        }
+    ]
+},
+
+{
+    "id": "sm10-",
+    "name": "",
+    "supertype": "Trainer",
+    "subtypes": [""],
+    "set": {
+        "id": "sm10",
+        "name": "Unbroken Bonds",
+        "series": "Sun & Moon"
+    },
+    "rarity": "",
+    "images": {
+        "small": "https://images.pokemontcg.io/sm10/#.png",
+        "large": "https://images.pokemontcg.io/sm10/#_hires.png"
+    },
+    "prices": [
+        {
+          "normal":{
+            "low": ,
+            "high": ,
+            "market":
+          }
+        },
+        {
+          "reverseHolofoil":{
+            "low": ,
+            "high": ,
+            "market":
+          }
+        },
+        {
+          "holofoil":{
+            "low": ,
+            "high": ,
+            "market":
+          }
+        }
+        
+      ]
+    }
+]

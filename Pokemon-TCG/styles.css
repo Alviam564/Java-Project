@@ -8,6 +8,8 @@
 
 .title-logo {
   width: 500px;
+  position: relative;
+  left: 37%;
 }
 
 .main-page-logo {
@@ -16,4 +18,68 @@
 
 .title-symbol {
   width: 100px
+}
+
+#TU {
+  background-color: black;
+  color: white;
+}
+
+#UB {
+  background-color: white;
+  color: black;
+}
+.card-TU {
+  border: 1px solid yellow;
+  padding: 1rem;
+  margin: 1rem 0;
+  border-radius: 8px;
+  max-width: 300px;
+}
+
+.card-UB {
+  border: 1px solid orange;
+  padding: 1rem;
+  margin: 1rem 0;
+  border-radius: 8px;
+  max-width: 300px;
+}
+
+#card-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 50px;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}
+
+.background-wrapper {
+  position: relative;
+  height: 110vh;
+  overflow: hidden;
+}
+
+.bg-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.overlay-img {
+  position: absolute;
+  height: auto;
+  z-index: 2;
+}
+.overlay-img.TU {
+  top: 20%;
+  left: 10%;
+}
+
+.overlay-img.UB {
+  bottom: 15%;
+  right: 10%;
 }

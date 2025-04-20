@@ -1,4 +1,4 @@
-import configuration from './configure.js';
+import configuration from '../../../Extra projects question mark/configure.js';
 import queryBuilder from './queryBuilder.js';
 
 const { API_KEY, BASE_URL } = configuration
@@ -39,6 +39,7 @@ function fetchFromAPI(endpoint, query = "") {
 
 fetchFromAPI("cards", 'id:sm9').then(cards => {
     const container = document.querySelector(".SM9")
+    window.myCards = cards;
     container.innerHTML = "";
     cards.forEach(card => {
         container.innerHTML += `
@@ -47,6 +48,7 @@ fetchFromAPI("cards", 'id:sm9').then(cards => {
         `;
       });
 })
+
 fetchFromAPI("cards", 'id:sm10').then(cards => {
     const container = document.querySelector(".SM10")
     container.innerHTML = "";
@@ -57,26 +59,7 @@ fetchFromAPI("cards", 'id:sm10').then(cards => {
         `;
       });
 })
-fetchFromAPI("cards", 'id:sm11').then(cards => {
-    const container = document.querySelector(".SM11")
-    container.innerHTML = "";
-    cards.forEach(card => {
-        container.innerHTML += `
-          <h3>${card.name}</h3>
-          <img src="${card.images.small}" alt="${card.name}" class="tagteam-card" />
-        `;
-      });
-})
-fetchFromAPI("cards", 'id:sm12').then(cards => {
-    const container = document.querySelector(".SM12")
-    container.innerHTML = "";
-    cards.forEach(card => {
-        container.innerHTML += `
-          <h3>${card.name}</h3>
-          <img src="${card.images.small}" alt="${card.name}" class="tagteam-card" />
-        `;
-      });
-})
+
 
 fetchFromAPI("sets", 'name:"Team Up"').then(sets => {
     const container = document.querySelector(".teamup");
@@ -98,32 +81,6 @@ fetchFromAPI("sets", 'name:"Unbroken Bonds"').then(sets => {
         container.innerHTML += `
         <a href="http://127.0.0.1:5500/Pokemon-TCG/pages/set10.html" target="_blank">
             <img class="main-page-logo" src="${set.images.logo}" alt="${set.name}" />
-        </a>
-        <h3>${set.name}</h3>
-        `
-    })
-})
-
-fetchFromAPI("sets", 'name:"Unified Minds"').then(sets => {
-    const container = document.querySelector(".unifiedminds");
-    container.innerHTML = "";
-    sets.forEach(set => {
-        container.innerHTML += `
-        <a href="http://127.0.0.1:5500/Pokemon-TCG/pages/set11.html" target="_blank">
-            <img class="main-page-logo" src="${set.images.logo}" alt="${set.name}" />
-        </a>
-        <h3>${set.name}</h3>
-        `
-    })
-})
-
-fetchFromAPI("sets", 'name:"Cosmic Eclipse"').then(sets => {
-    const container = document.querySelector(".cosmiceclipse");
-    container.innerHTML = "";
-    sets.forEach(set => {
-        container.innerHTML += `
-        <a href="http://127.0.0.1:5500/Pokemon-TCG/pages/set12.html" target="_blank">
-            <img class="main-page-logo" src="${set.images.logo}" alt="${set.name}"  />
         </a>
         <h3>${set.name}</h3>
         `

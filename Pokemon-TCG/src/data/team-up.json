@@ -1,0 +1,6431 @@
+[
+  {
+    "id": "sm9-1",
+    "name": "Celebi & Venusaur-GX",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic", "TAG TEAM", "GX"],
+    "types": ["Grass"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Rare Holo GX",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/1.png",
+      "large": "https://images.pokemontcg.io/sm9/1_hires.png"
+    },
+    "prices": [
+      {
+        "holofoil":{
+          "low": 30,
+          "high": 79.97,
+          "market": 31.98
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-2",
+    "name": "Weedle",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
+    "types": ["Grass"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/2.png",
+      "large": "https://images.pokemontcg.io/sm9/2_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+          "low": 0.04,
+          "high": 1.44,
+          "market": 0.14
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 0.22,
+          "high": 0.99,
+          "market": 0.35
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-3",
+    "name": "Weedle",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
+    "types": ["Grass"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/3.png",
+      "large": "https://images.pokemontcg.io/sm9/3_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+          "low": 0.04,
+          "high": 1.43,
+          "market": 0.11
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 0.01,
+          "high": 1.24,
+          "market": 0.24
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-4",
+    "name": "Kakuna",
+    "supertype": "Pokémon",
+    "subtypes": ["Stage 1"],
+    "types": ["Grass"],
+    "abilities": [
+      {
+        "type": "Ability"
+      }
+    ],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/4.png",
+      "large": "https://images.pokemontcg.io/sm9/4_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+          "low": 0.05,
+          "high": 1.39,
+          "market": 0.26
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 0.18,
+          "high": 1.58,
+          "market": 0.48
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-5",
+    "name": "Beedrill",
+    "supertype": "Pokémon",
+    "subtypes": ["Stage 2"],
+    "types": ["Grass"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Rare",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/5.png",
+      "large": "https://images.pokemontcg.io/sm9/5_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+          "low": 0.19,
+          "high": 1.04,
+          "market": 0.4
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 0.24,
+          "high": 6.9,
+          "market": 0.42
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-6",
+    "name": "Paras",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
+    "types": ["Grass"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/6.png",
+      "large": "https://images.pokemontcg.io/sm9/6_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+          "low": 0.03,
+          "high": 1.45,
+          "market": 0.11
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 0.15,
+          "high": 1.49,
+          "market": 0.29
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-7",
+    "name": "Parasect",
+    "supertype": "Pokémon",
+    "subtypes": ["Stage 1"],
+    "types": ["Grass"],
+    "abilities": [
+      {
+        "type": "Ability"
+      }
+    ],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Rare",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/7.png",
+      "large": "https://images.pokemontcg.io/sm9/7_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+          "low": 0.19,
+          "high": 1.37,
+          "market": 0.38
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 0.23,
+          "high": 1.25,
+          "market": 0.42
+        }
+      }
+    ]
+  },
+
+  {
+    "id": "sm9-8",
+    "name": "Exeggcute",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
+    "types": ["Grass"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/8.png",
+      "large": "https://images.pokemontcg.io/sm9/8_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+          "low": 0.01,
+          "high": 1.36,
+          "market": 0.11
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 0.1,
+          "high": 1.34,
+          "market": 0.31
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-9",
+    "name": "Pinsir",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
+    "types": ["Grass"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Rare",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/9.png",
+      "large": "https://images.pokemontcg.io/sm9/9_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+          "low": 0.15,
+          "high": 1,
+          "market": 0.3
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 0.19,
+          "high": 1.63,
+          "market": 0.52
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-10",
+    "name": "Shaymin ◇",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic", "Prism Star"],
+    "types": ["Grass"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Rare Prism Star",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/10.png",
+      "large": "https://images.pokemontcg.io/sm9/10_hires.png"
+    },
+    "prices": [
+      {
+        "holofoil":{
+          "low": 0.87,
+          "high": 5,
+          "market": 1.45
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-11",
+    "name": "Charmander",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
+    "types": ["Fire"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/11.png",
+      "large": "https://images.pokemontcg.io/sm9/11_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+          "low": 0.1,
+          "high": 1,
+          "market": 0.28
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 0.34,
+          "high": 9.99,
+          "market": 0.66
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-12",
+    "name": "Charmander",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
+    "types": ["Fire"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/12.png",
+      "large": "https://images.pokemontcg.io/sm9/12_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+          "low": 0.11,
+          "high": 1.45,
+          "market": 0.26
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 0.36,
+          "high": 8.59,
+          "market": 0.57
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-13",
+    "name": "Charmeleon",
+    "supertype": "Pokémon",
+    "subtypes": ["Stage 1"],
+    "types": ["Fire"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/13.png",
+      "large": "https://images.pokemontcg.io/sm9/13_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+          "low": 0.1,
+          "high": 8.23,
+          "market": 0.21
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 0.38,
+          "high": 1.65,
+          "market": 0.58
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-14",
+    "name": "Charizard",
+    "supertype": "Pokémon",
+    "subtypes": ["Stage 2"],
+    "types": ["Fire"],
+    "abilities": [
+      {
+        "type": "Ability"
+      }
+    ],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Rare",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/14.png",
+      "large": "https://images.pokemontcg.io/sm9/14_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+          "low": 5.9,
+          "high": 13.79,
+          "market": 6.86
+        }  
+      },  
+      {
+        "reverseHolofoil":{
+          "low": 6.99,
+          "high": 12.95,
+          "market": 10.73
+        }  
+      }
+    ]  
+  },  
+    
+  { 
+    "id": "sm9-15",
+    "name": "Vulpix",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
+    "types": ["Fire"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/15.png",
+      "large": "https://images.pokemontcg.io/sm9/15_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+          "low": 0.07,
+          "high": 1.55,
+          "market": 0.19
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 0.3,
+          "high": 2,
+          "market": 0.5
+        }
+      }
+    ]
+  },
+
+  {
+    "id": "sm9-16",
+    "name": "Ninetales",
+    "supertype": "Pokémon",
+    "subtypes": ["Stage 1"],
+    "types": ["Fire"],
+    "abilities": [
+      {
+        "type": "Ability"
+      }
+    ],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Rare",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/16.png",
+      "large": "https://images.pokemontcg.io/sm9/16_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+          "low": 0.2,
+          "high": 1.99,
+          "market": 0.67
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 0.37,
+          "high": 3.75,
+          "market": 2.25
+        }
+      }
+    ]
+  },
+
+  {
+    "id": "sm9-17",
+    "name": "Ponyta",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
+    "types": ["Fire"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"  
+    },  
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/17.png",
+      "large": "https://images.pokemontcg.io/sm9/17_hires.png"
+    },  
+    "prices": [
+      {
+        "normal":{
+          "low": 0.05,
+          "high": 1.2,
+          "market": 0.15
+        }  
+      },  
+      {
+        "reverseHolofoil":{
+          "low": 0.12,
+          "high": 1.04,
+          "market": 0.34
+        }  
+      }  
+    ]  
+  },  
+  
+  {
+    "id": "sm9-18",
+    "name": "Rapidash",
+    "supertype": "Pokémon",
+    "subtypes": ["Stage 1"],
+    "types": ["Fire"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"  
+    },  
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/18.png",
+      "large": "https://images.pokemontcg.io/sm9/18_hires.png"
+    },  
+    "prices": [
+      {
+        "normal":{
+          "low": 0.03,
+          "high": 1.37,
+          "market": 0.15
+        }  
+      },  
+      {
+        "reverseHolofoil":{
+          "low": 0.19,
+          "high": 1.65,
+          "market": 0.42
+        }  
+      }  
+    ]  
+  },  
+  
+  {
+    "id": "sm9-19",
+    "name": "Moltres",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
+    "types": ["Fire"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Rare Holo",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/19.png",
+      "large": "https://images.pokemontcg.io/sm9/19_hires.png"
+    },
+    "prices": [
+      {
+        "reverseHolofoil":{
+          "low": 1.5,
+          "high": 8.99,
+          "market": 2.66
+        }
+      },
+      {
+        "holofoil":{
+          "low": 1.5,
+          "high": 8.99,
+          "market": 2.35
+        }
+      }
+    ]
+  }, 
+    
+  {
+    "id": "sm9-20",
+    "name": "Litten",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
+    "types": ["Fire"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/20.png",
+      "large": "https://images.pokemontcg.io/sm9/20_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+          "low": 0.03,
+          "high": 1.2,
+          "market": 0.16
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 0.16,
+          "high": 1.54,
+          "market": 0.31
+        }
+      }
+    ]
+  },
+
+  {
+    "id": "sm9-21",
+    "name": "Torracat",
+    "supertype": "Pokémon",
+    "subtypes": ["Stage 1"],
+    "types": ["Fire"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/21.png",
+      "large": "https://images.pokemontcg.io/sm9/21_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+          "low": 0.09,
+          "high": 1.09,
+          "market": 0.37
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 0.19,
+          "high": 1,
+          "market": 0.37 
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-22",
+    "name": "Squirtle",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
+    "types": ["Water"],
+    "abilities": [
+      {
+        "type": "Ability"
+      }
+    ],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/22.png",
+      "large": "https://images.pokemontcg.io/sm9/22_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+          "low": 0.15,
+          "high": 1.26,
+          "market": 0.47
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 0.75,
+          "high": 1.99,
+          "market": 1.33
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-23",
+    "name": "Squirtle",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
+    "types": ["Water"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/23.png",
+      "large": "https://images.pokemontcg.io/sm9/23_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+          "low": 0.15,
+          "high": 1.61,
+          "market": 0.52
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 0.67,
+          "high": 3.2,
+          "market": 0.82
+        }
+      }
+    ]
+  },
+
+  {
+    "id": "sm9-24",
+    "name": "Wartortle",
+    "supertype": "Pokémon",
+    "subtypes": ["Stage 1"],
+    "types": ["Water"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/24.png",
+      "large": "https://images.pokemontcg.io/sm9/24_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+          "low": 0.15,
+          "high": 1.99,
+          "market": 0.39
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 0.3,
+          "high": 3,
+          "market": 0.88 
+        }
+      }
+    ]
+  },
+
+  {
+    "id": "sm9-25",
+    "name": "Blastoise",
+    "supertype": "Pokémon",
+    "subtypes": ["Stage 2"],
+    "types": ["Water"],
+    "abilities": [
+      {
+        "type": "Ability"
+      }
+    ],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Rare",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/25.png",
+      "large": "https://images.pokemontcg.io/sm9/25_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+          "low": 2.52,
+          "high": 9.99,
+          "market": 4.4
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 1.99,
+          "high": 7.77,
+          "market": 4.49
+        }
+      }
+    ]
+  },
+
+  {
+    "id": "sm9-26",
+    "name": "Psyduck",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
+    "types": ["Water"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/26.png",
+      "large": "https://images.pokemontcg.io/sm9/26_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+          "low": 0.06,
+          "high": 1.27,
+          "market": 0.31
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 0.25,
+          "high": 1.99,
+          "market": 0.71
+        }
+      }
+    ]
+  }, 
+    
+  {
+    "id": "sm9-27",
+    "name": "Golduck",
+    "supertype": "Pokémon",
+    "subtypes": ["Stage 1"],
+    "types": ["Water"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/27.png",
+      "large": "https://images.pokemontcg.io/sm9/27_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+          "low": 0.05,
+          "high": 1.22,
+          "market": 0.13
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 0.13,
+          "high": 1.45,
+          "market": 0.28
+        }
+      }
+    ]
+  }, 
+  
+  {
+    "id": "sm9-28",
+    "name": "Staryu",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
+    "types": ["Water"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/28.png",
+      "large": "https://images.pokemontcg.io/sm9/28_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+          "low": 0.03,
+          "high": 1.2,
+          "market": 0.14
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 0.15,
+          "high": 1.45,
+          "market": 0.3
+        }
+      }
+    ]
+  }, 
+  
+  {
+    "id": "sm9-29",
+    "name": "Magikarp",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
+    "types": ["Water"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/29.png",
+      "large": "https://images.pokemontcg.io/sm9/29_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+          "low": 0.04,
+          "high": 2.48,
+          "market": 0.21
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 0.3,
+          "high": 2.99,
+          "market": 0.56
+        }
+      }
+    ]
+  }, 
+  
+  {
+    "id": "sm9-30",
+    "name": "Gyarados",
+    "supertype": "Pokémon",
+    "subtypes": ["Stage 1"],
+    "types": ["Water"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Rare Holo",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/30.png",
+      "large": "https://images.pokemontcg.io/sm9/30_hires.png"
+    },
+    "prices": [
+      {
+        "reverseHolofoil":{
+          "low": 1.99,
+          "high": 7.99,
+          "market": 2.6
+        }
+      },
+      {
+        "holofoil":{
+          "low": 2,
+          "high": 89,
+          "market": 2.33
+        }
+      }
+    ]
+  }, 
+  
+  {
+    "id": "sm9-31",
+    "name": "Lapras",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
+    "types": ["Water"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Rare",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/31.png",
+      "large": "https://images.pokemontcg.io/sm9/31_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+          "low": 0.46,
+          "high": 2.95,
+          "market": 1.68
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 2.98,
+          "high": 6.99,
+          "market": 3.16
+        }
+      }
+    ]
+  }, 
+  
+  {
+    "id": "sm9-32",
+    "name": "Articuno",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
+    "types": ["Water"],
+    "abilities": [
+      {
+        "type": "Ability"
+      }
+    ],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Rare Holo",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/32.png",
+      "large": "https://images.pokemontcg.io/sm9/32_hires.png"
+    },
+    "prices": [
+      {
+        "reverseHolofoil":{
+          "low": 2.19,
+          "high": 5.49,
+          "market": 2.39
+        }
+      },
+      {
+        "holofoil":{
+          "low": 1.43,
+          "high": 5,
+          "market": 3.09 
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-33",
+    "name": "Pikachu & Zekrom-GX",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic", "TAG TEAM", "GX"],
+    "types": ["Lightning"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Rare Holo GX",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/33.png",
+      "large": "https://images.pokemontcg.io/sm9/33_hires.png"
+    },
+    "prices": [
+      {
+        "holofoil":{
+          "low": 16,
+          "high": 89,
+          "market": 22.74
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-34",
+    "name": "Alolan Geodude",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
+    "types": ["Lightning"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/34.png",
+      "large": "https://images.pokemontcg.io/sm9/34_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+          "low": 0.05,
+          "high": 1.22,
+          "market": 0.15
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 0.15,
+          "high": 1.27,
+          "market": 0.28
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-35",
+    "name": "Alolan Geodude",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
+    "types": ["Lightning"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/35.png",
+      "large": "https://images.pokemontcg.io/sm9/35_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+          "low": 0.1,
+          "high": 1.44,
+          "market": 0.25 
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 0.19,
+          "high": 2,
+          "market": 0.44 
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-36",
+    "name": "Alolan Graveler",
+    "supertype": "Pokémon",
+    "subtypes": ["Stage 1"],
+    "types": ["Lightning"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/36.png",
+      "large": "https://images.pokemontcg.io/sm9/36_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+          "low": 0.1,
+          "high": 1.27,
+          "market": 0.16
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 0.11,
+          "high": 1.41,
+          "market": 0.31
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-37",
+    "name": "Alolan Golem",
+    "supertype": "Pokémon",
+    "subtypes": ["Stage 2"],
+    "types": ["Lightning"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Rare",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/37.png",
+      "large": "https://images.pokemontcg.io/sm9/37_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+          "low": 0.18,
+          "high": 1.74,
+          "market": 0.48
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 0.35,
+          "high": 1.49,
+          "market": 0.54
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-38",
+    "name": "Voltorb",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
+    "types": ["Lightning"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/38.png",
+      "large": "https://images.pokemontcg.io/sm9/38_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+          "low": 0.02,
+          "high": 1.03,
+          "market": 0.08
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 0.1,
+          "high": 0.3,
+          "market": 0.26
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-39",
+    "name": "Electrode",
+    "supertype": "Pokémon",
+    "subtypes": ["Stage 1"],
+    "types": ["Lightning"],
+    "abilities": [
+      {
+        "type": "Ability"
+      }
+    ],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Rare Holo",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/39.png",
+      "large": "https://images.pokemontcg.io/sm9/39_hires.png"
+    },
+    "prices": [
+      {
+        "reverseHolofoil":{
+          "low": 1.23,
+          "high": 2.30,
+          "market": 4
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-40",
+    "name": "Zapdos",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
+    "types": ["Lightning"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Rare Holo",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/40.png",
+      "large": "https://images.pokemontcg.io/sm9/40_hires.png"
+    },
+    "prices": [
+      {
+        "reverseHolofoil":{
+          "low": 3.4,
+          "high": 6,
+          "market": 4.01 
+        }
+      },
+      {
+        "holofoil":{
+          "low": 2.4,
+          "high": 6.74,
+          "market": 3.19
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-41",
+    "name": "Mareep",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
+    "types": ["Lightning"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/41.png",
+      "large": "https://images.pokemontcg.io/sm9/41_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+          "low": 0.09,
+          "high": 1.44,
+          "market": 0.18
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 0.15,
+          "high": 1.44,
+          "market": 0.18
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-42",
+    "name": "Flaaffy",
+    "supertype": "Pokémon",
+    "subtypes": ["Stage 1"],
+    "types": ["Lightning"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/42.png",
+      "large": "https://images.pokemontcg.io/sm9/42_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+          "low": 0.1,
+          "high": 1,
+          "market": 0.17 
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 0.18,
+          "high": 1.47,
+          "market": 0.36
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-43",
+    "name": "Ampharos-GX",
+    "supertype": "Pokémon",
+    "subtypes": ["Stage 2", "GX"],
+    "types": ["Lightning"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Rare Holo GX",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/43.png",
+      "large": "https://images.pokemontcg.io/sm9/43_hires.png"
+    },
+    
+    "prices": [
+      {
+        "holofoil":{
+          "low": 2,
+          "high": 4,
+          "market": 2.74
+        }
+      }
+    ]
+  },
+    
+  {
+    "id": "sm9-44",
+    "name": "Blitzle",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
+    "types": ["Lightning"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/44.png",
+      "large": "https://images.pokemontcg.io/sm9/44_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+          "low": 0.02,
+          "high": 1.32,
+          "market": 0.09
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 0.1,
+          "high": 1.4,
+          "market": 0.28
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-45",
+    "name": "Zebstrika",
+    "supertype": "Pokémon",
+    "subtypes": ["Stage 1"],
+    "types": ["Lightning"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Rare",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/45.png",
+      "large": "https://images.pokemontcg.io/sm9/45_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+          "low": 0.15,
+          "high": 1.54,
+          "market": 0.25
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 0.34,
+          "high": 1.5,
+          "market": 0.4
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-46",
+    "name": "Emolga",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
+    "types": ["Lightning"],
+    "abilities": [
+      {
+        "type": "Ability"
+      }
+    ],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/46.png",
+      "large": "https://images.pokemontcg.io/sm9/46_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+          "low": 0.04,
+          "high": 1,
+          "market": 0.15 
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 0.17,
+          "high": 1.77,
+          "market": 0.58
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-47",
+    "name": "Joltik",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
+    "types": ["Lightning"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/47.png",
+      "large": "https://images.pokemontcg.io/sm9/47_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+          "low": 0.05,
+          "high": 1.35,
+          "market": 0.22
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 0.24,
+          "high": 1.04,
+          "market": 0.46
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-48",
+    "name": "Galvantula",
+    "supertype": "Pokémon",
+    "subtypes": ["Stage 1"],
+    "types": ["Lightning"],
+    "abilities": [
+      {
+        "type": "Ability"
+      }
+    ],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Rare",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/48.png",
+      "large": "https://images.pokemontcg.io/sm9/48_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+          "low": 0.12,
+          "high": 2,
+          "market": 0.26 
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 0.19,
+          "high": 1.59,
+          "market": 0.36
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-49",
+    "name": "Helioptile",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
+    "types": ["Lightning"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/49.png",
+      "large": "https://images.pokemontcg.io/sm9/49_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+          "low": 0.03,
+          "high": 1,
+          "market": 0.21
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 0.15,
+          "high": 1,
+          "market": 0.21 
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-50",
+    "name": "Heliolisk",
+    "supertype": "Pokémon",
+    "subtypes": ["Stage 1"],
+    "types": ["Lightning"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/50.png",
+      "large": "https://images.pokemontcg.io/sm9/50_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+          "low": 0.06,
+          "high": 1,
+          "market": 0.12 
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 0.08,
+          "high": 1.5,
+          "market": 0.26
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-51",
+    "name": "Tapu Koko ◇",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic", "Prism Star"],
+    "types": ["Lightning"],
+    "abilities": [
+      {
+        "type": "Ability"
+      }
+    ],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Rare Prism Star",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/51.png",
+      "large": "https://images.pokemontcg.io/sm9/51_hires.png"
+    },
+    "prices": [
+      {
+        "holofoil":{
+          "low": 0.45,
+          "high": 89,
+          "market": 1.14
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-52",
+    "name": "Zeraora",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
+    "types": ["Lightning"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Rare Holo",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/52.png",
+      "large": "https://images.pokemontcg.io/sm9/52_hires.png"
+    },
+    "prices": [
+      {
+        "reverseHolofoil":{
+          "low": 0.55,
+          "high": 1.09,
+          "market": 0.91
+        }
+      },
+      {
+        "holofoil":{
+          "low": 0.5,
+          "high": 2.99,
+          "market": 0.93
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-53",
+    "name": "Gengar & Mimikyu-GX",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic", "TAG TEAM", "GX"],
+    "types": ["Psychic"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Rare Holo GX",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/53.png",
+      "large": "https://images.pokemontcg.io/sm9/53_hires.png"
+    },
+    "prices": [
+      {
+        "holofoil":{
+          "low": 90,
+          "high": 199.98,
+          "market": 122.5
+        }
+      }
+    ]
+  },
+    
+  {
+    "id": "sm9-54",
+    "name": "Nidoran ♀",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
+    "types": ["Psychic"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/54.png",
+      "large": "https://images.pokemontcg.io/sm9/54_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+          "low": 0.1,
+          "high": 1.49,
+          "market": 0.2
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 0.29,
+          "high": 1.25,
+          "market": 0.49
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-55",
+    "name": "Nidorina",
+    "supertype": "Pokémon",
+    "subtypes": ["Stage 1"],
+    "types": ["Psychic"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/55.png",
+      "large": "https://images.pokemontcg.io/sm9/55_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+          "low": 0.1,
+          "high": 1.12,
+          "market": 0.15
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 0.2,
+          "high": 1.04,
+          "market": 0.4
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-56",
+    "name": "Nidoqueen",
+    "supertype": "Pokémon",
+    "subtypes": ["Stage 2"],
+    "types": ["Psychic"],
+    "abilities": [
+      {
+        "type": "Ability"
+      }
+    ],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Rare",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/56.png",
+      "large": "https://images.pokemontcg.io/sm9/56_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+          "low": 0.2,
+          "high": 2.17,
+          "market": 0.54
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 0.75,
+          "high": 3.49,
+          "market": 1
+        }
+      }
+    ]
+  },
+
+  {
+    "id": "sm9-57",
+    "name": "Nidoran ♂",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
+    "types": ["Psychic"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/57.png",
+      "large": "https://images.pokemontcg.io/sm9/57_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+          "low": 0.07,
+          "high": 1.44,
+          "market": 0.16
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 0.23,
+          "high": 1.04,
+          "market": 0.34
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-58",
+    "name": "Nidorino",
+    "supertype": "Pokémon",
+    "subtypes": ["Stage 1"],
+    "types": ["Psychic"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/58.png",
+      "large": "https://images.pokemontcg.io/sm9/58_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+          "low": 0.99,
+          "high": 1.16,
+          "market": 0.15
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 0.25,
+          "high": 1.04,
+          "market": 0.34
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-59",
+    "name": "Nidoking",
+    "supertype": "Pokémon",
+    "subtypes": ["Stage 2"],
+    "types": ["Psychic"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Rare",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/59.png",
+      "large": "https://images.pokemontcg.io/sm9/59_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+          "low": 0.5,
+          "high": 89,
+          "market": 1.31
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 1,
+          "high": 3.95,
+          "market": 1.98
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-60",
+    "name": "Tentacool",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
+    "types": ["Psychic"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/60.png",
+      "large": "https://images.pokemontcg.io/sm9/60_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+          "low": 0.03,
+          "high": 1.5,
+          "market": 0.1
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 0.14,
+          "high": 0.99,
+          "market": 0.32
+        }
+      }
+    ]
+  },
+  
+  
+  {
+    "id": "sm9-61",
+    "name": "Tentacruel",
+    "supertype": "Pokémon",
+    "subtypes": ["Stage 1"],
+    "types": ["Psychic"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/61.png",
+      "large": "https://images.pokemontcg.io/sm9/61_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+          "low": 0.06,
+          "high": 1.27,
+          "market": 0.17
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 0.08,
+          "high": 1.42,
+          "market": 0.36
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-62",
+    "name": "Grimer",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
+    "types": ["Psychic"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/62.png",
+      "large": "https://images.pokemontcg.io/sm9/62_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+          "low": 0.02,
+          "high": 1.2,
+          "market": 0.12
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 0.14,
+          "high": 1,
+          "market": 0.26
+        }
+      }
+    ]
+  },
+
+  {
+    "id": "sm9-63",
+    "name": "Muk",
+    "supertype": "Pokémon",
+    "subtypes": ["Stage 1"],
+    "types": ["Psychic"],
+    "abilities": [
+      {
+        "type": "Ability"
+      }
+    ],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Rare",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/63.png",
+      "large": "https://images.pokemontcg.io/sm9/63_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+          "low": 0.15,
+          "high": 1.08,
+          "market": 0.27
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 0.44,
+          "high": 1.49,
+          "market": 0.78
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-64",
+    "name": "Alolan Marowak",
+    "supertype": "Pokémon",
+    "subtypes": ["Stage 1"],
+    "types": ["Psychic"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Rare",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/64.png",
+      "large": "https://images.pokemontcg.io/sm9/64_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+          "low": 0.3,
+          "high": 2.74,
+          "market": 0.56
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 0.66,
+          "high": 1.61,
+          "market": 1.25
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-65",
+    "name": "Starmie",
+    "supertype": "Pokémon",
+    "subtypes": ["Stage 1"],
+    "types": ["Psychic"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Rare",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/65.png",
+      "large": "https://images.pokemontcg.io/sm9/65_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+          "low": 0.14,
+          "high": 1.15,
+          "market": 0.33
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 0.35,
+          "high": 1.24,
+          "market": 0.39
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-66",
+    "name": "Mr. Mime",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
+    "types": ["Psychic"],
+    "abilities": [
+      {
+        "type": "Ability"
+      }
+    ],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Rare",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/66.png",
+      "large": "https://images.pokemontcg.io/sm9/66_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+          "low": 0.2,
+          "high": 1.41,
+          "market": 0.32
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 0.33,
+          "high": 1.41,
+          "market": 0.6
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-67",
+    "name": "Mr. Mime-GX",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic", "GX"],
+    "types": ["Psychic"],
+    "abilities": [
+      {
+        "type": "Ability"
+      }
+    ],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+      },
+    "rarity": "Rare Holo GX",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/67.png",
+      "large": "https://images.pokemontcg.io/sm9/67_hires.png"
+    },
+    "prices": [
+      {
+        "holofoil":{
+          "low": 1,
+          "high": 89,
+          "market": 1.96
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-68",
+    "name": "Jynx",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
+    "types": ["Psychic"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/68.png",
+      "large": "https://images.pokemontcg.io/sm9/68_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+          "low": 0.07,
+          "high": 0.23,
+          "market": 0.17
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 0.2,
+          "high": 1,
+          "market": 0.3
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-69",
+    "name": "Cosmog",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
+    "types": ["Psychic"],
+    "abilities": [
+      {
+        "type": "Ability"
+      }
+    ],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/69.png",
+      "large": "https://images.pokemontcg.io/sm9/69_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+          "low": 0.07,
+          "high": 1,
+          "market": 0.17 
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 0.18,
+          "high": 1.5,
+          "market": 0.61
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-70",
+    "name": "Cosmoem",
+    "supertype": "Pokémon",
+    "subtypes": ["Stage 1"],
+    "types": ["Psychic"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/70.png",
+      "large": "https://images.pokemontcg.io/sm9/70_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+          "low": 0.1,
+          "high": 1,
+          "market": 0.16
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 0.15,
+          "high": 1.44,
+          "market": 0.29
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-71",
+    "name": "Mankey",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
+    "types": ["Fighting"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/71.png",
+      "large": "https://images.pokemontcg.io/sm9/71_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+          "low": 0.03,
+          "high": 1.35,
+          "market": 0.11
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 0.15,
+          "high": 1.04,
+          "market": 0.24
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-72",
+    "name": "Primeape",
+    "supertype": "Pokémon",
+    "subtypes": ["Stage 1"],
+    "types": ["Fighting"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Rare",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/72.png",
+      "large": "https://images.pokemontcg.io/sm9/72_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+          "low": 0.15,
+          "high": 1.49,
+          "market": 0.31
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 0.4,
+          "high": 1.99,
+          "market": 0.63
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-73",
+    "name": "Hitmonlee",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
+    "types": ["Fighting"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/73.png",
+      "large": "https://images.pokemontcg.io/sm9/73_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+          "low": 0.22,
+          "high": 4.74,
+          "market": 0.34
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 0.26,
+          "high": 2.49,
+          "market": 0.69
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-74",
+    "name": "Hitmonchan",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
+    "types": ["Fighting"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/74.png",
+      "large": "https://images.pokemontcg.io/sm9/74_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+          "low": 0.2,
+          "high": 1.16,
+          "market": 0.33
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 0.57,
+          "high": 3,
+          "market": 0.63 
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-75",
+    "name": "Omanyte",
+    "supertype": "Pokémon",
+    "subtypes": ["Stage 1"],
+    "types": ["Fighting"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/75.png",
+      "large": "https://images.pokemontcg.io/sm9/75_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+          "low": 0.1,
+          "high": 1,
+          "market": 0.18
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 0.23,
+          "high": 0.99,
+          "market": 0.43
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-76",
+    "name": "Omastar",
+    "supertype": "Pokémon",
+    "subtypes": ["Stage 2"],
+    "types": ["Fighting"],
+    "abilities": [
+      {
+        "type": "Ability"
+      }
+    ],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Rare Holo",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/76.png",
+      "large": "https://images.pokemontcg.io/sm9/76_hires.png"
+    },
+    "prices": [
+      {
+        "reverseHolofoil":{
+          "low": 0.66,
+          "high": 2.13,
+          "market": 1.11
+        }
+      },
+      {
+        "holofoil":{
+          "low": 0.6,
+          "high": 3.48,
+          "market": 0.96
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-77",
+    "name": "Kabuto",
+    "supertype": "Pokémon",
+    "subtypes": ["Stage 1"],
+    "types": ["Fighting"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/77.png",
+      "large": "https://images.pokemontcg.io/sm9/77_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+          "low": 0.1,
+          "high": 1,
+          "market": 0.16 
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 0.24,
+          "high": 1.63,
+          "market": 0.36
+        }
+      }
+    ]
+  },
+
+  {
+    "id": "sm9-78",
+    "name": "Kabutops",
+    "supertype": "Pokémon",
+    "subtypes": ["Stage 2"],
+    "types": ["Fighting"],
+    "abilities": [
+      {
+        "type": "Ability"
+      }
+    ],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Rare",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/78.png",
+      "large": "https://images.pokemontcg.io/sm9/78_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+          "low": 0.44,
+          "high": 1.14,
+          "market": 0.7
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 0.63,
+          "high": 6.49,
+          "market": 1.24
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-79",
+    "name": "Larvitar",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
+    "types": ["Fighting"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/79.png",
+      "large": "https://images.pokemontcg.io/sm9/79_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+          "low": 0.03,
+          "high": 1,
+          "market": 0.15 
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 0.1,
+          "high": 1.24,
+          "market": 0.4 
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-80",
+    "name": "Pupitar",
+    "supertype": "Pokémon",
+    "subtypes": ["Stage 1"],
+    "types": ["Fighting"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/80.png",
+      "large": "https://images.pokemontcg.io/sm9/80_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+          "low": 0.05,
+          "high": 1.27,
+          "market": 0.13
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 0.1,
+          "high": 0.94,
+          "market": 0.24
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-81",
+    "name": "Pancham",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
+    "types": ["Fighting"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/81.png",
+      "large": "https://images.pokemontcg.io/sm9/81_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+          "low": 0.05,
+          "high": 1.27,
+          "market": 0.21
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 0.18,
+          "high": 1.04,
+          "market": 0.39
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-82",
+    "name": "Lycanroc-GX",
+    "supertype": "Pokémon",
+    "subtypes": ["Stage 1", "GX"],
+    "types": ["Fighting"],
+    "abilities": [
+      {
+        "type": "Ability"
+      }
+    ],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Rare Holo GX",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/82.png",
+      "large": "https://images.pokemontcg.io/sm9/82_hires.png"
+    },
+    "prices": [
+      {
+        "holofoil":{
+          "low": 1,
+          "high": 89,
+          "market": 1.66
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-83",
+    "name": "Alolan Grimer",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
+    "types": ["Darkness"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/83.png",
+      "large": "https://images.pokemontcg.io/sm9/83_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+          "low": 0.03,
+          "high": 1.99,
+          "market": 0.12
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 0.09,
+          "high": 1,
+          "market": 0.33 
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-84",
+    "name": "Alolan Muk",
+    "supertype": "Pokémon",
+    "subtypes": ["Stage 1"],
+    "types": ["Darkness"],
+    "abilities": [
+      {
+        "type": "Ability"
+      }
+    ],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Rare",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/84.png",
+      "large": "https://images.pokemontcg.io/sm9/84_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+          "low": 0.23,
+          "high": 1.95,
+          "market": 0.48
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 0.39,
+          "high": 1.09,
+          "market": 0.69
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-85",
+    "name": "Tyranitar",
+    "supertype": "Pokémon",
+    "subtypes": ["Stage 2"],
+    "types": ["Darkness"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Rare Holo",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/85.png",
+      "large": "https://images.pokemontcg.io/sm9/85_hires.png"
+    },
+    "prices": [
+      {
+        "reverseHolofoil":{
+          "low": 1.01,
+          "high": 1.46,
+          "market": 1.48
+        }
+      },
+      {
+        "holofoil":{
+          "low": 0.8,
+          "high": 3.5,
+          "market": 1.04
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-86",
+    "name": "Poochyena",
+    "supertype": "Pokémon",
+    "subtypes": ["Stage 1"],
+    "types": ["Darkness"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/86.png",
+      "large": "https://images.pokemontcg.io/sm9/86_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+          "low": 0.05,
+          "high": 1,
+          "market": 0.13
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 0.15,
+          "high": 1.49,
+          "market": 0.36
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-87",
+    "name": "Mightyena",
+    "supertype": "Pokémon",
+    "subtypes": ["Stage 1"],
+    "types": ["Darkness"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Rare",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/87.png",
+      "large": "https://images.pokemontcg.io/sm9/87_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+          "low": 0.14,
+          "high": 1.49,
+          "market": 0.31
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 0.49,
+          "high": 1.25,
+          "market": 0.75
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-88",
+    "name": "Absol",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
+    "types": ["Darkness"],
+    "abilities": [
+      {
+        "type": "Ability"
+      }
+    ],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Rare Holo",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/88.png",
+      "large": "https://images.pokemontcg.io/sm9/88_hires.png"
+    },
+    "prices": [
+      {
+        "reverseHolofoil":{
+          "low": 0.89,
+          "high": 9.99,
+          "market": 1.03
+        }
+      },
+      {
+        "holofoil":{
+          "low": 0.73,
+          "high": 6.99,
+          "market": 1.98
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-89",
+    "name": "Spiritomb",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
+    "types": ["Darkness"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/89.png",
+      "large": "https://images.pokemontcg.io/sm9/89_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+          "low": 0.03,
+          "high": 1.37,
+          "market": 0.19
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 0.16,
+          "high": 2.49,
+          "market": 0.31
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-90",
+    "name": "Zorua",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
+    "types": ["Darkness"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/90.png",
+      "large": "https://images.pokemontcg.io/sm9/90_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+          "low": 0.01,
+          "high": 1.19,
+          "market": 0.13
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 0.81,
+          "high": 1,
+          "market": 0.36 
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-91",
+    "name": "Zoroark",
+    "supertype": "Pokémon",
+    "subtypes": ["Stage 1"],
+    "types": ["Darkness"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Rare Holo",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/91.png",
+      "large": "https://images.pokemontcg.io/sm9/91_hires.png"
+    },
+    "prices": [
+      {
+        "reverseHolofoil":{
+          "low": 0.21,
+          "high": 1.25,
+          "market": 0.83
+        }
+      },
+      {
+        "holofoil":{
+          "low": 0.21,
+          "high": 1.25,
+          "market": 0.83
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-92",
+    "name": "Vullaby",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
+    "types": ["Darkness"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/92.png",
+      "large": "https://images.pokemontcg.io/sm9/92_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+          "low": 0.03,
+          "high": 1.2,
+          "market": 0.08
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 0.12,
+          "high": 1.31,
+          "market": 0.25
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-93",
+    "name": "Mandibuzz",
+    "supertype": "Pokémon",
+    "subtypes": ["Stage 1"],
+    "types": ["Darkness"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Rare",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/93.png",
+      "large": "https://images.pokemontcg.io/sm9/93_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+          "low": 0.1,
+          "high": 1.35,
+          "market": 0.19
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 0.26,
+          "high": 1.5,
+          "market": 0.29
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-94",
+    "name": "Pangoro",
+    "supertype": "Pokémon",
+    "subtypes": ["Stage 1"],
+    "types": ["Darkness"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Rare",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/94.png",
+      "large": "https://images.pokemontcg.io/sm9/94_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+          "low": 0.15,
+          "high": 1.17,
+          "market": 0.32
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 0.19,
+          "high": 1.25,
+          "market": 0.66
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-95",
+    "name": "Yveltal",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
+    "types": ["Darkness"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Rare Holo",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/95.png",
+      "large": "https://images.pokemontcg.io/sm9/95_hires.png"
+    },
+    "prices": [
+      {
+        "reverseHolofoil":{
+          "low": 1.15,
+          "high": 5.5,
+          "market": 1.5
+        }
+      },
+      {
+        "holofoil":{
+          "low": 0.99,
+          "high": 14.69,
+          "market": 1.26
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-96",
+    "name": "Hoopa-GX",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic", "GX"],
+    "types": ["Darkness"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Rare Holo GX",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/96.png",
+      "large": "https://images.pokemontcg.io/sm9/96_hires.png"
+    },
+    
+    "prices": [
+      {
+        "holofoil":{
+          "low": 1.5,
+          "high": 89,
+          "market": 2.24
+        }
+      }
+    ]
+  },
+    
+  {
+    "id": "sm9-97",
+    "name": "Incineroar-GX",
+    "supertype": "Pokémon",
+    "subtypes": ["Stage 2", "GX"],
+    "types": ["Darkness"],
+    "abilities": [
+      {
+        "type": "Ability"
+      }
+    ],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Rare Holo GX",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/97.png",
+      "large": "https://images.pokemontcg.io/sm9/97_hires.png"
+    },
+    "prices": [
+      {
+        "holofoil":{
+          "low": 1.25,
+          "high": 7.99,
+          "market": 2.2
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-98",
+    "name": "Skarmory",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
+    "types": ["Metal"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Rare",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/98.png",
+      "large": "https://images.pokemontcg.io/sm9/98_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+          "low": 0.14,
+          "high": 1,
+          "market": 0.3 
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 0.25,
+          "high": 1.29,
+          "market": 0.59
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-99",
+    "name": "Jirachi",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
+    "types": ["Metal"],
+    "abilities": [
+      {
+        "type": "Ability"
+      }
+    ],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Rare Holo",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/99.png",
+      "large": "https://images.pokemontcg.io/sm9/99_hires.png"
+    },
+    "prices": [
+      {
+        "reverseHolofoil":{
+          "low": 3.27,
+          "high": 8.99,
+          "market": 5.13
+        }
+      },
+      {
+        "holofoil":{
+          "low": 4,
+          "high": 7.99,
+          "market": 5.53
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-100",
+    "name": "Bronzor",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
+    "types": ["Metal"],
+    "abilities": [
+      {
+        "type": "Ability"
+      }
+    ],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/100.png",
+      "large": "https://images.pokemontcg.io/sm9/100_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+          "low": 0.05,
+          "high": 2.75,
+          "market": 0.22
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 0.25,
+          "high": 2,
+          "market": 1.02 
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-101",
+    "name": "Bronzong",
+    "supertype": "Pokémon",
+    "subtypes": ["Stage 1"],
+    "types": ["Metal"],
+    "abilities": [
+      {
+        "type": "Ability"
+      }
+    ],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Rare",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/101.png",
+      "large": "https://images.pokemontcg.io/sm9/101_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+          "low": 0.14,
+          "high": 1.31,
+          "market": 0.24
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 0.16,
+          "high": 2.49,
+          "market": 0.5
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-102",
+    "name": "Ferroseed",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
+    "types": ["Metal"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/102.png",
+      "large": "https://images.pokemontcg.io/sm9/102_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+          "low": 0.03,
+          "high": 2.54,
+          "market": 0.08
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 0.1,
+          "high": 0.99,
+          "market": 0.2
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-103",
+    "name": "Ferrothorn",
+    "supertype": "Pokémon",
+    "subtypes": ["Stage 1"],
+    "types": ["Metal"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Rare",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/103.png",
+      "large": "https://images.pokemontcg.io/sm9/103_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+          "low": 0.1,
+          "high": 1,
+          "market": 0.2 
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 0.13,
+          "high": 1.47,
+          "market": 0.32
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-104",
+    "name": "Pawniard",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
+    "types": ["Metal"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/104.png",
+      "large": "https://images.pokemontcg.io/sm9/104_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+          "low": 0.02,
+          "high": 1.07,
+          "market": 0.09
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 0.19,
+          "high": 1.37,
+          "market": 0.29
+        }
+      }
+    ]
+  },
+
+  {
+    "id": "sm9-105",
+    "name": "Bisharp",
+    "supertype": "Pokémon",
+    "subtypes": ["Stage 1"],
+    "types": ["Metal"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Rare",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/105.png",
+      "large": "https://images.pokemontcg.io/sm9/105_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+          "low": 0.15,
+          "high": 1,
+          "market": 0.26
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 0.29,
+          "high": 1.25,
+          "market": 0.53
+        }
+      }
+    ]
+  },
+
+  {
+    "id": "sm9-106",
+    "name": "Cobalion-GX",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic", "GX"],
+    "types": ["Metal"],
+    "abilities": [
+      {
+        "type": "Ability"
+      }
+    ],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Rare Holo GX",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/106.png",
+      "large": "https://images.pokemontcg.io/sm9/106_hires.png"
+    },
+    "prices": [
+      {
+        "holofoil":{
+          "low": 1,
+          "high": 5.4,
+          "market": 2.66
+        }
+      }
+    ]
+  },
+    
+  {
+    "id": "sm9-107",
+    "name": "Honedge",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
+    "types": ["Metal"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/107.png",
+      "large": "https://images.pokemontcg.io/sm9/107_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+          "low": 0.03,
+          "high": 1.22,
+          "market": 0.12
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 0.19,
+          "high": 1.37,
+          "market": 0.29
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-108",
+    "name": "Doublade",
+    "supertype": "Pokémon",
+    "subtypes": ["Stage 1"],
+    "types": ["Metal"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/108.png",
+      "large": "https://images.pokemontcg.io/sm9/108_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+          "low": 0.05,
+          "high": 1.4,
+          "market": 0.15
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 0.19,
+          "high": 1,
+          "market": 0.3 
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-109",
+    "name": "Aegislash",
+    "supertype": "Pokémon",
+    "subtypes": ["Stage 2"],
+    "types": ["Metal"],
+    "abilities": [
+      {
+        "type": "Ability"
+      }
+    ],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Rare Holo",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/109.png",
+      "large": "https://images.pokemontcg.io/sm9/109_hires.png"
+    },
+    "prices": [
+      {
+        "reverseHolofoil":{
+          "low": 0.23,
+          "high": 1.5,
+          "market": 0.56
+        }
+      },
+      {
+        "holofoil":{
+          "low": 0.25,
+          "high": 2,
+          "market": 0.43 
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-110",
+    "name": "Klefki",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
+    "types": ["Metal"],
+    "abilities": [
+      {
+        "type": "Ability"
+      }
+    ],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/110.png",
+      "large": "https://images.pokemontcg.io/sm9/110_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+          "low": 0.02,
+          "high": 1.5,
+          "market": 0.1
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 0.14,
+          "high": 1,
+          "market": 0.29
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-111",
+    "name": "Alolan Ninetales",
+    "supertype": "Pokémon",
+    "subtypes": ["Stage 1"],
+    "types": ["Fairy"],
+    "abilities": [
+      {
+        "type": "Ability"
+      }
+    ],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Rare Holo",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/111.png",
+      "large": "https://images.pokemontcg.io/sm9/111_hires.png"
+    },
+    "prices": [
+      {
+        "reverseHolofoil":{
+          "low": 4.25,
+          "high": 5,
+          "market": 3.03
+        }
+      },
+      {
+        "holofoil":{
+          "low": 2.65,
+          "high": 5,
+          "market": 2.68
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-112",
+    "name": "Mimikyu",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
+    "types": ["Fairy"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Rare",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/112.png",
+      "large": "https://images.pokemontcg.io/sm9/112_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+          "low": 4.49,
+          "high": 6.46,
+          "market": 3.94
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 6.99,
+          "high": 7.04,
+          "market": 5.55
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-113",
+    "name": "Latias & Latios-GX",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic", "TAG TEAM", "GX"],
+    "types": ["Dragon"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Rare Holo GX",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/113.png",
+      "large": "https://images.pokemontcg.io/sm9/113_hires.png"
+    },
+    "prices": [
+      {
+        "holofoil":{
+          "low": 35.01,
+          "high": 10000,
+          "market": 46.81
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-114",
+    "name": "Alolan Exeggutor",
+    "supertype": "Pokémon",
+    "subtypes": ["Stage 1"],
+    "types": ["Dragon"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Rare",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/114.png",
+      "large": "https://images.pokemontcg.io/sm9/114_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+          "low": 0.08,
+          "high": 1.08,
+          "market": 0.3
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 0.12,
+          "high": 1.09,
+          "market": 0.38
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-115",
+    "name": "Alolan Exeggutor",
+    "supertype": "Pokémon",
+    "subtypes": ["Stage 1"],
+    "types": ["Dragon"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Rare",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/115.png",
+      "large": "https://images.pokemontcg.io/sm9/115_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+          "low": 0.2,
+          "high": 2,
+          "market": 0.36
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 0.21,
+          "high": 1.49,
+          "market": 0.46
+        }
+      }
+    ]
+  },
+    
+  {
+    "id": "sm9-116",
+    "name": "Dratini",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
+    "types": ["Dragon"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/116.png",
+      "large": "https://images.pokemontcg.io/sm9/116_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+          "low": 0.2,
+          "high": 2.6,
+          "market": 0.5
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 0.04,
+          "high": 1.42,
+          "market": 0.2
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-117",
+    "name": "Dratini",
+    "supertype": "Pokémon",
+    "subtypes": ["Stage 1"],
+    "types": ["Dragon"],
+    "abilities": [
+      {
+        "type": "Ability"
+      }
+    ],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/117.png",
+      "large": "https://images.pokemontcg.io/sm9/117_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+          "low": 0.09,
+          "high": 1.44,
+          "market": 0.16
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 0.1,
+          "high": 1.04,
+          "market": 0.54
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-118",
+    "name": "Dragonair",
+    "supertype": "Pokémon",
+    "subtypes": ["Stage 2"],
+    "types": ["Dragon"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/118.png",
+      "large": "https://images.pokemontcg.io/sm9/118_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+          "low": 0.08,
+          "high": 1.42,
+          "market": 0.28
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 0.47,
+          "high": 1,
+          "market": 0.58
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-119",
+    "name": "Dragonite",
+    "supertype": "Pokémon",
+    "subtypes": ["Stage 2"],
+    "types": ["Dragon"],
+    "abilities": [
+      {
+        "type": "Ability"
+      }
+    ],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Rare Holo",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/119.png",
+      "large": "https://images.pokemontcg.io/sm9/119_hires.png"
+    },
+    "prices": [
+      {
+        "reverseHolofoil":{
+          "low": 2.99,
+          "high": 4.08,
+          "market": 3.55
+        }
+      },
+      {
+        "holofoil":{
+          "low": 0.95,
+          "high": 3.99,
+          "market": 1.13
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-120",
+    "name": "Eevee & Snorlax-GX",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic", "TAG TEAM", "GX"],
+    "types": ["Colorless"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Rare Holo GX",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/120.png",
+      "large": "https://images.pokemontcg.io/sm9/120_hires.png"
+    },
+    
+    "prices": [
+      {
+        "holofoil":{
+          "low": 33.44,
+          "high": 99.69,
+          "market": 42.93
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-121",
+    "name": "Pidgey",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
+    "types": ["Colorless"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/121.png",
+      "large": "https://images.pokemontcg.io/sm9/121_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+          "low": 0.05,
+          "high": 1.2,
+          "market": 0.16
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 0.32,
+          "high": 1,
+          "market": 0.41
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-122",
+    "name": "Pidgey",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
+    "types": ["Colorless"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/122.png",
+      "large": "https://images.pokemontcg.io/sm9/122_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+          "low": 0.08,
+          "high": 0.99,
+          "market": 0.24
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 0.25,
+          "high": 1.47,
+          "market": 0.41
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-123",
+    "name": "Pidgeotto",
+    "supertype": "Pokémon",
+    "subtypes": ["Stage 1"],
+    "types": ["Colorless"],
+    "abilities": [
+      {
+        "type": "Ability"
+      }
+    ],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/123.png",
+      "large": "https://images.pokemontcg.io/sm9/123_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+          "low": 0.18,
+          "high": 89,
+          "market": 0.33
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 0.67,
+          "high": 2.5,
+          "market": 1.01
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-124",
+    "name": "Pidgeot",
+    "supertype": "Pokémon",
+    "subtypes": ["Stage 2"],
+    "types": ["Colorless"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Rare",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/124.png",
+      "large": "https://images.pokemontcg.io/sm9/124_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+          "low": 0.2,
+          "high": 89,
+          "market": 0.53
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 0.25,
+          "high": 3,
+          "market": 0.62
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-125",
+    "name": "Meowth",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
+    "types": ["Colorless"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Common",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/125.png",
+      "large": "https://images.pokemontcg.io/sm9/125_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+          "low": 0.18,
+          "high": 1.04,
+          "market": 0.39
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 0.04,
+          "high": 1.22,
+          "market": 0.17
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-126",
+    "name": "Persian",
+    "supertype": "Pokémon",
+    "subtypes": ["Stage 1"],
+    "types": ["Colorless"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/126.png",
+      "large": "https://images.pokemontcg.io/sm9/126_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+          "low": 0.04,
+          "high": 1.4,
+          "market": 0.17
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 0.15,
+          "high": 2,
+          "market": 0.34
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-127",
+    "name": "Farfetch'd",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
+    "types": ["Colorless"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/127.png",
+      "large": "https://images.pokemontcg.io/sm9/127_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+          "low": 0.1,
+          "high": 1.68,
+          "market": 0.18
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 0.1,
+          "high": 1.68,
+          "market": 0.18
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-128",
+    "name": "Kangaskhan",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
+    "types": ["Colorless"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/128.png",
+      "large": "https://images.pokemontcg.io/sm9/128_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+          "low": 0.1,
+          "high": 1,
+          "market": 0.16
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 0.19,
+          "high": 1.04,
+          "market": 0.38
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-129",
+    "name": "Tauros",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
+    "types": ["Colorless"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/129.png",
+      "large": "https://images.pokemontcg.io/sm9/129_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+          "low": 0.05,
+          "high": 1.22,
+          "market": 0.15
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 0.15,
+          "high": 1,
+          "market": 0.3
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-130",
+    "name": "Aerodactyl",
+    "supertype": "Pokémon",
+    "subtypes": ["Stage 1"],
+    "types": ["Colorless"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Rare",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/130.png",
+      "large": "https://images.pokemontcg.io/sm9/130_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+          "low": 0.58,
+          "high": 89,
+          "market": 0.96
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 0.72,
+          "high": 4.24,
+          "market": 1.44
+        }
+      }
+    ]
+  },
+    
+  {
+    "id": "sm9-131",
+    "name": "Lugia",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
+    "types": ["Colorless"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Rare Holo",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/131.png",
+      "large": "https://images.pokemontcg.io/sm9/131_hires.png"
+    },
+    "prices": [
+      {
+        "reverseHolofoil":{
+          "low": 4,
+          "high": 9.72,
+          "market": 4.64
+        }
+      },
+      {
+        "holofoil":{
+          "low": 3.15,
+          "high": 9.99,
+          "market": 6.43
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-132",
+    "name": "Zangoose",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
+    "types": ["Colorless"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Rare Holo",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/132.png",
+      "large": "https://images.pokemontcg.io/sm9/132_hires.png"
+    },
+    "prices": [
+      {
+        "reverseHolofoil":{
+          "low": 0.35,
+          "high": 1.5,
+          "market": 0.49
+        }
+      },
+      {
+        "holofoil":{
+          "low": 0.31,
+          "high": 1.22,
+          "market": 0.54
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-133",
+    "name": "Bill's Analysis",
+    "supertype": "Trainer",
+    "subtypes": ["Supporter"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Rare Holo",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/133.png",
+      "large": "https://images.pokemontcg.io/sm9/133_hires.png"
+    },
+    "prices": [
+      {
+        "reverseHolofoil":{
+          "low": 0.32,
+          "high": 3.47,
+          "market": 0.51
+        }
+      },
+      {
+        "holofoil":{
+          "low": 0.25,
+          "high": 1.73,
+          "market": 0.36
+        }
+      }
+    ]
+  },
+
+  {
+    "id": "sm9-134",
+    "name": "Black Market ◇",
+    "supertype": "Trainer",
+    "subtypes": ["Stadium", "Prism Star"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Rare Prism Star",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/134.png",
+      "large": "https://images.pokemontcg.io/sm9/134_hires.png"
+    },
+    "prices": [
+        {
+        "holofoil":{
+          "low": 1,
+          "high": 89,
+          "market": 2.62
+          }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-135",
+    "name": "Brock's Grit",
+    "supertype": "Trainer",
+    "subtypes": ["Supporter"],
+    "set": {
+        "id": "sm9",
+        "name": "Team Up",
+        "series": "Sun & Moon"
+    },
+    "rarity": "Uncommon",
+    "images": {
+        "small": "https://images.pokemontcg.io/sm9/135.png",
+        "large": "https://images.pokemontcg.io/sm9/135_hires.png"
+    },
+    "prices": [
+        {
+            "normal":{
+                "low": 0.13,
+                "high": 1,
+                "market": 0.19
+            }
+        },
+        {
+            "reverseHolofoil":{
+                "low": 0.2,
+                "high": 8.32,
+                "market": 0.32
+            }
+        }
+    ] 
+  },
+
+  {
+    "id": "sm9-136",
+    "name": "Buff Padding",
+    "supertype": "Trainer",
+    "subtypes": ["Pokémon Tool"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/136.png",
+      "large": "https://images.pokemontcg.io/sm9/136_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+          "low": 0.08,
+          "high": 1.44,
+          "market": 0.15
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 0.14,
+          "high": 1.54,
+          "market": 0.34
+        }
+      }
+    ]
+  },
+
+  {
+    "id": "sm9-137",
+    "name": "Dana",
+    "supertype": "Trainer",
+    "subtypes": ["Supporter"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/137.png",
+      "large": "https://images.pokemontcg.io/sm9/137_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+          "low": 0.06,
+          "high": 1.44,
+          "market": 0.14
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 0.15,
+          "high": 1.41,
+          "market": 0.29
+        }
+      }
+    ]
+  },
+
+  {
+    "id": "sm9-138",
+    "name": "Dangerous Drill",
+    "supertype": "Trainer",
+    "subtypes": ["Item"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"  
+    },  
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/138.png",
+      "large": "https://images.pokemontcg.io/sm9/138_hires.png"
+    },  
+    "prices": [  
+      {
+        "normal":{
+          "low": 0.05,
+          "high": 1.39,
+          "market": 0.15
+        }  
+      },  
+      {
+        "reverseHolofoil":{
+          "low": 0.16,
+          "high": 2,
+          "market": 0.42
+        }  
+      }  
+    ]
+  },  
+
+  {
+    "id": "sm9-139",
+    "name": "Electrocharger",
+    "supertype": "Trainer",
+    "subtypes": ["Item"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/139.png",
+      "large": "https://images.pokemontcg.io/sm9/139_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+          "low": 0.05,
+          "high": 1.39,
+          "market": 0.09
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 0.15,
+          "high": 0.99,
+          "market": 0.24
+        }
+      }
+    ]
+  },
+
+  {
+    "id": "sm9-140",
+    "name": "Erika's Hospitality",
+    "supertype": "Trainer",
+    "subtypes": ["Supporter"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Rare Holo",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/140.png",
+      "large": "https://images.pokemontcg.io/sm9/140_hires.png"
+    },
+    "prices": [
+      {
+        "reverseHolofoil":{
+          "low": 0.47,
+          "high": 1.5,
+          "market": 0.87
+        }
+      },
+      {
+        "holofoil":{
+          "low": 0.25,
+          "high": 4.5,
+          "market": 0.51
+        }
+      }
+    ]
+  },
+
+  {
+    "id": "sm9-141",
+    "name": "Evelyn",
+    "supertype": "Trainer",
+    "subtypes": ["Supporter"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"    
+    },    
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/141.png",
+      "large": "https://images.pokemontcg.io/sm9/141_hires.png"
+    },    
+    "prices": [    
+      {
+          "normal":{
+          "low": 0.04,
+          "high": 1,
+          "market": 0.13
+          }    
+      },    
+      {
+          "reverseHolofoil":{
+          "low": 0.15,
+          "high": 1.47,
+          "market": 0.28
+          }    
+      }    
+    ]
+  },    
+
+  {
+    "id": "sm9-142",
+    "name": "Fairy Charm UB",
+    "supertype": "Trainer",
+    "subtypes": ["Pokémon Tool"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"  
+    },
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/142.png",
+      "large": "https://images.pokemontcg.io/sm9/142_hires.png"
+    },
+    "prices": [
+      {
+          "normal":{
+          "low": 0.03,
+          "high": 1.37,
+          "market": 0.12
+          }
+      },
+      {
+          "reverseHolofoil":{
+          "low": 0.08,
+          "high": 1.38,
+          "market": 0.27
+          }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-143",
+    "name": "Grass Memory",
+    "supertype": "Trainer",
+    "subtypes": ["Pokémon Tool"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/143.png",
+      "large": "https://images.pokemontcg.io/sm9/143_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+          "low": 0.04,
+          "high": 1.39,
+          "market": 0.1
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 0.11,
+          "high": 1.42,
+          "market": 0.19
+        }
+      }
+    ]
+  },
+
+  {
+    "id": "sm9-144",
+    "name": "Ingo & Emmet",
+    "supertype": "Trainer",
+    "subtypes": ["Supporter"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"  
+    },  
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/144.png",
+      "large": "https://images.pokemontcg.io/sm9/144_hires.png"
+    },  
+    "prices": [  
+      {
+        "normal":{
+        "low": 0.06,
+        "high": 8.13,
+        "market": 0.14
+        }  
+      },  
+      {
+        "reverseHolofoil":{
+        "low": 0.19,
+        "high": 1,
+        "market": 0.33
+        }  
+      }  
+    ]
+  },  
+  
+  {
+    "id": "sm9-145",
+    "name": "Jasmine",
+    "supertype": "Trainer",
+    "subtypes": ["Supporter"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"  
+    },  
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/145.png",
+      "large": "https://images.pokemontcg.io/sm9/145_hires.png"
+    },  
+    "prices": [  
+      {
+        "normal":{
+        "low": 0.19,
+        "high": 1.53,
+        "market": 0.3
+        }  
+      },  
+      {
+        "reverseHolofoil":{
+        "low": 0.24,
+        "high": 2,
+        "market": 0.42
+        }  
+      }  
+    ]
+  },  
+  
+  {
+    "id": "sm9-146",
+    "name": "Judge Whistle",
+    "supertype": "Trainer",
+    "subtypes": ["Item"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"  
+    },  
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/146.png",
+      "large": "https://images.pokemontcg.io/sm9/146_hires.png"
+    },  
+    "prices": [  
+      {
+        "normal":{
+        "low": 0.05,
+        "high": 1.4,
+        "market": 0.15
+        }  
+      },  
+      {
+        "reverseHolofoil":{
+        "low": 0.13,
+        "high": 1,
+        "market": 0.25
+        }  
+      }  
+    ]
+  },  
+  
+  {
+    "id": "sm9-147",
+    "name": "Lavender Town",
+    "supertype": "Trainer",
+    "subtypes": ["Stadium"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"    
+    },    
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/147.png",
+      "large": "https://images.pokemontcg.io/sm9/147_hires.png"
+    },    
+    "prices": [    
+      {
+        "normal":{
+          "low": 0.05,
+          "high": 1.39,
+          "market": 0.13
+        }    
+      },    
+      {
+        "reverseHolofoil":{
+          "low": 0.1,
+          "high": 1,
+          "market": 0.3 
+        }    
+      }    
+    ]
+  },
+
+  {
+    "id": "sm9-148",
+    "name": "Metal Goggles",
+    "supertype": "Trainer",
+    "subtypes": ["Pokémon Tool"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/148.png",
+      "large": "https://images.pokemontcg.io/sm9/148_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+        "low": 0.25,
+        "high": 2.07,
+        "market": 0.39
+        }
+      },
+      {
+        "reverseHolofoil":{
+        "low": 0.31,
+        "high": 9.2,
+        "market": 0.55
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-149",
+    "name": "Morgan",
+    "supertype": "Trainer",
+    "subtypes": ["Supporter"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/149.png",
+      "large": "https://images.pokemontcg.io/sm9/149_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+        "low": 0.07,
+        "high": 1.56,
+        "market": 0.13
+        }
+      },
+      {
+        "reverseHolofoil":{
+        "low": 0.15,
+        "high": 1,
+        "market": 0.38
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-150",
+    "name": "Nanu",
+    "supertype": "Trainer",
+    "subtypes": ["Supporter"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/150.png",
+      "large": "https://images.pokemontcg.io/sm9/150_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+        "low": 0.05,
+        "high": 11,
+        "market": 0.17
+        }
+      },
+      {
+        "reverseHolofoil":{
+        "low": 0.18,
+        "high": 1.04,
+        "market": 0.28
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-151",
+    "name": "Nita",
+    "supertype": "Trainer",
+    "subtypes": ["Supporter"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/151.png",
+      "large": "https://images.pokemontcg.io/sm9/151_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+        "low": 0.06,
+        "high": 1.42,
+        "market": 0.13
+        }
+      },
+      {
+        "reverseHolofoil":{
+        "low": 0.19,
+        "high": 1,
+        "market": 0.29 
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-152",
+    "name": "Pokémon Communication",
+    "supertype": "Trainer",
+    "subtypes": ["Item"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/152.png",
+      "large": "https://images.pokemontcg.io/sm9/152_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+        "low": 0.09,
+        "high": 2.95,
+        "market": 0.21
+        }
+      },
+      {
+        "reverseHolofoil":{
+        "low": 0.2,
+        "high": 7.87,
+        "market": 0.6
+        }
+      }
+    ]
+  },
+
+  {
+    "id": "sm9-153",
+    "name": "Return Label",
+    "supertype": "Trainer",
+    "subtypes": ["Item"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"  
+    },  
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/153.png",
+      "large": "https://images.pokemontcg.io/sm9/153_hires.png"
+    },  
+    "prices": [  
+      {
+        "normal":{
+          "low": 0.03,
+          "high": 1.37,
+          "market": 0.08
+        }  
+      },  
+      {
+        "reverseHolofoil":{
+          "low": 0.09,
+          "high": 1,
+          "market": 0.26
+        }  
+      }  
+    ]
+  },  
+
+  {
+    "id": "sm9-154",
+    "name": "Sabrina's Suggestion",
+    "supertype": "Trainer",
+    "subtypes": ["Supporter"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/154.png",
+      "large": "https://images.pokemontcg.io/sm9/154_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+          "low": 0.07,
+          "high": 1.4,
+          "market": 0.14
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 0.12,
+          "high": 1.04,
+          "market": 0.38
+        }
+      }
+    ]
+  },
+
+  {
+    "id": "sm9-155",
+    "name": "Unidentified Fossil",
+    "supertype": "Trainer",
+    "subtypes": ["Item"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/155.png",
+      "large": "https://images.pokemontcg.io/sm9/155_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+        "low": 0.04,
+        "high": 1.39,
+        "market": 0.11
+        }
+      },
+      {
+        "reverseHolofoil":{
+        "low": 0.14,
+        "high": 1.34,
+        "market": 0.28
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-156",
+    "name": "Viridian Forest",
+    "supertype": "Trainer",
+    "subtypes": ["Stadium"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/156.png",
+      "large": "https://images.pokemontcg.io/sm9/156_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+        "low": 0.15,
+        "high": 1.54,
+        "market": 0.26
+        }
+      },
+      {
+        "reverseHolofoil":{
+        "low": 0.36,
+        "high": 1.66,
+        "market": 0.49
+        }
+      }
+    ]
+  },
+
+  {
+    "id": "sm9-157",
+    "name": "Water Memory",
+    "supertype": "Trainer",
+    "subtypes": ["Pokémon Tool"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Uncommon",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/157.png",
+      "large": "https://images.pokemontcg.io/sm9/157_hires.png"
+    },
+    "prices": [
+      {
+        "normal":{
+        "low": 0.02,
+        "high": 1.39,
+        "market": 0.1
+        }
+      },
+      {
+        "reverseHolofoil":{
+        "low": 0.12,
+        "high": 2,
+        "market": 0.2
+        }
+      }
+    ]
+  },
+
+  {
+    "id": "sm9-158",
+    "name": "Wondrous Labyrinth ◇",
+    "supertype": "Trainer",
+    "subtypes": ["Stadium", "Prism Star"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Rare Prism Star",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/158.png",
+      "large": "https://images.pokemontcg.io/sm9/158_hires.png"
+    },
+    "prices": [
+      {
+        "holofoil":{
+        "low": 0.4,
+        "high": 8.72,
+        "market": 0.71
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-159",
+    "name": "Celebi & Venusaur-GX",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic","TAG TEAM", "GX"],
+    "types": ["Grass"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Rare Ultra",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/159.png",
+      "large": "https://images.pokemontcg.io/sm9/159_hires.png"
+    },
+    "prices": [
+      {
+        "Holofoil":{
+          "low": 20.39,
+          "high": 42.69,
+          "market": 20.92
+        }
+      }
+    ]
+  },
+    
+  {
+    "id": "sm9-160",
+    "name": "Magikarp & Wailord-GX",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic", "TAG TEAM", "GX"],
+    "types": ["Water"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Rare Ultra",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/160.png",
+      "large": "https://images.pokemontcg.io/sm9/160_hires.png"
+    },
+    "prices": [
+      {
+        "Holofoil":{
+          "low": 39,
+          "high": 139,
+          "market": 52.44
+        }
+      }
+    ]
+  },
+    
+  {
+    "id": "sm9-161",
+    "name": "Magikarp & Wailord-GX",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic", "TAG TEAM", "GX"],
+    "types": ["Water"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Rare Ultra",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/161.png",
+      "large": "https://images.pokemontcg.io/sm9/161_hires.png"
+    },
+    "prices": [
+      {
+        "holofoil":{
+          "low": 394.99,
+          "high": 515.65,
+          "market": 365.26
+        }
+      }
+    ]
+  },
+
+  {
+    "id": "sm9-162",
+    "name": "Pikachu & Zekrom-GX",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic", "TAG TEAM", "GX"],
+    "types": ["Lightning"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Rare Ultra",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/162.png",
+      "large": "https://images.pokemontcg.io/sm9/162_hires.png"
+    },
+    "prices": [
+      {
+        "holofoil":{
+          "low": 52.92,
+          "high": 99.99,
+          "market": 59.81
+        }
+      }
+    ]
+  },
+      
+  {
+    "id": "sm9-163",
+    "name": "Ampharos-GX",
+    "supertype": "Pokémon",
+    "subtypes": ["Stage 2", "GX"],
+    "types": ["Lightning"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Rare Ultra",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/163.png",
+      "large": "https://images.pokemontcg.io/sm9/163_hires.png"
+    },
+    "prices": [
+      {
+        "holofoil":{
+          "low": 15.99,
+          "high": 33.33,
+          "market": 13.58
+        }
+      }
+    ]
+  },
+      
+  {
+    "id": "sm9-164",
+    "name": "Gengar & Mimikyu-GX",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic", "TAG TEAM", "GX"],
+    "types": ["Psychic"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Rare Ultra",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/164.png",
+      "large": "https://images.pokemontcg.io/sm9/164_hires.png"
+    },
+    "prices": [
+      {
+        "holofoil":{
+          "low": 195.96,
+          "high": 320,
+          "market": 168.65
+        }
+      }
+    ]
+  },
+      
+  {
+    "id": "sm9-165",
+    "name": "Gengar & Mimikyu-GX",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic", "TAG TEAM", "GX"],
+    "types": ["Psychic"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Rare Ultra",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/165.png",
+      "large": "https://images.pokemontcg.io/sm9/165_hires.png"
+    },
+    "prices": [
+      {
+        "holofoil":{
+          "low": 599.99,
+          "high": 1500,
+          "market": 574.07
+        }
+      }
+    ]
+  },
+      
+  {
+      "id": "sm9-166",
+      "name": "Hoopa-GX",
+      "supertype": "Pokémon",
+      "subtypes": ["Basic", "GX"],
+      "types": ["Darkness"],
+      "set": {
+        "id": "sm9",
+        "name": "Team Up",
+        "series": "Sun & Moon"
+      },
+      "rarity": "Rare Ultra",
+      "images": {
+        "small": "https://images.pokemontcg.io/sm9/166.png",
+        "large": "https://images.pokemontcg.io/sm9/166_hires.png"
+      },
+      "prices": [
+        {
+          "holofoil":{
+            "low": 4.5,
+            "high": 9.99,
+            "market": 5.88
+          }
+        }
+      ]
+  },
+      
+  {
+    "id": "sm9-167",
+    "name": "Incineroar-GX",
+    "supertype": "Pokémon",
+    "subtypes": ["Stage 2", "GX"],
+    "types": ["Darkness"],
+    "abilities": [
+      {
+        "type": "Ability"
+      }
+    ],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Rare Ultra",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/167.png",
+      "large": "https://images.pokemontcg.io/sm9/167_hires.png"
+    },
+    "prices": [
+      {
+        "holofoil":{
+          "low": 4.68,
+          "high": 14.99,
+          "market": 5.88
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-168",
+    "name": "Cobalion-GX",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic", "GX"],
+    "types": ["Metal"],
+    "abilities": [
+      {
+        "type": "Ability"
+      }
+    ],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Rare Ultra",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/168.png",
+      "large": "https://images.pokemontcg.io/sm9/168_hires.png"
+    },
+    "prices": [
+      {
+        "reverseHolofoil":{
+          "low": 3.3,
+          "high": 9.99,
+          "market": 4.72
+        }
+      }
+    ]
+  },
+
+  {
+    "id": "sm9-169",
+    "name": "Latias & Latios-GX",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic", "TAG TEAM", "GX"],
+    "types": ["Dragon"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Rare Ultra",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/169.png",
+      "large": "https://images.pokemontcg.io/sm9/169_hires.png"
+    },
+    "prices": [
+      {
+        "holofoil":{
+          "low": 61.83,
+          "high": 138.66,
+          "market": 52.94
+        }
+      }
+    ]  
+  },
+      
+  {
+    "id": "sm9-170",
+    "name": "Latias & Latios-GX",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic", "TAG TEAM", "GX"],
+    "types": ["Dragon"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Rare Ultra",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/170.png",
+      "large": "https://images.pokemontcg.io/sm9/170_hires.png"
+    },
+    "prices": [
+      {
+        "holofoil":{
+          "low": 1999.98,
+          "high": 2898.95,
+          "market": 1737.23
+        }
+      }
+    ]
+  },
+
+  {
+    "id": "sm9-171",
+    "name": "Eevee & Snorlax-GX",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic", "TAG TEAM", "GX"],
+    "types": ["Colorless"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Rare Ultra",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/171.png",
+      "large": "https://images.pokemontcg.io/sm9/171_hires.png"
+    },
+    "prices": [
+      {
+        "holofoil":{
+          "low": 321,
+          "high": 324.99,
+          "market": 116.59
+        }
+      }
+    ]
+  },
+    
+  {
+    "id": "sm9-172",
+    "name": "Brock's Grit",
+    "supertype": "Trainer",
+    "subtypes": ["Supporter"],
+    "set": {
+    "id": "sm9",
+    "name": "Team Up",
+    "series": "Sun & Moon"
+    },
+    "rarity": "Rare Ultra",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/172.png",
+      "large": "https://images.pokemontcg.io/sm9/172_hires.png"
+    },
+    "prices": [
+      {
+        "holofoil":{
+          "low": 29.63,
+          "high": 80,
+          "market": 40.74
+        }
+      }
+    ]
+      
+  },
+  
+  {
+    "id": "sm9-173",
+    "name": "Dana",
+    "supertype": "Trainer",
+    "subtypes": ["Supporter"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Rare Ultra",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/173.png",
+      "large": "https://images.pokemontcg.io/sm9/173_hires.png"
+    },
+    "prices": [
+      {
+        "holofoil":{
+          "low": 38,
+          "high": 78.62,
+          "market": 45.81
+        }
+      }
+    ]
+  },
+
+  {
+    "id": "sm9-174",
+    "name": "Erika's Hospitality",
+    "supertype": "Trainer",
+    "subtypes": ["Supporter"],
+    "set": {
+    "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Rare Ultra",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/174.png",
+      "large": "https://images.pokemontcg.io/sm9/174_hires.png"
+    },
+    "prices": [
+      {
+        "holofoil":{
+          "low": 87.99,
+          "high": 155.59,
+          "market": 115.5
+        }
+      }
+    ]
+  },
+
+  {
+    "id": "sm9-175",
+    "name": "Evelyn",
+    "supertype": "Trainer",
+    "subtypes": ["Supporter"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Rare Ultra",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/175.png",
+      "large": "https://images.pokemontcg.io/sm9/175_hires.png"
+    },
+    "prices": [
+      {
+        "holofoil":{
+          "low": 39.99,
+          "high": 89.98,
+          "market": 43.88
+        }
+      }
+    ]
+  },
+
+  {
+    "id": "sm9-176",
+    "name": "Ingo & Emmet",
+    "supertype": "Trainer",
+    "subtypes": ["Supporter"],
+    "set": {
+    "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Rare Ultra",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/176.png",
+      "large": "https://images.pokemontcg.io/sm9/176_hires.png"
+    },
+    "prices": [
+      {
+        "holofoil":{
+          "low": 27.2,
+          "high": 49.99,
+          "market": 32.2
+        }
+      }
+    ]
+  },
+
+  {
+    "id": "sm9-177",
+    "name": "Jasmine",
+    "supertype": "Trainer",
+    "subtypes": ["Supporter"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Rare Ultra",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/177.png",
+      "large": "https://images.pokemontcg.io/sm9/177_hires.png"
+    },
+    "prices": [
+      {
+        "holofoil":{
+          "low": 68.19,
+          "high": 249,
+          "market": 70.67
+        }
+      }
+    ]
+  },
+
+  {
+    "id": "sm9-178",
+    "name": "Morgan",
+    "supertype": "Trainer",
+    "subtypes": ["Supporter"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Rare Ultra",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/178.png",
+      "large": "https://images.pokemontcg.io/sm9/178_hires.png"
+    },
+    "prices": [
+      {
+        "holofoil":{
+          "low": 32.43,
+          "high": 100.25,
+          "market": 38.6
+        }
+      }
+    ]
+  },
+
+  {
+    "id": "sm9-179",
+    "name": "Nanu",
+    "supertype": "Trainer",
+    "subtypes": ["Supporter"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Rare Ultra",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/179.png",
+      "large": "https://images.pokemontcg.io/sm9/179_hires.png"
+    },
+    "prices": [
+      {
+        "holofoil":{
+          "low": 12,
+          "high": 50,
+          "market": 12.63
+        }
+      }
+    ]
+  },
+
+  {
+    "id": "sm9-180",
+    "name": "Nita",
+    "supertype": "Trainer",
+    "subtypes": ["Supporter"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Rare Ultra",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/180.png",
+      "large": "https://images.pokemontcg.io/sm9/180_hires.png"
+    },
+    "prices": [
+      {
+        "holofoil":{
+          "low": 28,
+          "high": 65.18,
+          "market": 35.68
+        }
+      }
+    ]
+  },
+
+  {
+    "id": "sm9-181",
+    "name": "Sabrina's Suggestion",
+    "supertype": "Trainer",
+    "subtypes": ["Supporter"],
+    "set": {
+    "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Rare Ultra",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/181.png",
+      "large": "https://images.pokemontcg.io/sm9/181_hires.png"
+    },
+    "prices": [
+      {
+        "holofoil":{
+          "low": 223.71,
+          "high": 450,
+          "market": 141.86
+        }
+      }
+    ]
+  },
+
+  {
+    "id": "sm9-182",
+    "name": "Celebi & Venusaur-GX",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic", "TAG TEAM", "GX"],
+    "types": ["Grass"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Rare Rainbow",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/182.png",
+      "large": "https://images.pokemontcg.io/sm9/182_hires.png"
+    },
+    "prices": [
+      {
+        "holofoil":{
+          "low": 94.85,
+          "high": 149.69,
+          "market": 67.71
+        }
+      }
+    ]
+  },
+    
+  {
+    "id": "sm9-183",
+    "name": "Magikarp & Wailord-GX",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic", "TAG TEAM", "GX"],
+    "types": ["Water"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Rare Rainbow",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/183.png",
+      "large": "https://images.pokemontcg.io/sm9/183_hires.png"
+    },
+    "prices": [
+      {
+        "holofoil":{
+          "low": 55.19,
+          "high": 329.95,
+          "market": 62.19
+        }
+      }
+    ]
+  },
+    
+  {
+    "id": "sm9-184",
+    "name": "Pikachu & Zekrom-GX",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic", "TAG TEAM", "GX"],
+    "types": ["Lightning"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Rare Rainbow",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/184.png",
+      "large": "https://images.pokemontcg.io/sm9/184_hires.png"
+    },
+    "prices": [
+      {
+        "holofoil":{
+          "low": 102.34,
+          "high": 499.95,
+          "market": 105.82
+        }
+      }
+    ]
+  },
+    
+  {
+    "id": "sm9-185",
+    "name": "Ampharos-GX",
+    "supertype": "Pokémon",
+    "subtypes": ["Stage 2", "GX"],
+    "types": ["Lightning"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Rare Rainbow",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/185.png",
+      "large": "https://images.pokemontcg.io/sm9/185_hires.png"
+    },
+    "prices": [
+      {
+        "holofoil":{
+          "low": 30,
+          "high": 44.97,
+          "market": 24.15
+        }
+      }
+    ]
+  },
+
+  {
+    "id": "sm9-186",
+    "name": "Gengar & Mimikyu-GX",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic", "TAG TEAM", "GX"],
+    "types": ["Psychic"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Rare Rainbow",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/186.png",
+      "large": "https://images.pokemontcg.io/sm9/186_hires.png"
+    },
+    "prices": [
+      {
+        "holofoil":{
+          "low": 155,
+          "high": 399,
+          "market": 166.93
+        }
+      }
+    ]
+  },
+      
+  {
+    "id": "sm9-187",
+    "name": "Hoopa-GX",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic", "GX"],
+    "types": ["Darkness"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Rare Rainbow",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/187.png",
+      "large": "https://images.pokemontcg.io/sm9/187_hires.png"
+    },
+    "prices": [
+      {
+        "holofoil":{
+          "low": 15.99,
+          "high": 21.53,
+          "market": 14.76
+        }
+      }
+    ]
+  },
+
+  {
+    "id": "sm9-188",
+    "name": "Incineroar-GX",
+    "supertype": "Pokémon",
+    "subtypes": ["Stage 2", "GX"],
+    "types": ["Darkness"],
+    "abilities": [
+      {
+        "type": "Ability"
+      }
+    ],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Rare Rainbow",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/188.png",
+      "large": "https://images.pokemontcg.io/sm9/188_hires.png"
+    },
+    "prices": [
+      {
+        "holofoil":{
+          "low": 12.42,
+          "high": 179,
+          "market": 13.95
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-189",
+    "name": "Cobalion-GX",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic", "GX"],
+    "types": ["Metal"],
+    "abilities": [
+      {
+        "type": "Ability"
+      }
+    ],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Rare Rainbow",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/189.png",
+      "large": "https://images.pokemontcg.io/sm9/189_hires.png"
+    },
+    "prices": [
+      {
+        "holofoil":{
+          "low": 9.36,
+          "high": 89,
+          "market": 9.73
+        }
+      }
+    ]
+  },
+    
+  {
+    "id": "sm9-190",
+    "name": "Latias & Latios-GX",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic", "TAG TEAM", "GX"],
+    "types": ["Dragon"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Rare Rainbow",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/190.png",
+      "large": "https://images.pokemontcg.io/sm9/190_hires.png"
+    },
+    "prices": [
+      {
+        "holofoil":{
+          "low": 119.99,
+          "high": 242.2,
+          "market": 124.85
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-191",
+    "name": "Eevee & Snorlax-GX",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic", "TAG TEAM", "GX"],
+    "types": ["Colorless"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Rare Rainbow",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/191.png",
+      "large": "https://images.pokemontcg.io/sm9/191_hires.png"
+    },
+    "prices": [
+      {
+        "holofoil":{
+          "low": 190.01,
+          "high": 299.99,
+          "market": 150.61
+        }
+      }
+    ]
+  },
+
+  {
+    "id": "sm9-192",
+    "name": "Dangerous Drill",
+    "supertype": "Trainer",
+    "subtypes": ["Item"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Rare Secret",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/192.png",
+      "large": "https://images.pokemontcg.io/sm9/192_hires.png"
+    },
+    "prices": [
+      {
+        "holofoil":{
+          "low": 2.97,
+          "high": 24.95,
+          "market": 3.69
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-193",
+    "name": "Electrocharger",
+    "supertype": "Trainer",
+    "subtypes": ["Item"],
+    "set": {
+    "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Rare Secret",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/193.png",
+      "large": "https://images.pokemontcg.io/sm9/193_hires.png"
+    },
+    "prices": [
+      {
+        "holofoil":{
+          "low": 2.4,
+          "high": 89,
+          "market": 3.5
+        }
+      }
+    ]
+  },
+  
+  {
+    "id": "sm9-194", 
+    "name": "Judge Whistle",
+    "supertype": "Trainer",
+    "subtypes": ["Item"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Rare Secret",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/194.png",
+      "large": "https://images.pokemontcg.io/sm9/194_hires.png"
+    },
+    "prices": [
+      {
+        "holofoil":{
+          "low": 3.79,
+          "high": 19.87,
+          "market": 4.27
+        }
+      }
+    ] 
+  },
+  
+  {
+    "id": "sm9-195",
+    "name": "Metal Goggles",
+    "supertype": "Trainer",
+    "subtypes": ["Pokémon Tool"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Rare Secret",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/195.png",
+      "large": "https://images.pokemontcg.io/sm9/195_hires.png"
+    },
+    "prices": [
+      {
+        "holofoil":{
+          "low": 3.04,
+          "high": 14.99,
+          "market": 4.95
+        }
+      }
+    ] 
+  },
+
+  {
+    "id": "sm9-196",
+    "name": "Pokémon Communication",
+    "supertype": "Trainer",
+    "subtypes": ["Item"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Rare Secret",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/196.png",
+      "large": "https://images.pokemontcg.io/sm9/196_hires.png"
+    },
+    "prices": [
+      {
+        "holofoil":{
+          "low": 7.39,
+          "high": 39.99,
+          "market": 9.81
+        }
+      }
+    ]
+  }    
+]
