@@ -30,19 +30,21 @@
   color: black;
 }
 .card-TU {
-  border: 1px solid yellow;
+  border: 3px solid yellow;
   padding: 1rem;
   margin: 1rem 0;
   border-radius: 8px;
   max-width: 300px;
+  line-height: 1.75;
 }
 
 .card-UB {
-  border: 1px solid orange;
+  border: 3px solid orange;
   padding: 1rem;
   margin: 1rem 0;
   border-radius: 8px;
   max-width: 300px;
+  line-height: 1.75;
 }
 
 #card-container {

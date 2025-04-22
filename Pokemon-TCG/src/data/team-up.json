@@ -25,7 +25,6 @@
       }
     ]
   },
-  
   {
     "id": "sm9-2",
     "name": "Weedle",
@@ -3743,17 +3742,17 @@
     },
     "prices": [
       {
-        "reverseHolofoil":{
-          "low": 0.23,
-          "high": 1.5,
-          "market": 0.56
-        }
-      },
-      {
         "holofoil":{
           "low": 0.25,
           "high": 2,
           "market": 0.43 
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 0.23,
+          "high": 1.5,
+          "market": 0.56
         }
       }
     ]
@@ -3821,17 +3820,17 @@
     },
     "prices": [
       {
-        "reverseHolofoil":{
-          "low": 4.25,
-          "high": 5,
-          "market": 3.03
-        }
-      },
-      {
         "holofoil":{
           "low": 2.65,
           "high": 5,
           "market": 2.68
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 4.25,
+          "high": 5,
+          "market": 3.03
         }
       }
     ]
@@ -4096,17 +4095,17 @@
     },
     "prices": [
       {
-        "reverseHolofoil":{
-          "low": 2.99,
-          "high": 4.08,
-          "market": 3.55
-        }
-      },
-      {
         "holofoil":{
           "low": 0.95,
           "high": 3.99,
           "market": 1.13
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 2.99,
+          "high": 4.08,
+          "market": 3.55
         }
       }
     ]
@@ -4503,17 +4502,17 @@
     },
     "prices": [
       {
-        "reverseHolofoil":{
-          "low": 4,
-          "high": 9.72,
-          "market": 4.64
-        }
-      },
-      {
         "holofoil":{
           "low": 3.15,
           "high": 9.99,
           "market": 6.43
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 4,
+          "high": 9.72,
+          "market": 4.64
         }
       }
     ]
@@ -4537,17 +4536,17 @@
     },
     "prices": [
       {
-        "reverseHolofoil":{
-          "low": 0.35,
-          "high": 1.5,
-          "market": 0.49
-        }
-      },
-      {
         "holofoil":{
           "low": 0.31,
           "high": 1.22,
           "market": 0.54
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 0.35,
+          "high": 1.5,
+          "market": 0.49
         }
       }
     ]
@@ -4570,17 +4569,17 @@
     },
     "prices": [
       {
-        "reverseHolofoil":{
-          "low": 0.32,
-          "high": 3.47,
-          "market": 0.51
-        }
-      },
-      {
         "holofoil":{
           "low": 0.25,
           "high": 1.73,
           "market": 0.36
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 0.32,
+          "high": 3.47,
+          "market": 0.51
         }
       }
     ]
@@ -4602,12 +4601,12 @@
       "large": "https://images.pokemontcg.io/sm9/134_hires.png"
     },
     "prices": [
-        {
+      {
         "holofoil":{
           "low": 1,
           "high": 89,
           "market": 2.62
-          }
+        }
       }
     ]
   },
@@ -4628,20 +4627,20 @@
         "large": "https://images.pokemontcg.io/sm9/135_hires.png"
     },
     "prices": [
-        {
-            "normal":{
-                "low": 0.13,
-                "high": 1,
-                "market": 0.19
-            }
-        },
-        {
-            "reverseHolofoil":{
-                "low": 0.2,
-                "high": 8.32,
-                "market": 0.32
-            }
+      {
+        "normal":{
+          "low": 0.13,
+          "high": 1,
+          "market": 0.19
         }
+      },
+      {
+        "reverseHolofoil":{
+            "low": 0.2,
+            "high": 8.32,
+            "market": 0.32
+        }
+      }
     ] 
   },
 
@@ -4794,17 +4793,17 @@
     },
     "prices": [
       {
-        "reverseHolofoil":{
-          "low": 0.47,
-          "high": 1.5,
-          "market": 0.87
-        }
-      },
-      {
         "holofoil":{
           "low": 0.25,
           "high": 4.5,
           "market": 0.51
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 0.47,
+          "high": 1.5,
+          "market": 0.87
         }
       }
     ]
@@ -4827,18 +4826,18 @@
     },    
     "prices": [    
       {
-          "normal":{
+        "normal":{
           "low": 0.04,
           "high": 1,
           "market": 0.13
-          }    
+        }    
       },    
       {
-          "reverseHolofoil":{
+        "reverseHolofoil":{
           "low": 0.15,
           "high": 1.47,
           "market": 0.28
-          }    
+        }    
       }    
     ]
   },    
@@ -4860,18 +4859,18 @@
     },
     "prices": [
       {
-          "normal":{
+        "normal":{
           "low": 0.03,
           "high": 1.37,
           "market": 0.12
-          }
+        }
       },
       {
-          "reverseHolofoil":{
+        "reverseHolofoil":{
           "low": 0.08,
           "high": 1.38,
           "market": 0.27
-          }
+        }
       }
     ]
   },
@@ -4927,16 +4926,16 @@
     "prices": [  
       {
         "normal":{
-        "low": 0.06,
-        "high": 8.13,
-        "market": 0.14
+          "low": 0.06,
+          "high": 8.13,
+          "market": 0.14
         }  
       },  
       {
         "reverseHolofoil":{
-        "low": 0.19,
-        "high": 1,
-        "market": 0.33
+          "low": 0.19,
+          "high": 1,
+          "market": 0.33
         }  
       }  
     ]
@@ -4960,16 +4959,16 @@
     "prices": [  
       {
         "normal":{
-        "low": 0.19,
-        "high": 1.53,
-        "market": 0.3
+          "low": 0.19,
+          "high": 1.53,
+          "market": 0.3
         }  
       },  
       {
         "reverseHolofoil":{
-        "low": 0.24,
-        "high": 2,
-        "market": 0.42
+          "low": 0.24,
+          "high": 2,
+          "market": 0.42
         }  
       }  
     ]
@@ -4993,16 +4992,16 @@
     "prices": [  
       {
         "normal":{
-        "low": 0.05,
-        "high": 1.4,
-        "market": 0.15
+          "low": 0.05,
+          "high": 1.4,
+          "market": 0.15
         }  
       },  
       {
         "reverseHolofoil":{
-        "low": 0.13,
-        "high": 1,
-        "market": 0.25
+          "low": 0.13,
+          "high": 1,
+          "market": 0.25
         }  
       }  
     ]
@@ -5059,16 +5058,16 @@
     "prices": [
       {
         "normal":{
-        "low": 0.25,
-        "high": 2.07,
-        "market": 0.39
+          "low": 0.25,
+          "high": 2.07,
+          "market": 0.39
         }
       },
       {
         "reverseHolofoil":{
-        "low": 0.31,
-        "high": 9.2,
-        "market": 0.55
+          "low": 0.31,
+          "high": 9.2,
+          "market": 0.55
         }
       }
     ]
@@ -5092,16 +5091,16 @@
     "prices": [
       {
         "normal":{
-        "low": 0.07,
-        "high": 1.56,
-        "market": 0.13
+          "low": 0.07,
+          "high": 1.56,
+          "market": 0.13
         }
       },
       {
         "reverseHolofoil":{
-        "low": 0.15,
-        "high": 1,
-        "market": 0.38
+          "low": 0.15,
+          "high": 1,
+          "market": 0.38
         }
       }
     ]
@@ -5125,16 +5124,16 @@
     "prices": [
       {
         "normal":{
-        "low": 0.05,
-        "high": 11,
-        "market": 0.17
+          "low": 0.05,
+          "high": 11,
+          "market": 0.17
         }
       },
       {
         "reverseHolofoil":{
-        "low": 0.18,
-        "high": 1.04,
-        "market": 0.28
+          "low": 0.18,
+          "high": 1.04,
+          "market": 0.28
         }
       }
     ]
@@ -5158,16 +5157,16 @@
     "prices": [
       {
         "normal":{
-        "low": 0.06,
-        "high": 1.42,
-        "market": 0.13
+          "low": 0.06,
+          "high": 1.42,
+          "market": 0.13
         }
       },
       {
         "reverseHolofoil":{
-        "low": 0.19,
-        "high": 1,
-        "market": 0.29 
+          "low": 0.19,
+          "high": 1,
+          "market": 0.29 
         }
       }
     ]
@@ -5191,16 +5190,16 @@
     "prices": [
       {
         "normal":{
-        "low": 0.09,
-        "high": 2.95,
-        "market": 0.21
+          "low": 0.09,
+          "high": 2.95,
+          "market": 0.21
         }
       },
       {
         "reverseHolofoil":{
-        "low": 0.2,
-        "high": 7.87,
-        "market": 0.6
+          "low": 0.2,
+          "high": 7.87,
+          "market": 0.6
         }
       }
     ]
@@ -5290,16 +5289,16 @@
     "prices": [
       {
         "normal":{
-        "low": 0.04,
-        "high": 1.39,
-        "market": 0.11
+          "low": 0.04,
+          "high": 1.39,
+          "market": 0.11
         }
       },
       {
         "reverseHolofoil":{
-        "low": 0.14,
-        "high": 1.34,
-        "market": 0.28
+          "low": 0.14,
+          "high": 1.34,
+          "market": 0.28
         }
       }
     ]
@@ -5323,16 +5322,16 @@
     "prices": [
       {
         "normal":{
-        "low": 0.15,
-        "high": 1.54,
-        "market": 0.26
+          "low": 0.15,
+          "high": 1.54,
+          "market": 0.26
         }
       },
       {
         "reverseHolofoil":{
-        "low": 0.36,
-        "high": 1.66,
-        "market": 0.49
+          "low": 0.36,
+          "high": 1.66,
+          "market": 0.49
         }
       }
     ]
@@ -5356,9 +5355,9 @@
     "prices": [
       {
         "normal":{
-        "low": 0.02,
-        "high": 1.39,
-        "market": 0.1
+          "low": 0.02,
+          "high": 1.39,
+          "market": 0.1
         }
       },
       {
@@ -5415,7 +5414,7 @@
     },
     "prices": [
       {
-        "Holofoil":{
+        "holofoil":{
           "low": 20.39,
           "high": 42.69,
           "market": 20.92
@@ -5442,7 +5441,7 @@
     },
     "prices": [
       {
-        "Holofoil":{
+        "holofoil":{
           "low": 39,
           "high": 139,
           "market": 52.44
@@ -5587,30 +5586,30 @@
   },
       
   {
-      "id": "sm9-166",
-      "name": "Hoopa-GX",
-      "supertype": "Pokémon",
-      "subtypes": ["Basic", "GX"],
-      "types": ["Darkness"],
-      "set": {
-        "id": "sm9",
-        "name": "Team Up",
-        "series": "Sun & Moon"
-      },
-      "rarity": "Rare Ultra",
-      "images": {
-        "small": "https://images.pokemontcg.io/sm9/166.png",
-        "large": "https://images.pokemontcg.io/sm9/166_hires.png"
-      },
-      "prices": [
-        {
-          "holofoil":{
-            "low": 4.5,
-            "high": 9.99,
-            "market": 5.88
-          }
+    "id": "sm9-166",
+    "name": "Hoopa-GX",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic", "GX"],
+    "types": ["Darkness"],
+    "set": {
+      "id": "sm9",
+      "name": "Team Up",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Rare Ultra",
+    "images": {
+      "small": "https://images.pokemontcg.io/sm9/166.png",
+      "large": "https://images.pokemontcg.io/sm9/166_hires.png"
+    },
+    "prices": [
+      {
+        "holofoil":{
+          "low": 4.5,
+          "high": 9.99,
+          "market": 5.88
         }
-      ]
+      }
+    ]
   },
       
   {
@@ -6427,5 +6426,32 @@
         }
       }
     ]
-  }    
+  },
+  
+  {
+    "id": "smp-SM09",
+    "name": "Togedemaru",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
+    "types": ["Lightning"],
+    "set": {
+      "id": "smp",
+      "name": "SM Black Star Promos",
+      "series": "Sun & Moon"
+    },
+    "rarity": "Promo",
+    "images": {
+      "small": "https://images.pokemontcg.io/smp/SM09.png",
+      "large": "https://images.pokemontcg.io/smp/SM09_hires.png"
+    },
+    "prices": [
+      {
+        "holofoil":{
+          "low": 0.2,
+          "high": 4.95,
+          "market": 0.32
+        }
+      }
+    ]
+  }
 ]
