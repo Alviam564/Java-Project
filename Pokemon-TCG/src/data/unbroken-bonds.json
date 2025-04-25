@@ -2,7 +2,7 @@
   {
     "id": "sm10-1",
     "name": "Pheromosa & Buzzwole-GX",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic, TAG TEAM, GX, Ultra Beast"],
     "types": ["Grass"],
     "set": {
@@ -19,8 +19,7 @@
       {
         "holofoil":{
           "low": 4.85,
-          "high": 89,
-          "market": 5.81
+          "high": 89
         }
       }
     ]
@@ -29,9 +28,14 @@
   {
     "id": "sm10-2",
     "name": "Caterpie",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic" ],
     "types": ["Grass"],
+    "abilities": [
+      {
+        "type": "Ability"
+      }
+    ],
     "set": {
       "id": "sm10",
       "name": "Unbroken Bonds",
@@ -46,15 +50,13 @@
       {
         "normal":{
           "low": 0.03,
-          "high": 1.37,
-          "market": 0.13
+          "high": 1.37
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.1,
-          "high": 2,
-          "market": 0.28
+          "high": 2
         }
       }
     ]
@@ -63,9 +65,14 @@
   {
     "id": "sm10-3",
     "name": "Metapod",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Stage 1"],
     "types": ["Grass"],
+    "abilities": [
+      {
+        "type": "Ability"
+      }
+    ],
     "set": {
       "id": "sm10",
       "name": "Unbroken Bonds",
@@ -80,15 +87,13 @@
       {
         "normal":{
           "low": 0.03,
-          "high": 1.42,
-          "market": 0.12
+          "high": 1.42
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.13,
-          "high": 1,
-          "market": 0.4
+          "high": 1
         }
       }
     ]
@@ -97,7 +102,7 @@
   {
     "id": "sm10-4",
     "name": "Butterfree",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Stage 2"],
     "types": ["Grass"],
     "set": {
@@ -114,15 +119,13 @@
       {
         "normal":{
           "low": 0.19,
-          "high": 1,
-          "market": 0.6
+          "high": 1
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.34,
-          "high": 0.55,
-          "market": 0.6
+          "high": 0.55
         }
       }
     ]
@@ -131,7 +134,7 @@
   {
     "id": "sm10-5",
     "name": "Oddish",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic" ],
     "types": ["Grass"],
     "set": {
@@ -148,15 +151,13 @@
       {
         "normal":{
           "low": 0.03,
-          "high": 1.49,
-          "market": 0.19
+          "high": 1.49
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.18,
-          "high": 2,
-          "market": 0.37
+          "high": 2
         }
       }
     ]
@@ -165,7 +166,7 @@
   {
     "id": "sm10-6",
     "name": "Oddish",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic" ],
     "types": ["Grass"],
     "set": {
@@ -182,15 +183,13 @@
       {
         "normal":{
           "low": 0.09,
-          "high": 1.54,
-          "market": 0.3
+          "high": 1.54
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.25,
-          "high": 5.48,
-          "market": 0.47
+          "high": 5.48
         }
       }
     ]
@@ -199,7 +198,7 @@
   {
     "id": "sm10-7",
     "name": "Gloom",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Stage 1"],
     "types": ["Grass"],
     "set": {
@@ -216,15 +215,13 @@
       {
         "normal":{
           "low": 0.07,
-          "high": 1.49,
-          "market": 0.19
+          "high": 1.49
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.5,
-          "high": 2.1,
-          "market": 1.05
+          "high": 2.1
         }
       }
     ]
@@ -233,7 +230,7 @@
   {
     "id": "sm10-8",
     "name": "Vileplume",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Stage 2"],
     "types": ["Grass"],
     "set": {
@@ -250,15 +247,13 @@
       {
         "holofoil":{
           "low": 0.25,
-          "high": 1.65,
-          "market": 0.46
+          "high": 1.65
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.38,
-          "high": 1.99,
-          "market": 0.6
+          "high": 1.99
         }
       }
     ]
@@ -267,7 +262,7 @@
   {
     "id": "sm10-9",
     "name": "Venonat",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic" ],
     "types": ["Grass"],
     "set": {
@@ -284,15 +279,13 @@
       {
         "normal":{
           "low": 0.03,
-          "high": 1.25,
-          "market": 0.11
+          "high": 1.25
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.08,
-          "high": 1.38,
-          "market": 0.25
+          "high": 1.38
         }
       }
     ]
@@ -301,7 +294,7 @@
   {
     "id": "sm10-10",
     "name": "Venonat",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic" ],
     "types": ["Grass"],
     "set": {
@@ -318,15 +311,13 @@
       {
         "normal":{
           "low": 0.09,
-          "high": 0.25,
-          "market": 0.21
+          "high": 0.25
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.15,
-          "high": 1.04,
-          "market": 0.4
+          "high": 1.04
         }
       }
     ]
@@ -335,7 +326,7 @@
   {
     "id": "sm10-11",
     "name": "Venomoth",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Stage 1"],
     "types": ["Grass"],
     "set": {
@@ -352,15 +343,13 @@
       {
         "normal":{
           "low": 0.25,
-          "high": 1.19,
-          "market": 0.4
+          "high": 1.19
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.35,
-          "high": 2.16,
-          "market": 0.43
+          "high": 2.16
         }
       }
     ]
@@ -369,7 +358,7 @@
   {
     "id": "sm10-12",
     "name": "Venomoth-GX",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Stage 1, GX"],
     "types": ["Grass"],
     "set": {
@@ -386,8 +375,7 @@
       {
         "holofoil":{
           "low": 1,
-          "high": 89,
-          "market": 2.25
+          "high": 89
         }
       }
     ]
@@ -396,7 +384,7 @@
   {
     "id": "sm10-13",
     "name": "Bellsprout",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic" ],
     "types": ["Grass"],
     "set": {
@@ -413,15 +401,13 @@
       {
         "normal":{
           "low": 0.03,
-          "high": 1.4,
-          "market": 0.1
+          "high": 1.4
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.1,
-          "high": 2,
-          "market": 0.22
+          "high": 2
         }
       }
     ]
@@ -430,7 +416,7 @@
   {
     "id": "sm10-14",
     "name": "Weepinbell",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Stage 1"],
     "types": ["Grass"],
     "set": {
@@ -447,15 +433,13 @@
       {
         "normal":{
           "low": 0.03,
-          "high": 1.2,
-          "market": 0.16
+          "high": 1.2
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.19,
-          "high": 2,
-          "market": 0.35
+          "high": 2
         }
       }
     ]
@@ -464,7 +448,7 @@
   {
     "id": "sm10-15",
     "name": "Victreebel",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Stage 2"],
     "types": ["Grass"],
     "set": {
@@ -481,15 +465,13 @@
       {
         "normal":{
           "low": 0.18,
-          "high": 0.99,
-          "market": 0.39
+          "high": 0.99
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.25,
-          "high": 1.09,
-          "market": 0.48
+          "high": 1.09
         }
       }
     ]
@@ -498,7 +480,7 @@
   {
     "id": "sm10-16",
     "name": "Tangela",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic" ],
     "types": ["Grass"],
     "set": {
@@ -515,15 +497,13 @@
       {
         "normal":{
           "low": 0.01,
-          "high": 1.38,
-          "market": 0.06
+          "high": 1.38
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.09,
-          "high": 2,
-          "market": 0.24
+          "high": 2
         }
       }
     ]
@@ -532,7 +512,7 @@
   {
     "id": "sm10-17",
     "name": "Tangrowth",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Stage 1"],
     "types": ["Grass"],
     "set": {
@@ -549,15 +529,13 @@
       {
         "normal":{
           "low": 0.13,
-          "high": 1.48,
-          "market": 0.28
+          "high": 1.48
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.13,
-          "high": 1,
-          "market": 0.39
+          "high": 1
         }
       }
     ]
@@ -566,7 +544,7 @@
   {
     "id": "sm10-18",
     "name": "Grubbin",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic" ],
     "types": ["Grass"],
     "set": {
@@ -583,15 +561,13 @@
       {
         "normal":{
           "low": 0.04,
-          "high": 2.95,
-          "market": 0.19
+          "high": 2.95
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.22,
-          "high": 2,
-          "market": 0.39
+          "high": 2
         }
       }
     ]
@@ -600,7 +576,7 @@
   {
     "id": "sm10-19",
     "name": "Kartana",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic,  Ultra Beast"],
     "types": ["Grass"],
     "set": {
@@ -617,15 +593,13 @@
       {
         "holofoil":{
           "low": 0.49,
-          "high": 8.73,
-          "market": 0.74
+          "high": 8.73
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.4,
-          "high": 2.99,
-          "market": 0.83
+          "high": 2.99
         }
       }
     ]
@@ -634,7 +608,7 @@
   {
     "id": "sm10-20",
     "name": "Reshiram & Charizard-GX",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic, TAG TEAM, GX"],
     "types": ["Fire"],
     "set": {
@@ -651,8 +625,7 @@
       {
         "holofoil":{
           "low": 20,
-          "high": 74.97,
-          "market": 28.62
+          "high": 74.97
         }
       }
     ]
@@ -661,7 +634,7 @@
   {
     "id": "sm10-21",
     "name": "Growlithe",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic" ],
     "types": ["Fire"],
     "set": {
@@ -678,15 +651,13 @@
       {
         "normal":{
           "low": 0.05,
-          "high": 1.44,
-          "market": 0.17
+          "high": 1.44
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.14,
-          "high": 1,
-          "market": 0.34
+          "high": 1
         }
       }
     ]
@@ -695,7 +666,7 @@
   {
     "id": "sm10-22",
     "name": "Arcanine",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Stage 1"],
     "types": ["Fire"],
     "set": {
@@ -712,15 +683,13 @@
       {
         "holofoil":{
           "low": 2.19,
-          "high": 3.99,
-          "market": 2.45
+          "high": 3.99
         }
       },
       {
         "reverseHolofoil":{
           "low": 1.98,
-          "high": 3.25,
-          "market": 2.45
+          "high": 3.25
         }
       }
     ]
@@ -729,7 +698,7 @@
   {
     "id": "sm10-23",
     "name": "Darumaka",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic" ],
     "types": ["Fire"],
     "set": {
@@ -746,15 +715,13 @@
       {
         "normal":{
           "low": 0.04,
-          "high": 1,
-          "market": 0.19
+          "high": 1
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.18,
-          "high": 1.55,
-          "market": 0.38
+          "high": 1.55
         }
       }
     ]
@@ -763,7 +730,7 @@
   {
     "id": "sm10-24",
     "name": "Darmanitan",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Stage 1"],
     "types": ["Fire"],
     "set": {
@@ -780,15 +747,13 @@
       {
         "normal":{
           "low": 0.12,
-          "high": 1.32,
-          "market": 0.22
+          "high": 1.32
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.25,
-          "high": 2,
-          "market": 0.35
+          "high": 2
         }
       }
     ]
@@ -797,7 +762,7 @@
   {
     "id": "sm10-25",
     "name": "Volcanion",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic" ],
     "types": ["Fire"],
     "set": {
@@ -814,15 +779,13 @@
       {
         "holofoil":{
           "low": 0.25,
-          "high": 193.04,
-          "market": 0.64
+          "high": 193.04
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.45,
-          "high": 7.5,
-          "market": 0.66
+          "high": 7.5
         }
       }
     ]
@@ -831,7 +794,7 @@
   {
     "id": "sm10-26",
     "name": "Litten",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic" ],
     "types": ["Fire"],
     "set": {
@@ -848,15 +811,13 @@
       {
         "normal":{
           "low": 0.04,
-          "high": 1.39,
-          "market": 0.16
+          "high": 1.39
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.09,
-          "high": 2,
-          "market": 0.3
+          "high": 2
         }
       }
     ]
@@ -865,7 +826,7 @@
   {
     "id": "sm10-27",
     "name": "Litten",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic" ],
     "types": ["Fire"],
     "set": {
@@ -882,15 +843,13 @@
       {
         "normal":{
           "low": 0.01,
-          "high": 1.25,
-          "market": 0.16
+          "high": 1.25
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.1,
-          "high": 1.42,
-          "market": 0.33
+          "high": 1.42
         }
       }
     ]
@@ -899,7 +858,7 @@
   {
     "id": "sm10-28",
     "name": "Torracat",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Stage 1"],
     "types": ["Fire"],
     "set": {
@@ -916,15 +875,13 @@
       {
         "normal":{
           "low": 0.04,
-          "high": 1.39,
-          "market": 0.14
+          "high": 1.39
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.19,
-          "high": 1.95,
-          "market": 0.29
+          "high": 1.95
         }
       }
     ]
@@ -933,9 +890,14 @@
   {
     "id": "sm10-29",
     "name": "Incineroar",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Stage 2"],
     "types": ["Fire"],
+    "abilities": [
+      {
+        "type": "Ability"
+      }
+    ],
     "set": {
       "id": "sm10",
       "name": "Unbroken Bonds",
@@ -950,15 +912,13 @@
       {
         "normal":{
           "low": 0.14,
-          "high": 4.95,
-          "market": 0.34
+          "high": 4.95
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.43,
-          "high": 1.99,
-          "market": 0.65
+          "high": 1.99
         }
       }
     ]
@@ -967,7 +927,7 @@
   {
     "id": "sm10-30",
     "name": "Salandit",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic" ],
     "types": ["Fire"],
     "set": {
@@ -984,15 +944,13 @@
       {
         "normal":{
           "low": 0.01,
-          "high": 1.04,
-          "market": 0.08
+          "high": 1.04
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.08,
-          "high": 2,
-          "market": 0.24
+          "high": 2
         }
       }
     ]
@@ -1001,9 +959,14 @@
   {
     "id": "sm10-31",
     "name": "Salazzle",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Stage 1"],
     "types": ["Fire"],
+    "abilities": [
+      {
+        "type": "Ability"
+      }
+    ],
     "set": {
       "id": "sm10",
       "name": "Unbroken Bonds",
@@ -1018,15 +981,13 @@
       {
         "normal":{
           "low": 0.42,
-          "high": 2,
-          "market": 0.67
+          "high": 2
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.69,
-          "high": 3.5,
-          "market": 0.82
+          "high": 3.5
         }
       }
     ]
@@ -1035,7 +996,7 @@
   {
     "id": "sm10-32",
     "name": "Blacephalon",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic,  Ultra Beast"],
     "types": ["Fire"],
     "set": {
@@ -1052,15 +1013,13 @@
       {
         "normal":{
           "low": 0.45,
-          "high": 5.95,
-          "market": 0.71
+          "high": 5.95
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.61,
-          "high": 6,
-          "market": 1.16
+          "high": 6
         }
       }
     ]
@@ -1069,7 +1028,7 @@
   {
     "id": "sm10-33",
     "name": "Squirtle",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic" ],
     "types": ["Water"],
     "set": {
@@ -1086,15 +1045,13 @@
       {
         "normal":{
           "low": 0.15,
-          "high": 1.46,
-          "market": 0.29
+          "high": 1.46
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.37,
-          "high": 5,
-          "market": 0.73
+          "high": 5
         }
       }
     ]
@@ -1103,9 +1060,14 @@
   {
     "id": "sm10-34",
     "name": "Wartortle",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Stage 1"],
     "types": ["Water"],
+    "abilities": [
+      {
+        "type": "Ability"
+      }
+    ],
     "set": {
       "id": "sm10",
       "name": "Unbroken Bonds",
@@ -1120,15 +1082,13 @@
       {
         "normal":{
           "low": 0.2,
-          "high": 1.99,
-          "market": 0.44
+          "high": 1.99
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.35,
-          "high": 4.25,
-          "market": 0.98
+          "high": 4.25
         }
       }
     ]
@@ -1137,9 +1097,14 @@
   {
     "id": "sm10-35",
     "name": "Blastoise-GX",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Stage 2, GX"],
     "types": ["Water"],
+    "abilities": [
+      {
+        "type": "Ability"
+      }
+    ],
     "set": {
       "id": "sm10",
       "name": "Unbroken Bonds",
@@ -1154,8 +1119,7 @@
       {
         "holofoil":{
           "low": 5.24,
-          "high": 629.1,
-          "market": 5.87
+          "high": 629.1
         }
       }
     ]
@@ -1164,9 +1128,14 @@
   {
     "id": "sm10-36",
     "name": "Poliwag",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic" ],
     "types": ["Water"],
+    "abilities": [
+      {
+        "type": "Ability"
+      }
+    ],
     "set": {
       "id": "sm10",
       "name": "Unbroken Bonds",
@@ -1181,15 +1150,13 @@
       {
         "normal":{
           "low": 0.04,
-          "high": 1.35,
-          "market": 0.12
+          "high": 1.35
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.05,
-          "high": 1.35,
-          "market": 0.25
+          "high": 1.35
         }
       }
     ]
@@ -1198,7 +1165,7 @@
   {
     "id": "sm10-37",
     "name": "Poliwag",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic" ],
     "types": ["Water"],
     "set": {
@@ -1215,15 +1182,13 @@
       {
         "normal":{
           "low": 0.07,
-          "high": 1.44,
-          "market": 0.15
+          "high": 1.44
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.1,
-          "high": 1.5,
-          "market": 0.35
+          "high": 1.5
         }
       }
     ]
@@ -1232,7 +1197,7 @@
   {
     "id": "sm10-38",
     "name": "Poliwhirl",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Stage 1"],
     "types": ["Water"],
     "set": {
@@ -1249,15 +1214,13 @@
       {
         "normal":{
           "low": 0.05,
-          "high": 3.09,
-          "market": 0.16
+          "high": 3.09
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.25,
-          "high": 1.39,
-          "market": 0.45
+          "high": 1.39
         }
       }
     ]
@@ -1266,7 +1229,7 @@
   {
     "id": "sm10-39",
     "name": "Poliwrath",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Stage 2"],
     "types": ["Water"],
     "set": {
@@ -1283,15 +1246,13 @@
       {
         "normal":{
           "low": 0.13,
-          "high": 2.95,
-          "market": 0.52
+          "high": 2.95
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.24,
-          "high": 1.99,
-          "market": 0.55
+          "high": 1.99
         }
       }
     ]
@@ -1300,7 +1261,7 @@
   {
     "id": "sm10-40",
     "name": "Tentacool",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic" ],
     "types": ["Water"],
     "set": {
@@ -1317,15 +1278,13 @@
       {
         "normal":{
           "low": 0.04,
-          "high": 1.5,
-          "market": 0.11
+          "high": 1.5
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.1,
-          "high": 2,
-          "market": 0.29
+          "high": 2
         }
       }
     ]
@@ -1334,7 +1293,7 @@
   {
     "id": "sm10-41",
     "name": "Tentacruel",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Stage 1"],
     "types": ["Water"],
     "set": {
@@ -1351,15 +1310,13 @@
       {
         "normal":{
           "low": 0.04,
-          "high": 1.07,
-          "market": 0.13
+          "high": 1.07
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.27,
-          "high": 1.59,
-          "market": 0.38
+          "high": 1.59
         }
       }
     ]
@@ -1368,7 +1325,7 @@
   {
     "id": "sm10-42",
     "name": "Slowpoke",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic" ],
     "types": ["Water"],
     "set": {
@@ -1385,15 +1342,13 @@
       {
         "normal":{
           "low": 0.03,
-          "high": 1.5,
-          "market": 0.019
+          "high": 1.5
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.12,
-          "high": 1,
-          "market": 0.39
+          "high": 1
         }
       }
     ]
@@ -1402,7 +1357,7 @@
   {
     "id": "sm10-43",
     "name": "Slowbro",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Stage 1"],
     "types": ["Water"],
     "set": {
@@ -1419,15 +1374,13 @@
       {
         "holofoil":{
           "low": 0.42,
-          "high": 4321,
-          "market": 1.09
+          "high": 4321
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.63,
-          "high": 1.5,
-          "market": 0.82
+          "high": 1.5
         }
       }
     ]
@@ -1436,7 +1389,7 @@
   {
     "id": "sm10-44",
     "name": "Seel",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic" ],
     "types": ["Water"],
     "set": {
@@ -1453,15 +1406,13 @@
       {
         "normal":{
           "low": 0.03,
-          "high": 1.5,
-          "market": 0.11
+          "high": 1.5
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.1,
-          "high": 1.4,
-          "market": 0.22
+          "high": 1.4
         }
       }
     ]
@@ -1470,7 +1421,7 @@
   {
     "id": "sm10-45",
     "name": "Dewgong",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Stage 1"],
     "types": ["Water"],
     "set": {
@@ -1487,15 +1438,13 @@
       {
         "normal":{
           "low": 0.2,
-          "high": 0.99,
-          "market": 0.34
+          "high": 0.99
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.19,
-          "high": 1.5,
-          "market": 0.32
+          "high": 1.5
         }
       }
     ]
@@ -1504,7 +1453,7 @@
   {
     "id": "sm10-46",
     "name": "Krabby",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic" ],
     "types": ["Water"],
     "set": {
@@ -1521,15 +1470,13 @@
       {
         "normal":{
           "low": 0.03,
-          "high": 1.37,
-          "market": 0.12
+          "high": 1.37
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.08,
-          "high": 2,
-          "market": 0.26
+          "high": 2
         }
       }
     ]
@@ -1538,7 +1485,7 @@
   {
     "id": "sm10-47",
     "name": "Kingler",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Stage 1"],
     "types": ["Water"],
     "set": {
@@ -1555,15 +1502,13 @@
       {
         "normal":{
           "low": 0.24,
-          "high": 1,
-          "market": 0.37
+          "high": 1
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.25,
-          "high": 1.09,
-          "market": 0.54
+          "high": 1.09
         }
       }
     ]
@@ -1572,7 +1517,7 @@
   {
     "id": "sm10-48",
     "name": "Goldeen",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic" ],
     "types": ["Water"],
     "set": {
@@ -1589,15 +1534,13 @@
       {
         "normal":{
           "low": 0.06,
-          "high": 1.37,
-          "market": 0.1
+          "high": 1.37
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.07,
-          "high": 1,
-          "market": 0.2
+          "high": 1
         }
       }
     ]
@@ -1606,7 +1549,7 @@
   {
     "id": "sm10-49",
     "name": "Seaking",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Stage 1"],
     "types": ["Water"],
     "set": {
@@ -1623,15 +1566,13 @@
       {
         "normal":{
           "low": 0.1,
-          "high": 1.3,
-          "market": 0.26
+          "high": 1.3
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.19,
-          "high": 1.04,
-          "market": 0.42
+          "high": 1.04
         }
       }
     ]
@@ -1640,7 +1581,7 @@
   {
     "id": "sm10-50",
     "name": "Kyurem",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic" ],
     "types": ["Water"],
     "set": {
@@ -1657,15 +1598,13 @@
       {
         "holofoil":{
           "low": 0.18,
-          "high": 1.5,
-          "market": 0.5
+          "high": 1.5
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.29,
-          "high": 1.95,
-          "market": 0.69
+          "high": 1.95
         }
       }
     ]
@@ -1674,7 +1613,7 @@
   {
     "id": "sm10-51",
     "name": "Froakie",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic" ],
     "types": ["Water"],
     "set": {
@@ -1691,15 +1630,13 @@
       {
         "normal":{
           "low": 0.04,
-          "high": 1.39,
-          "market": 0.16
+          "high": 1.39
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.14,
-          "high": 2.5,
-          "market": 0.33
+          "high": 2.5
         }
       }
     ]
@@ -1708,7 +1645,7 @@
   {
     "id": "sm10-52",
     "name": "Frogadier",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Stage 1"],
     "types": ["Water"],
     "set": {
@@ -1725,15 +1662,13 @@
       {
         "normal":{
           "low": 0.04,
-          "high": 1,
-          "market": 0.13
+          "high": 1
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.19,
-          "high": 2.5,
-          "market": 0.39
+          "high": 2.5
         }
       }
     ]
@@ -1742,7 +1677,7 @@
   {
     "id": "sm10-53",
     "name": "Pyukumuku",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic" ],
     "types": ["Water"],
     "set": {
@@ -1759,15 +1694,13 @@
       {
         "normal":{
           "low": 0.19,
-          "high": 0.99,
-          "market": 0.34
+          "high": 0.99
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.7,
-          "high": 1,
-          "market": 0.76
+          "high": 1
         }
       }
     ]
@@ -1776,7 +1709,7 @@
   {
     "id": "sm10-54",
     "name": "Pikachu",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic" ],
     "types": ["Lightning"],
     "set": {
@@ -1793,15 +1726,13 @@
       {
         "normal":{
           "low": 0.24,
-          "high": 1.98,
-          "market": 0.44
+          "high": 1.98
         }
       },
       {
         "reverseHolofoil":{
           "low": 1,
-          "high": 9.99,
-          "market": 1.61
+          "high": 9.99
         }
       }
     ]
@@ -1810,7 +1741,7 @@
   {
     "id": "sm10-55",
     "name": "Raichu",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Stage 1"],
     "types": ["Lightning"],
     "set": {
@@ -1827,15 +1758,13 @@
       {
         "normal":{
           "low": 0.15,
-          "high": 1.99,
-          "market": 0.32
+          "high": 1.99
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.34,
-          "high": 1.5,
-          "market": 0.54
+          "high": 1.5
         }
       }
     ]
@@ -1844,7 +1773,7 @@
   {
     "id": "sm10-56",
     "name": "Stunfisk",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic" ],
     "types": ["Lightning"],
     "set": {
@@ -1861,15 +1790,13 @@
       {
         "normal":{
           "low": 0.1,
-          "high": 1.3,
-          "market": 0.34
+          "high": 1.3
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.2,
-          "high": 1.55,
-          "market": 0.4
+          "high": 1.55
         }
       }
     ]
@@ -1878,9 +1805,14 @@
   {
     "id": "sm10-57",
     "name": "Dedenne-GX",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic, GX"],
     "types": ["Lightning"],
+    "abilities": [
+      {
+        "type": "Ability"
+      }
+    ],
     "set": {
       "id": "sm10",
       "name": "Unbroken Bonds",
@@ -1895,8 +1827,7 @@
       {
         "holofoil":{
           "low": 6.67,
-          "high": 24.99,
-          "market": 6.87
+          "high": 24.99
         }
       }
     ]
@@ -1905,9 +1836,14 @@
   {
     "id": "sm10-58",
     "name": "Charjabug",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Stage 1"],
     "types": ["Lightning"],
+    "abilities": [
+      {
+        "type": "Ability"
+      }
+    ],
     "set": {
       "id": "sm10",
       "name": "Unbroken Bonds",
@@ -1922,15 +1858,13 @@
       {
         "normal":{
           "low": 0.03,
-          "high": 1.44,
-          "market": 0.13
+          "high": 1.44
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.2,
-          "high": 2.03,
-          "market": 0.34
+          "high": 2.03
         }
       }
     ]
@@ -1939,9 +1873,14 @@
   {
     "id": "sm10-59",
     "name": "Vikavolt",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Stage 2"],
     "types": ["Lightning"],
+    "abilities": [
+      {
+        "type": "Ability"
+      }
+    ],
     "set": {
       "id": "sm10",
       "name": "Unbroken Bonds",
@@ -1956,15 +1895,13 @@
       {
         "holofoil":{
           "low": 0.23,
-          "high": 1.56,
-          "market": 0.44
+          "high": 1.56
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.25,
-          "high": 1.47,
-          "market": 0.28
+          "high": 1.47
         }
       }
     ]
@@ -1973,7 +1910,7 @@
   {
     "id": "sm10-60",
     "name": "Zeraora",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic"],
     "types": ["Lightning"],
     "set": {
@@ -1990,15 +1927,13 @@
       {
         "normal":{
           "low": 0.2,
-          "high": 0.99,
-          "market": 0.47
+          "high": 0.99
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.39,
-          "high": 2,
-          "market": 0.66
+          "high": 2
         }
       }
     ]
@@ -2007,7 +1942,7 @@
   {
     "id": "sm10-61",
     "name": "Muk & Alolan Muk-GX",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic, TAG TEAM, GX"],
     "types": ["Psychic"],
     "set": {
@@ -2024,8 +1959,7 @@
       {
         "holofoil":{
           "low": 7.2,
-          "high": 89,
-          "market": 8.34
+          "high": 89
         }
       }
     ]
@@ -2034,7 +1968,7 @@
   {
     "id": "sm10-62",
     "name": "Ekans",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic"],
     "types": ["Psychic"],
     "set": {
@@ -2051,15 +1985,13 @@
       {
         "normal":{
           "low": 0.03,
-          "high": 1.37,
-          "market": 0.12
+          "high": 1.37
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.12,
-          "high": 1.64,
-          "market": 0.25
+          "high": 1.64
         }
       }
     ]
@@ -2068,7 +2000,7 @@
   {
     "id": "sm10-63",
     "name": "Arbok",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Stage 1"],
     "types": ["Psychic"],
     "set": {
@@ -2085,15 +2017,13 @@
       {
         "normal":{
           "low": 0.19,
-          "high": 1,
-          "market": 0.35
+          "high": 1
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.25,
-          "high": 1.95,
-          "market": 0.54
+          "high": 1.95
         }
       }
     ]
@@ -2102,7 +2032,7 @@
   {
     "id": "sm10-64",
     "name": "Zubat",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic"],
     "types": ["Psychic"],
     "set": {
@@ -2119,15 +2049,13 @@
       {
         "normal":{
           "low": 0.02,
-          "high": 1.39,
-          "market": 0.12
+          "high": 1.39
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.13,
-          "high": 1.49,
-          "market": 0.18
+          "high": 1.49
         }
       }
     ]
@@ -2136,7 +2064,7 @@
   {
     "id": "sm10-65",
     "name": "Golbat",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Stage 1"],
     "types": ["Psychic"],
     "set": {
@@ -2153,15 +2081,13 @@
       {
         "normal":{
           "low": 0.04,
-          "high": 1.41,
-          "market": 0.11
+          "high": 1.41
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.15,
-          "high": 1.52,
-          "market": 0.3
+          "high": 1.52
         }
       }
     ]
@@ -2170,9 +2096,14 @@
   {
     "id": "sm10-66",
     "name": "Crobat",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Stage 2"],
     "types": ["Psychic"],
+    "abilities": [
+      {
+        "type": "Ability"
+      }
+    ],
     "set": {
       "id": "sm10",
       "name": "Unbroken Bonds",
@@ -2187,15 +2118,13 @@
       {
         "holofoil":{
           "low": 0.25,
-          "high": 1.5,
-          "market": 0.44
+          "high": 1.5
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.3,
-          "high": 2.49,
-          "market": 0.46
+          "high": 2.49
         }
       }
     ]
@@ -2204,9 +2133,14 @@
   {
     "id": "sm10-67",
     "name": "Gastly",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic"],
     "types": ["Psychic"],
+    "abilities": [
+      {
+        "type": "Ability"
+      }
+    ],
     "set": {
       "id": "sm10",
       "name": "Unbroken Bonds",
@@ -2221,15 +2155,13 @@
       {
         "normal":{
           "low": 0.1,
-          "high": 1.48,
-          "market": 0.26
+          "high": 1.48
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.3,
-          "high": 1.49,
-          "market": 0.8
+          "high": 1.49
         }
       }
     ]
@@ -2238,7 +2170,7 @@
   {
     "id": "sm10-68",
     "name": "Gastly",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic"],
     "types": ["Psychic"],
     "set": {
@@ -2255,15 +2187,13 @@
       {
         "normal":{
           "low": 0.03,
-          "high": 1.23,
-          "market": 0.13
+          "high": 1.23
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.15,
-          "high": 1.32,
-          "market": 0.35
+          "high": 1.32
         }
       }
     ]
@@ -2272,7 +2202,7 @@
   {
     "id": "sm10-69",
     "name": "Haunter",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Stage 1"],
     "types": ["Psychic"],
     "set": {
@@ -2289,15 +2219,13 @@
       {
         "normal":{
           "low": 0.07,
-          "high": 89,
-          "market": 0.24
+          "high": 89
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.44,
-          "high": 3.24,
-          "market": 0.84
+          "high": 3.24
         }
       }
     ]
@@ -2306,9 +2234,14 @@
   {
     "id": "sm10-70",
     "name": "Gengar",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Stage 2"],
     "types": ["Psychic"],
+    "abilities": [
+      {
+        "type": "Ability"
+      }
+    ],
     "set": {
       "id": "sm10",
       "name": "Unbroken Bonds",
@@ -2323,15 +2256,13 @@
       {
         "normal":{
           "low": 2.41,
-          "high": 4321,
-          "market": 6.78
+          "high": 4321
         }
       },
       {
         "reverseHolofoil":{
           "low": 19.87,
-          "high": 39.99,
-          "market": 12.36
+          "high": 39.99
         }
       }
     ]
@@ -2340,7 +2271,7 @@
   {
     "id": "sm10-71",
     "name": "Drowzee",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic"],
     "types": ["Psychic"],
     "set": {
@@ -2357,15 +2288,13 @@
       {
         "normal":{
           "low": 0.02,
-          "high": 1.39,
-          "market": 0.15
+          "high": 1.39
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.05,
-          "high": 0.99,
-          "market": 0.19
+          "high": 0.99
         }
       }
     ]
@@ -2374,9 +2303,14 @@
   {
     "id": "sm10-72",
     "name": "Hypno",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Stage 1"],
     "types": ["Psychic"],
+    "abilities": [
+      {
+        "type": "Ability"
+      }
+    ],
     "set": {
       "id": "sm10",
       "name": "Unbroken Bonds",
@@ -2391,15 +2325,13 @@
       {
         "normal":{
           "low": 0.2,
-          "high": 1.5,
-          "market": 0.26
+          "high": 1.5
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.14,
-          "high": 1.08,
-          "market": 0.5
+          "high": 1.08
         }
       }
     ]
@@ -2408,7 +2340,7 @@
   {
     "id": "sm10-73",
     "name": "Koffing",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic"],
     "types": ["Psychic"],
     "set": {
@@ -2425,15 +2357,13 @@
       {
         "normal":{
           "low": 0.05,
-          "high": 1,
-          "market": 0.15
+          "high": 1
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.18,
-          "high": 1.48,
-          "market": 0.35
+          "high": 1.48
         }
       }
     ]
@@ -2442,9 +2372,14 @@
   {
     "id": "sm10-74",
     "name": "Weezing",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Stage 1"],
     "types": ["Psychic"],
+    "abilities": [
+      {
+        "type": "Ability"
+      }
+    ],
     "set": {
       "id": "sm10",
       "name": "Unbroken Bonds",
@@ -2459,15 +2394,13 @@
       {
         "normal":{
           "low": 0.35,
-          "high": 2.4,
-          "market": 0.54
+          "high": 2.4
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.7,
-          "high": 1.99,
-          "market": 0.84
+          "high": 1.99
         }
       }
     ]
@@ -2476,9 +2409,14 @@
   {
     "id": "sm10-75",
     "name": "Mewtwo",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic"],
     "types": ["Psychic"],
+    "abilities": [
+      {
+        "type": "Ability"
+      }
+    ],
     "set": {
       "id": "sm10",
       "name": "Unbroken Bonds",
@@ -2493,15 +2431,13 @@
       {
         "normal":{
           "low": 0.5,
-          "high": 9.1,
-          "market": 1.02
+          "high": 9.1
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.8,
-          "high": 4.5,
-          "market": 1.52
+          "high": 4.5
         }
       }
     ]
@@ -2510,9 +2446,14 @@
   {
     "id": "sm10-76",
     "name": "Mew",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic"],
     "types": ["Psychic"],
+    "abilities": [
+      {
+        "type": "Ability"
+      }
+    ],
     "set": {
       "id": "sm10",
       "name": "Unbroken Bonds",
@@ -2527,15 +2468,13 @@
       {
         "holofoil":{
           "low": 4.31,
-          "high": 8,
-          "market": 6.61
+          "high": 8
         }
       },
       {
         "reverseHolofoil":{
           "low": 4.58,
-          "high": 8,
-          "market": 5.73
+          "high": 8
         }
       }
     ]
@@ -2544,7 +2483,7 @@
   {
     "id": "sm10-77",
     "name": "Misdreavus",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic"],
     "types": ["Psychic"],
     "set": {
@@ -2561,15 +2500,13 @@
       {
         "normal":{
           "low": 0.03,
-          "high": 1.24,
-          "market": 0.11
+          "high": 1.24
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.08,
-          "high": 1.44,
-          "market": 0.26
+          "high": 1.44
         }
       }
     ]
@@ -2578,9 +2515,14 @@
   {
     "id": "sm10-78",
     "name": "Mismagius",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Stage 1"],
     "types": ["Psychic"],
+    "abilities": [
+      {
+        "type": "Ability"
+      }
+    ],
     "set": {
       "id": "sm10",
       "name": "Unbroken Bonds",
@@ -2595,15 +2537,13 @@
       {
         "normal":{
           "low": 0.22,
-          "high": 4,
-          "market": 0.38
+          "high": 4
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.17,
-          "high": 8,
-          "market": 0.53
+          "high": 8
         }
       }
     ]
@@ -2612,7 +2552,7 @@
   {
     "id": "sm10-79",
     "name": "Espurr",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic"],
     "types": ["Psychic"],
     "set": {
@@ -2629,15 +2569,13 @@
       {
         "normal":{
           "low": 0.08,
-          "high": 1.49,
-          "market": 0.26
+          "high": 1.49
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.24,
-          "high": 1,
-          "market": 0.43
+          "high": 1
         }
       }
     ]
@@ -2646,7 +2584,7 @@
   {
     "id": "sm10-80",
     "name": "Meowstic",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Stage 1"],
     "types": ["Psychic"],
     "set": {
@@ -2663,15 +2601,13 @@
       {
         "normal":{
           "low": 0.04,
-          "high": 1.55,
-          "market": 0.35
+          "high": 1.55
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.23,
-          "high": 2,
-          "market": 0.59
+          "high": 2
         }
       }
     ]
@@ -2680,9 +2616,14 @@
   {
     "id": "sm10-81",
     "name": "Marshadow",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic"],
     "types": ["Psychic"],
+    "abilities": [
+      {
+        "type": "Ability"
+      }
+    ],
     "set": {
       "id": "sm10",
       "name": "Unbroken Bonds",
@@ -2697,15 +2638,13 @@
       {
         "holofoil":{
           "low": 0.24,
-          "high": 6,
-          "market": 0.56
+          "high": 6
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.4,
-          "high": 6,
-          "market": 0.67
+          "high": 6
         }
       }
     ]
@@ -2714,7 +2653,7 @@
   {
     "id": "sm10-82",
     "name": "Marshadow & Machamp-GX",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic, TAG TEAM, GX"],
     "types": ["Fighting"],
     "set": {
@@ -2731,8 +2670,7 @@
       {
         "holofoil":{
           "low": 10.51,
-          "high": 39.69,
-          "market": 14.12
+          "high": 39.69
         }
       }
     ]
@@ -2741,7 +2679,7 @@
   {
     "id": "sm10-83",
     "name": "Sandshrew",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic"],
     "types": ["Fighting"],
     "set": {
@@ -2758,15 +2696,13 @@
       {
         "normal":{
           "low": 0.02,
-          "high": 1.36,
-          "market": 0.17
+          "high": 1.36
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.12,
-          "high": 1,
-          "market": 0.28
+          "high": 1
         }
       }
     ]
@@ -2775,7 +2711,7 @@
   {
     "id": "sm10-84",
     "name": "Sandslash",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Stage 1"],
     "types": ["Fighting"],
     "set": {
@@ -2792,15 +2728,13 @@
       {
         "normal":{
           "low": 0.19,
-          "high": 1.51,
-          "market": 0.27
+          "high": 1.51
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.15,
-          "high": 1.5,
-          "market": 0.44
+          "high": 1.5
         }
       }
     ]
@@ -2809,9 +2743,14 @@
   {
     "id": "sm10-85",
     "name": "Diglett",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic"],
     "types": ["Fighting"],
+    "abilities": [
+      {
+        "type": "Ability"
+      }
+    ],
     "set": {
       "id": "sm10",
       "name": "Unbroken Bonds",
@@ -2826,15 +2765,13 @@
       {
         "normal":{
           "low": 0.01,
-          "high": 1.2,
-          "market": 0.14
+          "high": 1.2
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.1,
-          "high": 2,
-          "market": 0.28
+          "high": 2
         }
       }
     ]
@@ -2843,7 +2780,7 @@
   {
     "id": "sm10-86",
     "name": "Dugtrio",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Stage 1"],
     "types": ["Fighting"],
     "set": {
@@ -2860,15 +2797,13 @@
       {
         "normal":{
           "low": 0.11,
-          "high": 1.42,
-          "market": 0.25
+          "high": 1.42
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.18,
-          "high": 1.09,
-          "market": 0.33
+          "high": 1.09
         }
       }
     ]
@@ -2877,7 +2812,7 @@
   {
     "id": "sm10-87",
     "name": "Geodude",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic"],
     "types": ["Fighting"],
     "set": {
@@ -2894,15 +2829,13 @@
       {
         "normal":{
           "low": 0.03,
-          "high": 1.39,
-          "market": 0.09
+          "high": 1.39
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.1,
-          "high": 1,
-          "market": 0.24
+          "high": 1
         }
       }
     ]
@@ -2911,7 +2844,7 @@
   {
     "id": "sm10-88",
     "name": "Graveler",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Stage 1"],
     "types": ["Fighting"],
     "set": {
@@ -2928,15 +2861,13 @@
       {
         "normal":{
           "low": 0.03,
-          "high": 1.39,
-          "market": 0.08
+          "high": 1.39
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.19,
-          "high": 1.49,
-          "market": 0.3
+          "high": 1.49
         }
       }
     ]
@@ -2945,7 +2876,7 @@
   {
     "id": "sm10-89",
     "name": "Golem",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Stage 2"],
     "types": ["Fighting"],
     "set": {
@@ -2962,15 +2893,13 @@
       {
         "holofoil":{
           "low": 0.35,
-          "high": 1.04,
-          "market": 0.47
+          "high": 1.04
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.25,
-          "high": 1.49,
-          "market": 0.48
+          "high": 1.49
         }
       }
     ]
@@ -2979,7 +2908,7 @@
   {
     "id": "sm10-90",
     "name": "Cubone",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic"],
     "types": ["Fighting"],
     "set": {
@@ -2996,15 +2925,13 @@
       {
         "normal":{
           "low": 0.04,
-          "high": 1.39,
-          "market": 0.19
+          "high": 1.39
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.24,
-          "high": 1.54,
-          "market": 0.43
+          "high": 1.54
         }
       }
     ]
@@ -3013,7 +2940,7 @@
   {
     "id": "sm10-91",
     "name": "Marowak",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Stage 1"],
     "types": ["Fighting"],
     "set": {
@@ -3030,15 +2957,13 @@
       {
         "normal":{
           "low": 0.14,
-          "high": 1.24,
-          "market": 0.35
+          "high": 1.24
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.33,
-          "high": 1,
-          "market": 0.55
+          "high": 1
         }
       }
     ]
@@ -3047,7 +2972,7 @@
   {
     "id": "sm10-92",
     "name": "Rhyhorn",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic"],
     "types": ["Fighting"],
     "set": {
@@ -3064,15 +2989,13 @@
       {
         "normal":{
           "low": 0.03,
-          "high": 1.6,
-          "market": 0.14
+          "high": 1.6
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.12,
-          "high": 1.43,
-          "market": 0.29
+          "high": 1.43
         }
       }
     ]
@@ -3081,7 +3004,7 @@
   {
     "id": "sm10-93",
     "name": "Rhyhorn",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic"],
     "types": ["Fighting"],
     "set": {
@@ -3098,15 +3021,13 @@
       {
         "normal":{
           "low": 0.03,
-          "high": 1.33,
-          "market": 0.07
+          "high": 1.33
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.1,
-          "high": 2,
-          "market": 0.21
+          "high": 2
         }
       }
     ]
@@ -3115,7 +3036,7 @@
   {
     "id": "sm10-94",
     "name": "Rhydon",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Stage 1"],
     "types": ["Fighting"],
     "set": {
@@ -3132,15 +3053,13 @@
       {
         "normal":{
           "low": 0.08,
-          "high": 1,
-          "market": 0.17
+          "high": 1
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.24,
-          "high": 1,
-          "market": 0.5
+          "high": 1
         }
       }
     ]
@@ -3149,7 +3068,7 @@
   {
     "id": "sm10-95",
     "name": "Rhyperior",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Stage 2"],
     "types": ["Fighting"],
     "set": {
@@ -3166,15 +3085,13 @@
       {
         "normal":{
           "low": 0.15,
-          "high": 1.49,
-          "market": 0.28
+          "high": 1.49
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.1,
-          "high": 1.99,
-          "market": 0.36
+          "high": 1.99
         }
       }
     ]
@@ -3183,7 +3100,7 @@
   {
     "id": "sm10-96",
     "name": "Wooper",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic"],
     "types": ["Fighting"],
     "set": {
@@ -3200,15 +3117,13 @@
       {
         "normal":{
           "low": 0.05,
-          "high": 1.43,
-          "market": 0.21
+          "high": 1.43
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.1,
-          "high": 1.54,
-          "market": 0.42
+          "high": 1.54
         }
       }
     ]
@@ -3217,7 +3132,7 @@
   {
     "id": "sm10-97",
     "name": "Quagsire",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Stage 1"],
     "types": ["Fighting"],
     "set": {
@@ -3234,15 +3149,13 @@
       {
         "normal":{
           "low": 0.21,
-          "high": 1.36,
-          "market": 0.38
+          "high": 1.36
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.28,
-          "high": 1.6,
-          "market": 0.71
+          "high": 1.6
         }
       }
     ]
@@ -3251,9 +3164,14 @@
   {
     "id": "sm10-98",
     "name": "Gligar",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic"],
     "types": ["Fighting"],
+    "abilities": [
+      {
+        "type": "Ability"
+      }
+    ],
     "set": {
       "id": "sm10",
       "name": "Unbroken Bonds",
@@ -3268,15 +3186,13 @@
       {
         "normal":{
           "low": 0.01,
-          "high": 69,
-          "market": 0.1
+          "high": 69
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.1,
-          "high": 2,
-          "market": 0.22
+          "high": 2
         }
       }
     ]
@@ -3285,7 +3201,7 @@
   {
     "id": "sm10-99",
     "name": "Gliscor",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Stage 1"],
     "types": ["Fighting"],
     "set": {
@@ -3302,15 +3218,13 @@
       {
         "normal":{
           "low": 0.02,
-          "high": 1.37,
-          "market": 0.12
+          "high": 1.37
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.2,
-          "high": 2,
-          "market": 0.31
+          "high": 2
         }
       }
     ]
@@ -3319,9 +3233,14 @@
   {
     "id": "sm10-100",
     "name": "Tyrogue",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic"],
     "types": ["Fighting"],
+    "abilities": [
+      {
+        "type": "Ability"
+      }
+    ],
     "set": {
       "id": "sm10",
       "name": "Unbroken Bonds",
@@ -3336,15 +3255,13 @@
       {
         "normal":{
           "low": 0.11,
-          "high": 1.25,
-          "market": 0.35
+          "high": 1.25
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.59,
-          "high": 0.79,
-          "market": 0.79
+          "high": 0.79
         }
       }
     ]
@@ -3353,7 +3270,7 @@
   {
     "id": "sm10-101",
     "name": "Hitmontop",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic"],
     "types": ["Fighting"],
     "set": {
@@ -3370,15 +3287,13 @@
       {
         "normal":{
           "low": 0.1,
-          "high": 1,
-          "market": 0.34
+          "high": 1
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.79,
-          "high": 1,
-          "market": 0.75
+          "high": 1
         }
       }
     ]
@@ -3387,7 +3302,7 @@
   {
     "id": "sm10-102",
     "name": "Riolu",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic"],
     "types": ["Fighting"],
     "set": {
@@ -3404,15 +3319,13 @@
       {
         "normal":{
           "low": 0.03,
-          "high": 1.34,
-          "market": 0.15
+          "high": 1.34
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.11,
-          "high": 2,
-          "market": 0.31
+          "high": 2
         }
       }
     ]
@@ -3421,7 +3334,7 @@
   {
     "id": "sm10-103",
     "name": "Landorus",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic"],
     "types": ["Fighting"],
     "set": {
@@ -3438,15 +3351,13 @@
       {
         "holofoil":{
           "low": 0.21,
-          "high": 1.5,
-          "market": 0.37
+          "high": 1.5
         }
       } ,
       {
         "reverseHolofoil":{
           "low": 0.2,
-          "high": 3,
-          "market": 0.41
+          "high": 3
         }
       }
     ]
@@ -3455,7 +3366,7 @@
   {
     "id": "sm10-104",
     "name": "Crabrawler",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic"],
     "types": ["Fighting"],
     "set": {
@@ -3472,15 +3383,13 @@
       {
         "normal":{
           "low": 0.02,
-          "high": 1.37,
-          "market": 0.06
+          "high": 1.37
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.08,
-          "high": 1.38,
-          "market": 0.16
+          "high": 1.38
         }
       }
     ]
@@ -3489,7 +3398,7 @@
   {
     "id": "sm10-105",
     "name": "Crabominable",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Stage 1"],
     "types": ["Fighting"],
     "set": {
@@ -3506,15 +3415,13 @@
       {
         "normal":{
           "low": 0.13,
-          "high": 1,
-          "market": 0.29
+          "high": 1
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.3,
-          "high": 1,
-          "market": 0.6
+          "high": 1
         }
       }
     ]
@@ -3523,9 +3430,14 @@
   {
     "id": "sm10-106",
     "name": "Stakataka",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic, Ultra Beast"],
     "types": ["Fighting"],
+    "abilities": [
+      {
+        "type": "Ability"
+      }
+    ],
     "set": {
       "id": "sm10",
       "name": "Unbroken Bonds",
@@ -3540,15 +3452,13 @@
       {
         "holofoil":{
           "low": 1.1,
-          "high": 2.49,
-          "market": 1.31
+          "high": 2.49
         }
       },
       {
         "reverseHolofoil":{
           "low": 1.18,
-          "high": 1.99,
-          "market": 1.18
+          "high": 1.99
         }
       }
     ]
@@ -3557,7 +3467,7 @@
   {
     "id": "sm10-107",
     "name": "Greninja & Zoroark-GX",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic, TAG TEAM, GX"],
     "types": ["Darkness"],
     "set": {
@@ -3574,8 +3484,7 @@
       {
         "holofoil":{
           "low": 24.79,
-          "high": 73.8,
-          "market": 39.8
+          "high": 73.8
         }
       }
     ]
@@ -3584,7 +3493,7 @@
   {
     "id": "sm10-108",
     "name": "Murkrow",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic"],
     "types": ["Darkness"],
     "set": {
@@ -3601,15 +3510,13 @@
       {
         "normal":{
           "low": 0.03,
-          "high": 1.39,
-          "market": 0.1
+          "high": 1.39
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.08,
-          "high": 1,
-          "market": 0.2
+          "high": 1
         }
       }
     ]
@@ -3618,9 +3525,14 @@
   {
     "id": "sm10-109",
     "name": "Honchkrow-GX",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Stage 1, GX"],
     "types": ["Darkness"],
+    "abilities": [
+      {
+        "type": "Ability"
+      }
+    ],
     "set": {
       "id": "sm10",
       "name": "Unbroken Bonds",
@@ -3635,8 +3547,7 @@
       {
         "holofoil":{
           "low": 0.89,
-          "high": 9.99,
-          "market": 1.31
+          "high": 9.99
         }
       }
     ]
@@ -3645,7 +3556,7 @@
   {
     "id": "sm10-110",
     "name": "Carvanha",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic"],
     "types": ["Darkness"],
     "set": {
@@ -3662,15 +3573,13 @@
       {
         "normal":{
           "low": 0.01,
-          "high": 1.36,
-          "market": 0.09
+          "high": 1.36
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.13,
-          "high": 1.47,
-          "market": 0.26
+          "high": 1.47
         }
       }
     ]
@@ -3679,9 +3588,14 @@
   {
     "id": "sm10-111",
     "name": "Sharpedo",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Stage 1"],
     "types": ["Darkness"],
+    "abilities": [
+      {
+        "type": "Ability"
+      }
+    ],
     "set": {
       "id": "sm10",
       "name": "Unbroken Bonds",
@@ -3696,15 +3610,13 @@
       {
         "normal":{
           "low": 0.14,
-          "high": 1.45,
-          "market": 0.53
+          "high": 1.45
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.35,
-          "high": 2.49,
-          "market": 0.81
+          "high": 2.49
         }
       }
     ]
@@ -3713,9 +3625,14 @@
   {
     "id": "sm10-112",
     "name": "Spiritomb",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic"],
     "types": ["Darkness"],
+    "abilities": [
+      {
+        "type": "Ability"
+      }
+    ],
     "set": {
       "id": "sm10",
       "name": "Unbroken Bonds",
@@ -3730,15 +3647,13 @@
       {
         "holofoil":{
           "low": 1.49,
-          "high": 10,
-          "market": 1.96
+          "high": 10
         }
       },
       {
         "reverseHolofoil":{
           "low": 1.75,
-          "high": 9.99,
-          "market": 2.44
+          "high": 9.99
         }
       }
     ]
@@ -3747,9 +3662,14 @@
   {
     "id": "sm10-113",
     "name": "Sandile",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic"],
     "types": ["Darkness"],
+    "abilities": [
+      {
+        "type": "Ability"
+      }
+    ],
     "set": {
       "id": "sm10",
       "name": "Unbroken Bonds",
@@ -3764,15 +3684,13 @@
       {
         "normal":{
           "low": 0.05,
-          "high": 1.27,
-          "market": 0.2
+          "high": 1.27
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.12,
-          "high": 1.39,
-          "market": 0.39
+          "high": 1.39
         }
       }
     ]
@@ -3781,7 +3699,7 @@
   {
     "id": "sm10-114",
     "name": "Sandile",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic"],
     "types": ["Darkness"],
     "set": {
@@ -3798,15 +3716,13 @@
       {
         "normal":{
           "low": 0.04,
-          "high": 1.35,
-          "market": 0.13
+          "high": 1.35
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.12,
-          "high": 1.25,
-          "market": 0.27
+          "high": 1.25
         }
       }
     ]
@@ -3815,7 +3731,7 @@
   {
     "id": "sm10-115",
     "name": "Krokorok",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Stage 1"],
     "types": ["Darkness"],
     "set": {
@@ -3832,15 +3748,13 @@
       {
         "normal":{
           "low": 0.03,
-          "high": 1.42,
-          "market": 0.06
+          "high": 1.42
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.17,
-          "high": 1.49,
-          "market": 0.27
+          "high": 1.49
         }
       }
     ]
@@ -3849,7 +3763,7 @@
   {
     "id": "sm10-116",
     "name": "Krookodile",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Stage 2"],
     "types": ["Darkness"],
     "set": {
@@ -3866,15 +3780,13 @@
       {
         "normal":{
           "low": 0.13,
-          "high": 1.08,
-          "market": 0.28
+          "high": 1.08
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.15,
-          "high": 2,
-          "market": 0.5
+          "high": 2
         }
       }
     ]
@@ -3883,7 +3795,7 @@
   {
     "id": "sm10-117",
     "name": "Greninja",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Stage 2"],
     "types": ["Darkness"],
     "set": {
@@ -3900,15 +3812,13 @@
       {
         "holofoil":{
           "low": 1.72,
-          "high": 7.59,
-          "market": 3.55
+          "high": 7.59
         }
       },
       {
         "reverseHolofoil":{
           "low": 3.25,
-          "high": 9.98,
-          "market": 3.86
+          "high": 9.98
         }
       }
     ]
@@ -3917,7 +3827,7 @@
   {
     "id": "sm10-118",
     "name": "Inkay",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic"],
     "types": ["Darkness"],
     "set": {
@@ -3934,15 +3844,13 @@
       {
         "normal":{
           "low": 0.02,
-          "high": 1.38,
-          "market": 0.08
+          "high": 1.38
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.1,
-          "high": 1.31,
-          "market": 0.2
+          "high": 1.31
         }
       }
     ]
@@ -3951,7 +3859,7 @@
   {
     "id": "sm10-119",
     "name": "Malamar",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Stage 1"],
     "types": ["Darkness"],
     "set": {
@@ -3968,15 +3876,13 @@
       {
         "holofoil":{
           "low": 0.12,
-          "high": 1.87,
-          "market": 0.37
+          "high": 1.87
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.17,
-          "high": 1.51,
-          "market": 0.37
+          "high": 1.51
         }
       }
     ]
@@ -3985,7 +3891,7 @@
   {
     "id": "sm10-120",
     "name": "Lucario & Melmetal-GX",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic, TAG TEAM, GX"],
     "types": ["Metal"],
     "set": {
@@ -4002,8 +3908,7 @@
       {
         "holofoil":{
           "low": 10.5,
-          "high": 44.95,
-          "market": 17.04
+          "high": 44.95
         }
       }
     ]
@@ -4012,7 +3917,7 @@
   {
     "id": "sm10-121",
     "name": "Alolan Diglett",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic"],
     "types": ["Metal"],
     "set": {
@@ -4029,15 +3934,13 @@
       {
         "normal":{
           "low": 0.04,
-          "high": 1.39,
-          "market": 0.09
+          "high": 1.39
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.13,
-          "high": 1.47,
-          "market": 0.21
+          "high": 1.47
         }
       }
     ]
@@ -4047,9 +3950,14 @@
   {
     "id": "sm10-122",
     "name": "Alolan Dugtrio",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Stage 1"],
     "types": ["Metal"],
+    "abilities": [
+      {
+        "type": "Ability"
+      }
+    ],
     "set": {
       "id": "sm10",
       "name": "Unbroken Bonds",
@@ -4064,15 +3972,13 @@
       {
         "normal":{
           "low": 0.13,
-          "high": 1.49,
-          "market": 0.4
+          "high": 1.49
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.18,
-          "high": 1.95,
-          "market": 0.51
+          "high": 1.95
         }
       }
     ]
@@ -4081,7 +3987,7 @@
   {
     "id": "sm10-123",
     "name": "Aron",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic"],
     "types": ["Metal"],
     "set": {
@@ -4098,15 +4004,13 @@
       {
         "normal":{
           "low": 0.02,
-          "high": 1.36,
-          "market": 0.14
+          "high": 1.36
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.1,
-          "high": 1,
-          "market": 0.28
+          "high": 1
         }
       }
     ]
@@ -4115,7 +4019,7 @@
   {
     "id": "sm10-124",
     "name": "Lairon",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Stage 1"],
     "types": ["Metal"],
     "set": {
@@ -4132,15 +4036,13 @@
       {
         "normal":{
           "low": 0.03,
-          "high": 1.39,
-          "market": 0.11
+          "high": 1.39
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.18,
-          "high": 0.99,
-          "market": 0.36
+          "high": 0.99
         }
       }
     ]
@@ -4149,7 +4051,7 @@
   {
     "id": "sm10-125",
     "name": "Aggron",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Stage 2"],
     "types": ["Metal"],
     "set": {
@@ -4166,15 +4068,13 @@
       {
         "normal":{
           "low": 0.15,
-          "high": 1.95,
-          "market": 0.43
+          "high": 1.95
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.3,
-          "high": 1.52,
-          "market": 0.54
+          "high": 1.52
         }
       }
     ]
@@ -4183,7 +4083,7 @@
   {
     "id": "sm10-126",
     "name": "Lucario",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Stage 1"],
     "types": ["Metal"],
     "set": {
@@ -4200,15 +4100,13 @@
       {
         "holofoil":{
           "low": 0.36,
-          "high": 2.99,
-          "market": 0.95
+          "high": 2.99
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.4,
-          "high": 1.99,
-          "market": 0.79
+          "high": 1.99
         }
       }
     ]
@@ -4217,9 +4115,14 @@
   {
     "id": "sm10-127",
     "name": "Genesect",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic"],
     "types": ["Metal"],
+    "abilities": [
+      {
+        "type": "Ability"
+      }
+    ],
     "set": {
       "id": "sm10",
       "name": "Unbroken Bonds",
@@ -4234,15 +4137,13 @@
       {
         "normal":{
           "low": 0.13,
-          "high": 1.49,
-          "market": 0.34
+          "high": 1.49
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.26,
-          "high": 1.56,
-          "market": 0.46
+          "high": 1.56
         }
       }
     ]
@@ -4251,7 +4152,7 @@
   {
     "id": "sm10-128",
     "name": "Meltan",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic"],
     "types": ["Metal"],
     "set": {
@@ -4268,15 +4169,13 @@
       {
         "normal":{
           "low": 0.04,
-          "high": 1.5,
-          "market": 0.16
+          "high": 1.5
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.12,
-          "high": 1,
-          "market": 0.25 
+          "high": 1
         }
       }
     ]
@@ -4285,9 +4184,14 @@
   {
     "id": "sm10-129",
     "name": "Melmetal",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Stage 1"],
     "types": ["Metal"],
+    "abilities": [
+      {
+        "type": "Ability"
+      }
+    ],
     "set": {
       "id": "sm10",
       "name": "Unbroken Bonds",
@@ -4302,15 +4206,13 @@
       {
         "holofoil":{
           "low": 0.15,
-          "high": 1.99,
-          "market": 0.45
+          "high": 1.99
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.15,
-          "high": 1.99,
-          "market": 0.45
+          "high": 1.99
         }
       }
     ]
@@ -4319,7 +4221,7 @@
   {
     "id": "sm10-130",
     "name": "Gardevoir & Sylveon-GX",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic, TAG TEAM, GX"],
     "types": ["Fairy"],
     "set": {
@@ -4336,8 +4238,7 @@
       {
         "holofoil":{
           "low": 35.9,
-          "high": 118.83,
-          "market": 45.44
+          "high": 118.83
         }
       } 
     ]
@@ -4346,9 +4247,14 @@
   {
     "id": "sm10-131",
     "name": "Cleffa",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic"],
     "types": ["Fairy"],
+    "abilities": [
+      {
+        "type": "Ability"
+      }
+    ],
     "set": {
       "id": "sm10",
       "name": "Unbroken Bonds",
@@ -4363,8 +4269,7 @@
       {
         "normal":{
           "low": 0.25,
-          "high": 2.24,
-          "market": 1.09
+          "high": 2.24
         }
       }
     ]
@@ -4373,7 +4278,7 @@
   {
     "id": "sm10-132",
     "name": "Clefairy",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic"],
     "types": ["Fairy"],
     "set": {
@@ -4390,15 +4295,13 @@
       {
         "normal":{
           "low": 0.04,
-          "high": 1.41,
-          "market": 0.16
+          "high": 1.41
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.14,
-          "high": 1,
-          "market": 0.46
+          "high": 1
         }
       }
     ]
@@ -4407,7 +4310,7 @@
   {
     "id": "sm10-133",
     "name": "Clefable",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Stage 1"],
     "types": ["Fairy"],
     "set": {
@@ -4424,15 +4327,13 @@
       {
         "normal":{
           "low": 0.2,
-          "high": 0.99,
-          "market": 0.37
+          "high": 0.99
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.29,
-          "high": 1.27,
-          "market": 0.65
+          "high": 1.27
         }
       }
     ]
@@ -4441,7 +4342,7 @@
   {
     "id": "sm10-134",
     "name": "Jigglypuff",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic"],
     "types": ["Fairy"],
     "set": {
@@ -4458,15 +4359,13 @@
       {
         "normal":{
           "low": 0.2,
-          "high": 1.95,
-          "market": 0.4
+          "high": 1.95
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.32,
-          "high": 2,
-          "market": 0.67
+          "high": 2
         }
       }
     ]
@@ -4475,7 +4374,7 @@
   {
     "id": "sm10-135",
     "name": "Wigglytuff",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Stage 1"],
     "types": ["Fairy"],
     "set": {
@@ -4492,15 +4391,13 @@
       {
         "normal":{
           "low": 0.25,
-          "high": 6.43,
-          "market": 0.51
+          "high": 6.43
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.5,
-          "high": 3,
-          "market": 1.11
+          "high": 3
         }
       }
     ]
@@ -4509,7 +4406,7 @@
   {
     "id": "sm10-136",
     "name": "Togepi",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic"],
     "types": ["Fairy"],
     "set": {
@@ -4526,15 +4423,13 @@
       {
         "normal":{
           "low": 0.09,
-          "high": 1.95,
-          "market": 0.29
+          "high": 1.95
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.3,
-          "high": 4.99,
-          "market": 0.49
+          "high": 4.99
         }
       }
     ]
@@ -4543,7 +4438,7 @@
   {
     "id": "sm10-137",
     "name": "Togetic",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Stage 1"],
     "types": ["Fairy"],
     "set": {
@@ -4560,15 +4455,13 @@
       {
         "normal":{
           "low": 0.14,
-          "high": 2.95,
-          "market": 0.33
+          "high": 2.95
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.61,
-          "high": 1,
-          "market": 0.7
+          "high": 1
         }
       }
     ]
@@ -4577,9 +4470,14 @@
   {
     "id": "sm10-138",
     "name": "Togekiss",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Stage 2"],
     "types": ["Fairy"],
+    "abilities": [
+      {
+        "type": "Ability"
+      }
+    ],
     "set": {
       "id": "sm10",
       "name": "Unbroken Bonds",
@@ -4594,15 +4492,13 @@
       {
         "holofoil":{
           "low": 0.19,
-          "high": 1.99,
-          "market": 0.84
+          "high": 1.99
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.4,
-          "high": 2.49,
-          "market": 0.7
+          "high": 2.49
         }
       }
     ]
@@ -4611,7 +4507,7 @@
   {
     "id": "sm10-139",
     "name": "Cottonee",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic"],
     "types": ["Fairy"],
     "set": {
@@ -4628,15 +4524,13 @@
       {
         "normal":{
           "low": 0.04,
-          "high": 1.38,
-          "market": 0.11
+          "high": 1.38
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.11,
-          "high": 2,
-          "market": 0.27
+          "high": 2
         }
       }
     ]
@@ -4645,9 +4539,14 @@
   {
     "id": "sm10-140",
     "name": "Whimsicott-GX",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Stage 1, GX"],
     "types": ["Fairy"],
+    "abilities": [
+      {
+        "type": "Ability"
+      }
+    ],
     "set": {
       "id": "sm10",
       "name": "Unbroken Bonds",
@@ -4662,8 +4561,7 @@
       {
         "holofoil":{
           "low": 1,
-          "high": 89,
-          "market": 2.11
+          "high": 89
         }
       }
     ]
@@ -4672,7 +4570,7 @@
   {
     "id": "sm10-141",
     "name": "Spritzee",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic"],
     "types": ["Fairy"],
     "set": {
@@ -4689,15 +4587,13 @@
       {
         "normal":{
           "low": 0.04,
-          "high": 1,
-          "market": 0.19
+          "high": 1
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.1,
-          "high": 1.38,
-          "market": 0.34
+          "high": 1.38
         }
       }
     ]
@@ -4706,7 +4602,7 @@
   {
     "id": "sm10-142",
     "name": "Aromatisse",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Stage 1"],
     "types": ["Fairy"],
     "set": {
@@ -4723,15 +4619,13 @@
       {
         "normal":{
           "low": 0.33,
-          "high": 1.25,
-          "market": 0.55
+          "high": 1.25
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.4,
-          "high": 4.99,
-          "market": 0.7
+          "high": 4.99
         }
       }
     ]
@@ -4740,7 +4634,7 @@
   {
     "id": "sm10-143",
     "name": "Rattata",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic"],
     "types": ["Colorless"],
     "set": {
@@ -4757,15 +4651,13 @@
       {
         "normal":{
           "low": 0.03,
-          "high": 1.22,
-          "market": 0.11
+          "high": 1.22
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.1,
-          "high": 2,
-          "market": 0.27
+          "high": 2
         }
       }
     ]
@@ -4774,7 +4666,7 @@
   {
     "id": "sm10-144",
     "name": "Raticate",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Stage 1"],
     "types": ["Colorless"],
     "set": {
@@ -4791,15 +4683,13 @@
       {
         "normal":{
           "low": 0.03,
-          "high": 1.25,
-          "market": 0.11
+          "high": 1.25
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.23,
-          "high": 1.55,
-          "market": 0.34
+          "high": 1.55
         }
       }
     ]
@@ -4808,7 +4698,7 @@
   {
     "id": "sm10-145",
     "name": "Spearow",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic"],
     "types": ["Colorless"],
     "set": {
@@ -4825,15 +4715,13 @@
       {
         "normal":{
           "low": 0.03,
-          "high": 1.19,
-          "market": 0.13
+          "high": 1.19
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.1,
-          "high": 1.43,
-          "market": 0.3
+          "high": 1.43
         }
       }
     ]
@@ -4842,7 +4730,7 @@
   {
     "id": "sm10-146",
     "name": "Fearow",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Stage 1"],
     "types": ["Colorless"],
     "set": {
@@ -4859,15 +4747,13 @@
       {
         "normal":{
           "low": 0.03,
-          "high": 1.23,
-          "market": 0.16
+          "high": 1.23
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.21,
-          "high": 1,
-          "market": 0.3
+          "high": 1
         }
       }
     ]
@@ -4876,7 +4762,7 @@
   {
     "id": "sm10-147",
     "name": "Meowth",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic"],
     "types": ["Colorless"],
     "set": {
@@ -4893,15 +4779,13 @@
       {
         "normal":{
           "low": 0.08,
-          "high": 1.5,
-          "market": 0.29
+          "high": 1.5
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.25,
-          "high": 2,
-          "market": 0.66
+          "high": 2
         }
       }
     ]
@@ -4910,9 +4794,14 @@
   {
     "id": "sm10-148",
     "name": "Persian",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Stage 1"],
     "types": ["Colorless"],
+    "abilities": [
+      {
+        "type": "Ability"
+      }
+    ],
     "set": {
       "id": "sm10",
       "name": "Unbroken Bonds",
@@ -4927,15 +4816,13 @@
       {
         "normal":{
           "low": 0.15,
-          "high": 1.34,
-          "market": 0.33
+          "high": 1.34
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.24,
-          "high": 1.49,
-          "market": 0.4
+          "high": 1.49
         }
       }
     ]
@@ -4944,9 +4831,14 @@
   {
     "id": "sm10-149",
     "name": "Persian-GX",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Stage 1, GX"],
     "types": ["Colorless"],
+    "abilities": [
+      {
+        "type": "Ability"
+      }
+    ],
     "set": {
       "id": "sm10",
       "name": "Unbroken Bonds",
@@ -4961,8 +4853,7 @@
       {
         "holofoil":{
           "low": 0.99,
-          "high": 6,
-          "market": 2.05
+          "high": 6
         }
       }
     ]
@@ -4971,7 +4862,7 @@
   {
     "id": "sm10-150",
     "name": "Doduo",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic"],
     "types": ["Colorless"],
     "set": {
@@ -4988,15 +4879,13 @@
       {
         "normal":{
           "low": 0.03,
-          "high": 1.21,
-          "market": 0.1
+          "high": 1.21
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.08,
-          "high": 2,
-          "market": 0.25
+          "high": 2
         }
       }
     ]
@@ -5005,7 +4894,7 @@
   {
     "id": "sm10-151",
     "name": "Dodrio",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Stage 1"],
     "types": ["Colorless"],
     "set": {
@@ -5022,15 +4911,13 @@
       {
         "normal":{
           "low": 0.09,
-          "high": 1.29,
-          "market": 0.16
+          "high": 1.29
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.2,
-          "high": 1,
-          "market": 0.31
+          "high": 1
         }
       }
     ]
@@ -5039,7 +4926,7 @@
   {
     "id": "sm10-152",
     "name": "Lickitung",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic"],
     "types": ["Colorless"],
     "set": {
@@ -5056,15 +4943,13 @@
       {
         "normal":{
           "low": 0.03,
-          "high": 1.22,
-          "market": 0.13
+          "high": 1.22
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.12,
-          "high": 9.99,
-          "market": 0.26
+          "high": 9.99
         }
       }
     ]
@@ -5073,7 +4958,7 @@
   {
     "id": "sm10-153",
     "name": "Lickilicky",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Stage 1"],
     "types": ["Colorless"],
     "set": {
@@ -5090,15 +4975,13 @@
       {
         "normal":{
           "low": 0.13,
-          "high": 1.08,
-          "market": 0.23
+          "high": 1.08
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.13,
-          "high": 1.04,
-          "market": 0.46
+          "high": 1.04
         }
       }
     ]
@@ -5107,7 +4990,7 @@
   {
     "id": "sm10-154",
     "name": "Porygon",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic"],
     "types": ["Colorless"],
     "set": {
@@ -5124,15 +5007,13 @@
       {
         "normal":{
           "low": 0.04,
-          "high": 1,
-          "market": 0.13
+          "high": 1
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.1,
-          "high": 1.25,
-          "market": 0.32
+          "high": 1.25
         }
       }
     ]
@@ -5141,7 +5022,7 @@
   {
     "id": "sm10-155",
     "name": "Porygon",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic"],
     "types": ["Colorless"],
     "set": {
@@ -5158,15 +5039,13 @@
       {
         "normal":{
           "low": 0.1,
-          "high": 0.99,
-          "market": 0.16
+          "high": 0.99
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.19,
-          "high": 2,
-          "market": 0.42
+          "high": 2
         }
       }
     ]
@@ -5175,7 +5054,7 @@
   {
     "id": "sm10-156",
     "name": "Porygon2",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Stage 1"],
     "types": ["Colorless"],
     "set": {
@@ -5192,15 +5071,13 @@
       {
         "normal":{
           "low": 0.09,
-          "high": 1.24,
-          "market": 0.29
+          "high": 1.24
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.5,
-          "high": 2.99,
-          "market": 0.76
+          "high": 2.99
         }
       }
     ]
@@ -5209,9 +5086,14 @@
   {
     "id": "sm10-157",
     "name": "Porygon-Z",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Stage 2"],
     "types": ["Colorless"],
+    "abilities": [
+      {
+        "type": "Ability"
+      }
+    ],
     "set": {
       "id": "sm10",
       "name": "Unbroken Bonds",
@@ -5226,15 +5108,13 @@
       {
         "holofoil":{
           "low": 0.8,
-          "high": 13.99,
-          "market": 1.14
+          "high": 13.99
         }
       } ,
     {
         "reverseHolofoil":{
           "low": 0.99,
-          "high": 8.99,
-          "market": 1.54
+          "high": 8.99
         }
       }
     ]
@@ -5243,9 +5123,14 @@
   {
     "id": "sm10-158",
     "name": "Snorlax",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic"],
     "types": ["Colorless"],
+    "abilities": [
+      {
+        "type": "Ability"
+      }
+    ],
     "set": {
       "id": "sm10",
       "name": "Unbroken Bonds",
@@ -5260,15 +5145,13 @@
       {
         "holofoil":{
           "low": 21.49,
-          "high": 40,
-          "market": 21.12
+          "high": 40
         }
       },
       {
         "reverseHolofoil":{
           "low": 14.87,
-          "high": 30,
-          "market": 15.07
+          "high": 30
         }
       }
     ]
@@ -5277,7 +5160,7 @@
   {
     "id": "sm10-159",
     "name": "Glameow",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic"],
     "types": ["Colorless"],
     "set": {
@@ -5294,15 +5177,13 @@
       {
         "normal":{
           "low": 0.03,
-          "high": 1.19,
-          "market": 0.18
+          "high": 1.19
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.1,
-          "high": 1.4,
-          "market": 0.3
+          "high": 1.4
         }
       }
     ]
@@ -5311,7 +5192,7 @@
   {
     "id": "sm10-160",
     "name": "Purugly",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Stage 1"],
     "types": ["Colorless"],
     "set": {
@@ -5328,15 +5209,13 @@
       {
         "normal":{
           "low": 0.13,
-          "high": 0.99,
-          "market": 0.36
+          "high": 0.99
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.3,
-          "high": 0.99,
-          "market": 0.61
+          "high": 0.99
         }
       }
     ]
@@ -5345,9 +5224,14 @@
   {
     "id": "sm10-161",
     "name": "Happiny",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic"],
     "types": ["Colorless"],
+    "abilities": [
+      {
+        "type": "Ability"
+      }
+    ],
     "set": {
       "id": "sm10",
       "name": "Unbroken Bonds",
@@ -5362,15 +5246,13 @@
       {
         "normal":{
           "low": 0.16,
-          "high": 2.5,
-          "market": 0.31
+          "high": 2.5
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.4,
-          "high": 1.01,
-          "market": 0.7
+          "high": 1.01
         }
       }
     ]
@@ -5379,7 +5261,7 @@
   {
     "id": "sm10-162",
     "name": "Chatot",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic"],
     "types": ["Colorless"],
     "set": {
@@ -5396,15 +5278,13 @@
       {
         "normal":{
           "low": 0.03,
-          "high": 1.19,
-          "market": 0.11
+          "high": 1.19
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.1,
-          "high": 1.45,
-          "market": 0.25
+          "high": 1.45
         }
       }
     ]
@@ -5413,9 +5293,14 @@
   {
     "id": "sm10-163",
     "name": "Celesteela-GX",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic, GX, Ultra Beast"],
     "types": ["Colorless"],
+    "abilities": [
+      {
+        "type": "Ability"
+      }
+    ],
     "set": {
       "id": "sm10",
       "name": "Unbroken Bonds",
@@ -5430,8 +5315,7 @@
       {
         "holofoil":{
           "low": 1.26,
-          "high": 89,
-          "market": 2.3
+          "high": 89
         }
       }
     ]
@@ -5441,7 +5325,7 @@
     "id": "sm10-164",
     "name": "Beast Bringer",
     "supertype": "Trainer",
-    "subtypes": ["Pokémon Tool"],
+    "subtypes": ["Pokemon Tool"],
     "set": {
       "id": "sm10",
       "name": "Unbroken Bonds",
@@ -5456,15 +5340,13 @@
       {
         "normal":{
           "low": 0.01,
-          "high": 1.38,
-          "market": 0.09
+          "high": 1.38
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.15,
-          "high": 0.99,
-          "market": 0.28
+          "high": 0.99
         }
       }
     ]
@@ -5489,15 +5371,13 @@
       {
         "normal":{
           "low": 0.04,
-          "high": 1.34,
-          "market": 0.12
+          "high": 1.34
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.11,
-          "high": 2,
-          "market": 0.23
+          "high": 2
         }
       }
     ]
@@ -5522,15 +5402,13 @@
       {
         "normal":{
           "low": 0.01,
-          "high": 1.37,
-          "market": 0.14
+          "high": 1.37
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.1,
-          "high": 1.04,
-          "market": 0.31
+          "high": 1.04
         }
       }
     ]
@@ -5555,15 +5433,13 @@
       {
         "normal":{
           "low": 0.04,
-          "high": 1.4,
-          "market": 0.13
+          "high": 1.4
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.09,
-          "high": 4,
-          "market": 0.39
+          "high": 4
         }
       }
     ]
@@ -5588,15 +5464,13 @@
       {
         "normal":{
           "low": 0.08,
-          "high": 1.44,
-          "market": 0.19
+          "high": 1.44
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.11,
-          "high": 1.47,
-          "market": 0.36
+          "high": 1.47
         }
       }
     ]
@@ -5621,15 +5495,13 @@
       {
         "normal":{
           "low": 0.03,
-          "high": 1.4,
-          "market": 0.12
+          "high": 1.4
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.1,
-          "high": 1.24,
-          "market": 0.3
+          "high": 1.24
         }
       }
     ]
@@ -5654,15 +5526,13 @@
       {
         "normal":{
           "low": 0.05,
-          "high": 1.38,
-          "market": 0.13
+          "high": 1.38
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.3,
-          "high": 1.99,
-          "market": 0.49
+          "high": 1.99
         }
       }
     ]
@@ -5672,7 +5542,7 @@
     "id": "sm10-171",
     "name": "Fairy Charm Ability",
     "supertype": "Trainer",
-    "subtypes": ["Pokémon Tool"],
+    "subtypes": ["Pokemon Tool"],
     "set": {
       "id": "sm10",
       "name": "Unbroken Bonds",
@@ -5687,15 +5557,13 @@
       {
         "normal":{
           "low": 0.04,
-          "high": 1.34,
-          "market": 0.14
+          "high": 1.34
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.05,
-          "high": 1.35,
-          "market": 0.27
+          "high": 1.35
         }
       }
     ]
@@ -5705,7 +5573,7 @@
     "id": "sm10-172",
     "name": "Fairy Charm Lightning",
     "supertype": "Trainer",
-    "subtypes": ["Pokémon Tool"],
+    "subtypes": ["Pokemon Tool"],
     "set": {
       "id": "sm10",
       "name": "Unbroken Bonds",
@@ -5720,15 +5588,13 @@
       {
         "normal":{
           "low": 0.01,
-          "high": 1.35,
-          "market": 0.12
+          "high": 1.35
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.11,
-          "high": 2,
-          "market": 0.26
+          "high": 2
         }
       }
     ]
@@ -5753,15 +5619,13 @@
       {
         "normal":{
           "low": 0.17,
-          "high": 2.16,
-          "market": 0.24
+          "high": 2.16
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.5,
-          "high": 3.24,
-          "market": 1.6
+          "high": 3.24
         }
       }
     ]
@@ -5786,15 +5650,13 @@
       {
         "normal":{
           "low": 0.03,
-          "high": 1.34,
-          "market": 0.11
+          "high": 1.34
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.13,
-          "high": 1.27,
-          "market": 0.36
+          "high": 1.27
         }
       }
     ]
@@ -5819,15 +5681,13 @@
       {
         "normal":{
           "low": 0.1,
-          "high": 3,
-          "market": 0.29
+          "high": 3
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.66,
-          "high": 5,
-          "market": 0.96
+          "high": 5
         }
       }
     ]
@@ -5852,15 +5712,13 @@
       {
         "normal":{
           "low": 0.03,
-          "high": 1,
-          "market": 0.12
+          "high": 1
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.15,
-          "high": 0.99,
-          "market": 0.29
+          "high": 0.99
         }
       }
     ]
@@ -5885,15 +5743,13 @@
       {
         "normal":{
           "low": 0.04,
-          "high": 1.4,
-          "market": 0.17
+          "high": 1.4
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.15,
-          "high": 1.34,
-          "market": 0.3
+          "high": 1.34
         }
       }
     ]
@@ -5918,15 +5774,13 @@
       {
         "normal":{
           "low": 0.05,
-          "high": 1.5,
-          "market": 0.17
+          "high": 1.5
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.3,
-          "high": 1.49,
-          "market": 0.47
+          "high": 1.49
         }
       }
     ]
@@ -5951,15 +5805,13 @@
       {
         "normal":{
           "low": 0.13,
-          "high": 1.99,
-          "market": 0.27
+          "high": 1.99
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.27,
-          "high": 1.25,
-          "market": 0.66
+          "high": 1.25
         }
       }
     ]
@@ -5969,7 +5821,7 @@
     "id": "sm10-180",
     "name": "Metal Core Barrier",
     "supertype": "Trainer",
-    "subtypes": ["Pokémon Tool"],
+    "subtypes": ["Pokemon Tool"],
     "set": {
       "id": "sm10",
       "name": "Unbroken Bonds",
@@ -5984,15 +5836,13 @@
       {
         "normal":{
           "low": 0.05,
-          "high": 1.4,
-          "market": 0.14
+          "high": 1.4
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.2,
-          "high": 2.08,
-          "market": 0.39
+          "high": 2.08
         }
       }
     ]
@@ -6017,15 +5867,13 @@
       {
         "normal":{
           "low": 0.02,
-          "high": 1.35,
-          "market": 0.09
+          "high": 1.35
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.1,
-          "high": 1.27,
-          "market": 0.22
+          "high": 1.27
         }
       }
     ]
@@ -6050,15 +5898,13 @@
       {
         "normal":{
           "low": 1.13,
-          "high": 5.99,
-          "market": 2.06
+          "high": 5.99
         }
       },
       {
         "reverseHolofoil":{
           "low": 3,
-          "high": 5.49,
-          "market": 3.7
+          "high": 5.49
         }
       }
     ]
@@ -6083,15 +5929,13 @@
       {
         "normal":{
           "low": 0.05,
-          "high": 2,
-          "market": 0.15
+          "high": 2
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.15,
-          "high": 2.43,
-          "market": 0.31
+          "high": 2.43
         }
       }
     ]
@@ -6116,15 +5960,13 @@
       {
         "holofoil":{
           "low": 0.1,
-          "high": 3,
-          "market": 0.39
+          "high": 3
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.2,
-          "high": 2.5,
-          "market": 0.46
+          "high": 2.5
         }
       }
     ]
@@ -6149,15 +5991,13 @@
       {
         "normal":{
           "low": 0.12,
-          "high": 0.2,
-          "market": 0.1
+          "high": 0.2
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.12,
-          "high": 2,
-          "market": 0.28
+          "high": 2
         }
       }
     ]
@@ -6167,7 +6007,7 @@
     "id": "sm10-186",
     "name": "Stealthy Hood",
     "supertype": "Trainer",
-    "subtypes": ["Pokémon Tool"],
+    "subtypes": ["Pokemon Tool"],
     "set": {
       "id": "sm10",
       "name": "Unbroken Bonds",
@@ -6182,15 +6022,13 @@
       {
         "normal":{
           "low": 0.05,
-          "high": 1.39,
-          "market": 0.14
+          "high": 1.39
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.15,
-          "high": 1.37,
-          "market": 0.44
+          "high": 1.37
         }
       }
     ]
@@ -6215,15 +6053,13 @@
       {
         "normal":{
           "low": 0.03,
-          "high": 1.37,
-          "market": 0.19
+          "high": 1.37
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.15,
-          "high": 1.99,
-          "market": 0.32
+          "high": 1.99
         }
       }
     ]
@@ -6248,15 +6084,13 @@
       {
         "normal":{
           "low": 0.01,
-          "high": 1.32,
-          "market": 0.08
+          "high": 1.32
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.05,
-          "high": 1.4,
-          "market": 0.2
+          "high": 1.4
         }
       }
     ]
@@ -6281,15 +6115,13 @@
       {
         "normal":{
           "low": 0.21,
-          "high": 2.99,
-          "market": 0.33
+          "high": 2.99
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.3,
-          "high": 5,
-          "market": 0.84
+          "high": 5
         }
       }
     ]
@@ -6300,7 +6132,6 @@
     "name": "Triple Acceleration Energy",
     "supertype": "Energy",
     "subtypes": ["Special"],
-    "types": ["Unknown"],
     "set": {
       "id": "sm10",
       "name": "Unbroken Bonds",
@@ -6315,15 +6146,13 @@
       {
         "normal":{
           "low": 0.08,
-          "high": 1.99,
-          "market": 0.21
+          "high": 1.99
         }
       },
       {
         "reverseHolofoil":{
           "low": 0.11,
-          "high": 4,
-          "market": 0.49
+          "high": 4
         }
       }
     ]
@@ -6332,7 +6161,7 @@
   {
     "id": "sm10-191",
     "name": "Pheromosa & Buzzwole-GX",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic, TAG TEAM, GX, Ultra Beast"],
     "types": ["Grass"],
     "set": {
@@ -6349,8 +6178,7 @@
       {
         "holofoil":{
           "low": 6.78,
-          "high": 89,
-          "market": 8.01
+          "high": 89
         }
       }
     ]
@@ -6359,7 +6187,7 @@
   {
     "id": "sm10-192",
     "name": "Pheromosa & Buzzwole-GX",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic, TAG TEAM, GX, Ultra Beast"],
     "types": ["Grass"],
     "set": {
@@ -6376,8 +6204,7 @@
       {
         "holofoil":{
           "low": 35,
-          "high": 100,
-          "market": 40.41
+          "high": 100
         }
       } 
     ]
@@ -6386,7 +6213,7 @@
   {
     "id": "sm10-193",
     "name": "Venomoth-GX",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Stage 1, GX"],
     "types": ["Grass"],
     "set": {
@@ -6403,8 +6230,7 @@
       {
         "holofoil":{
           "low": 2.45,
-          "high": 89,
-          "market": 3.14
+          "high": 89
         }
       }   
     ]
@@ -6413,7 +6239,7 @@
   {
     "id": "sm10-194",
     "name": "Reshiram & Charizard-GX",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic, TAG TEAM, GX"],
     "types": ["Fire"],
     "set": {
@@ -6430,8 +6256,7 @@
       {
         "holofoil":{
           "low": 32.88,
-          "high": 149.97,
-          "market": 46.41
+          "high": 149.97
         }
       }
     ]
@@ -6440,9 +6265,14 @@
   {
     "id": "sm10-195",
     "name": "Dedenne-GX",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic, GX"],
     "types": ["Lightning"],
+    "abilities": [
+      {
+        "type": "Ability"
+      }
+    ],
     "set": {
       "id": "sm10",
       "name": "Unbroken Bonds",
@@ -6457,8 +6287,7 @@
       {
         "holofoil":{
           "low": 4.99,
-          "high": 39.99,
-          "market": 7.39
+          "high": 39.99
         }
       }   
     ]
@@ -6467,7 +6296,7 @@
   {
     "id": "sm10-196",
     "name": "Muk & Alolan Muk-GX",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic, TAG TEAM, GX"],
     "types": ["Psychic"],
     "set": {
@@ -6484,8 +6313,7 @@
       {
         "holofoil":{
           "low": 10,
-          "high": 39.69,
-          "market": 10.9
+          "high": 39.69
         }
       }
     ]
@@ -6494,7 +6322,7 @@
   {
     "id": "sm10-197",
     "name": "Muk & Alolan Muk-GX",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic, TAG TEAM, GX"],
     "types": ["Psychic"],
     "set": {
@@ -6511,8 +6339,7 @@
       {
         "holofoil":{
           "low": 99.69,
-          "high": 99.69,
-          "market": 56.38
+          "high": 99.69
         }
       }
     ]
@@ -6521,7 +6348,7 @@
   {
     "id": "sm10-198",
     "name": "Marshadow & Machamp-GX",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic, TAG TEAM, GX"],
     "types": ["Fighting"],
     "set": {
@@ -6538,8 +6365,7 @@
       {
         "holofoil":{
           "low": 15,
-          "high": 114.58,
-          "market": 35.01
+          "high": 114.58
         }
       }
     ]
@@ -6548,7 +6374,7 @@
   {
     "id": "sm10-199",
     "name": "Marshadow & Machamp-GX",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic, TAG TEAM, GX"],
     "types": ["Fighting"],
     "set": {
@@ -6565,8 +6391,7 @@
       {
         "holofoil":{
           "low": 139.95,
-          "high": 204.95,
-          "market": 103.44
+          "high": 204.95
         }
       }
     ]
@@ -6575,7 +6400,7 @@
   {
     "id": "sm10-200",
     "name": "Greninja & Zoroark-GX",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic, TAG TEAM, GX"],
     "types": ["Darkness"],
     "set": {
@@ -6592,8 +6417,7 @@
       {
         "holofoil":{
           "low": 25,
-          "high": 79.97,
-          "market": 28.66
+          "high": 79.97
         }
       }
     ]
@@ -6602,7 +6426,7 @@
   {
     "id": "sm10-201",
     "name": "Greninja & Zoroark-GX",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic, TAG TEAM, GX"],
     "types": ["Darkness"],
     "set": {
@@ -6619,8 +6443,7 @@
       {
         "holofoil":{
           "low": 195.22,
-          "high": 302.72,
-          "market": 192.33
+          "high": 302.72
         }
       }
     ]
@@ -6629,9 +6452,14 @@
   {
     "id": "sm10-202",
     "name": "Honchkrow-GX",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Stage 1, GX"],
     "types": ["Darkness"],
+    "abilities": [
+      {
+        "type": "Ability"
+      }
+    ],
     "set": {
       "id": "sm10",
       "name": "Unbroken Bonds",
@@ -6646,8 +6474,7 @@
       {
         "holofoil":{
           "low": 2.09,
-          "high": 89,
-          "market": 3.01
+          "high": 89
         }
       }
     ]
@@ -6656,7 +6483,7 @@
   {
     "id": "sm10-203",
     "name": "Lucario & Melmetal-GX",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic, TAG TEAM, GX"],
     "types": ["Metal"],
     "set": {
@@ -6673,8 +6500,7 @@
       {
         "holofoil":{
           "low": 39.98,
-          "high": 76.72,
-          "market": 24.8
+          "high": 76.72
         }
       }
     ]
@@ -6683,7 +6509,7 @@
   {
     "id": "sm10-204",
     "name": "Gardevoir & Sylveon-GX",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic, TAG TEAM, GX"],
     "types": ["Fairy"],
     "set": {
@@ -6700,8 +6526,7 @@
       {
         "holofoil":{
           "low": 60.99,
-          "high": 128.28,
-          "market": 45.71
+          "high": 128.28
         }
       }
     ]
@@ -6710,7 +6535,7 @@
   {
     "id": "sm10-205",
     "name": "Gardevoir & Sylveon-GX",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic, TAG TEAM, GX"],
     "types": ["Fairy"],
     "set": {
@@ -6727,8 +6552,7 @@
       {
         "holofoil":{
           "low": 375,
-          "high": 536.36,
-          "market": 398.28
+          "high": 536.36
         }
       }
     ]
@@ -6737,9 +6561,14 @@
   {
     "id": "sm10-206",
     "name": "Whimsicott-GX",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Stage 1, GX"],
     "types": ["Fairy"],
+    "abilities": [
+      {
+        "type": "Ability"
+      }
+    ],
     "set": {
       "id": "sm10",
       "name": "Unbroken Bonds",
@@ -6754,8 +6583,7 @@
       {
         "holofoil":{
           "low": 2.7,
-          "high": 8.42,
-          "market": 3.42
+          "high": 8.42
         }
       }
     ]
@@ -6764,9 +6592,14 @@
   {
     "id": "sm10-207",
     "name": "Persian-GX",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Stage 1, GX"],
     "types": ["Colorless"],
+    "abilities": [
+      {
+        "type": "Ability"
+      }
+    ],
     "set": {
       "id": "sm10",
       "name": "Unbroken Bonds",
@@ -6781,8 +6614,7 @@
       {
         "holofoil":{
           "low": 3.45,
-          "high": 9,
-          "market": 4.67
+          "high": 9
         }
       }
     ]
@@ -6791,9 +6623,14 @@
   {
     "id": "sm10-208",
     "name": "Celesteela-GX",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic, GX, Ultra Beast"],
     "types": ["Colorless"],
+    "abilities": [
+      {
+        "type": "Ability"
+      }
+    ],
     "set": {
       "id": "sm10",
       "name": "Unbroken Bonds",
@@ -6808,8 +6645,7 @@
       {
         "holofoil":{
           "low": 2.75,
-          "high": 20,
-          "market": 3.55
+          "high": 20
         }
       }
     ]
@@ -6834,8 +6670,7 @@
       {
         "holofoil":{
           "low": 95,
-          "high": 203.83,
-          "market": 110.23
+          "high": 203.83
         }
       }
     ]
@@ -6860,8 +6695,7 @@
       {
         "holofoil":{
           "low": 14.99,
-          "high": 35,
-          "market": 14.12
+          "high": 35
         }
       }
     ]
@@ -6886,8 +6720,7 @@
       {
         "holofoil":{
           "low": 15.58,
-          "high": 27.37,
-          "market": 17.3
+          "high": 27.37
         }
       }
     ]
@@ -6912,8 +6745,7 @@
       {
         "holofoil":{
           "low": 3.98,
-          "high": 43,
-          "market": 4.55
+          "high": 43
         }
       }
     ]
@@ -6938,8 +6770,7 @@
       {
         "holofoil":{
           "low": 107.38,
-          "high": 182,
-          "market": 107.88
+          "high": 182
         }
       }
     ]
@@ -6964,8 +6795,7 @@
       {
         "holofoil":{
           "low": 40.95,
-          "high": 100.8,
-          "market": 48.76
+          "high": 100.8
         }
       }
     ]
@@ -6974,7 +6804,7 @@
   {
     "id": "sm10-215",
     "name": "Pheromosa & Buzzwole-GX",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic, TAG TEAM, GX, Ultra Beast"],
     "types": ["Grass"],
     "set": {
@@ -6991,8 +6821,7 @@
       {
         "holofoil":{
           "low": 12.98,
-          "high": 39.69,
-          "market": 14.53
+          "high": 39.69
         }
       }
     ]
@@ -7001,7 +6830,7 @@
   {
     "id": "sm10-216",
     "name": "Venomoth-GX",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Stage 1, GX"],
     "types": ["Grass"],
     "set": {
@@ -7018,8 +6847,7 @@
       {
         "holofoil":{
           "low": 6.94,
-          "high": 15,
-          "market": 8.57
+          "high": 15
         }
       }
     ]
@@ -7028,7 +6856,7 @@
   {
     "id": "sm10-217",
     "name": "Reshiram & Charizard-GX",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic, TAG TEAM, GX"],
     "types": ["Fire"],
     "set": {
@@ -7045,8 +6873,7 @@
       {
         "holofoil":{
           "low": 145,
-          "high": 209.99,
-          "market": 150.01
+          "high": 209.99
         }
       }
     ]
@@ -7055,9 +6882,14 @@
   {
     "id": "sm10-218",
     "name": "Blastoise-GX",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Stage 2, GX"],
     "types": ["Water"],
+    "abilities": [
+      {
+        "type": "Ability"
+      }
+    ],
     "set": {
       "id": "sm10",
       "name": "Unbroken Bonds",
@@ -7072,8 +6904,7 @@
       {
         "holofoil":{
           "low": 78.38,
-          "high": 199.69,
-          "market": 96.35
+          "high": 199.69
         }
       }
     ]
@@ -7082,9 +6913,14 @@
   {
     "id": "sm10-219",
     "name": "Dedenne-GX",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic, GX"],
     "types": ["Lightning"],
+    "abilities": [
+      {
+        "type": "Ability"
+      }
+    ],
     "set": {
       "id": "sm10",
       "name": "Unbroken Bonds",
@@ -7099,8 +6935,7 @@
       {
         "holofoil":{
           "low": 15.91,
-          "high": 39.22,
-          "market": 18.77
+          "high": 39.22
         }
       }
     ]
@@ -7109,7 +6944,7 @@
   {
     "id": "sm10-220",
     "name": "Muk & Alolan Muk-GX",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic, TAG TEAM, GX"],
     "types": ["Psychic"],
     "set": {
@@ -7126,8 +6961,7 @@
       {
         "holofoil":{
           "low": 16.23,
-          "high": 39.96,
-          "market": 16.23
+          "high": 39.96
         }
       }
     ]
@@ -7136,7 +6970,7 @@
   {
     "id": "sm10-221",
     "name": "Marshadow & Machamp-GX",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic, TAG TEAM, GX"],
     "types": ["Fighting"],
     "set": {
@@ -7153,8 +6987,7 @@
       {
         "holofoil":{
           "low": 49.99,
-          "high": 104.95,
-          "market": 30.77
+          "high": 104.95
         }
       }
     ]
@@ -7163,7 +6996,7 @@
   {
     "id": "sm10-222",
     "name": "Greninja & Zoroark-GX",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic, TAG TEAM, GX"],
     "types": ["Darkness"],
     "set": {
@@ -7180,8 +7013,7 @@
       {
         "holofoil":{
           "low": 44.99,
-          "high": 114.02,
-          "market": 55.73
+          "high": 114.02
         }
       }
     ]
@@ -7190,9 +7022,14 @@
   {
     "id": "sm10-223",
     "name": "Honchkrow-GX",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Stage 1, GX"],
     "types": ["Darkness"],
+    "abilities": [
+      {
+        "type": "Ability"
+      }
+    ],
     "set": {
       "id": "sm10",
       "name": "Unbroken Bonds",
@@ -7207,8 +7044,7 @@
       {
         "holofoil":{
           "low": 8,
-          "high": 12.18,
-          "market": 7.87
+          "high": 12.18
         }
       }
     ]
@@ -7217,7 +7053,7 @@
   {
     "id": "sm10-224",
     "name": "Lucario & Melmetal-GX",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic, TAG TEAM, GX"],
     "types": ["Metal"],
     "set": {
@@ -7234,8 +7070,7 @@
       {
         "holofoil":{
           "low": 36.21,
-          "high": 79.69,
-          "market": 36.21
+          "high": 79.69
         }
       }
     ]
@@ -7244,7 +7079,7 @@
   {
     "id": "sm10-225",
     "name": "Gardevoir & Sylveon-GX",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic, TAG TEAM, GX"],
     "types": ["Fairy"],
     "set": {
@@ -7261,8 +7096,7 @@
       {
         "holofoil":{
           "low": 50.87,
-          "high": 165,
-          "market": 71.33
+          "high": 165
         }
       }
     ]
@@ -7271,9 +7105,14 @@
   {
     "id": "sm10-226",
     "name": "Whimsicott-GX",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Stage 1, GX"],
     "types": ["Fairy"],
+    "abilities": [
+      {
+        "type": "Ability"
+      }
+    ],
     "set": {
       "id": "sm10",
       "name": "Unbroken Bonds",
@@ -7288,8 +7127,7 @@
       {
         "holofoil":{
           "low": 1,
-          "high": 12,
-          "market": 9.54
+          "high": 12
         }
       }
     ]
@@ -7298,9 +7136,14 @@
   {
     "id": "sm10-227",
     "name": "Persian-GX",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Stage 1, GX"],
     "types": ["Colorless"],
+    "abilities": [
+      {
+        "type": "Ability"
+      }
+    ],
     "set": {
       "id": "sm10",
       "name": "Unbroken Bonds",
@@ -7315,8 +7158,7 @@
       {
         "holofoil":{
           "low": 12.57,
-          "high": 9999.95,
-          "market": 11.97
+          "high": 9999.95
         }
       }
     ]
@@ -7325,9 +7167,14 @@
   {
     "id": "sm10-228",
     "name": "Celesteela-GX",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Basic, GX, Ultra Beast"],
     "types": ["Colorless"],
+    "abilities": [
+      {
+        "type": "Ability"
+      }
+    ],
     "set": {
       "id": "sm10",
       "name": "Unbroken Bonds",
@@ -7342,8 +7189,7 @@
       {
         "holofoil":{
           "low": 6,
-          "high": 9.56,
-          "market": 6.91
+          "high": 9.56
         }
       }
     ]
@@ -7353,7 +7199,7 @@
     "id": "sm10-229",
     "name": "Beast Bringer",
     "supertype": "Trainer",
-    "subtypes": ["Pokémon Tool"],
+    "subtypes": ["Pokemon Tool"],
     "set": {
       "id": "sm10",
       "name": "Unbroken Bonds",
@@ -7368,8 +7214,7 @@
       {
         "holofoil":{
           "low": 1.99,
-          "high": 20,
-          "market": 2.88
+          "high": 20
         }
       }
     ]
@@ -7394,8 +7239,7 @@
       {
         "holofoil":{
           "low": 2.47,
-          "high": 89,
-          "market": 2.99
+          "high": 89
         }
       }
     ]
@@ -7420,8 +7264,7 @@
       {
         "holofoil":{
           "low": 5.43,
-          "high": 29.99,
-          "market": 8.02
+          "high": 29.99
         }
       }
     ]
@@ -7431,7 +7274,7 @@
     "id": "sm10-232",
     "name": "Metal Core Barrier",
     "supertype": "Trainer",
-    "subtypes": ["Pokémon Tool"],
+    "subtypes": ["Pokemon Tool"],
     "set": {
       "id": "sm10",
       "name": "Unbroken Bonds",
@@ -7446,8 +7289,7 @@
       {
         "holofoil":{
           "low": 2.76,
-          "high": 9.99,
-          "market": 3.41
+          "high": 9.99
         }
       }
     ]
@@ -7472,8 +7314,7 @@
       {
         "holofoil":{
           "low": 58.73,
-          "high": 79.99,
-          "market": 59.5
+          "high": 79.99
         }
       }
     ]
@@ -7484,7 +7325,6 @@
     "name": "Triple Acceleration Energy",
     "supertype": "Energy",
     "subtypes": ["Special"],
-    "types": ["Unknown"],
     "set": {
       "id": "sm10",
       "name": "Unbroken Bonds",
@@ -7499,8 +7339,7 @@
       {
         "holofoil":{
           "low": 3.57,
-          "high": 89,
-          "market": 4.87
+          "high": 89
         }
       }
     ]
@@ -7509,7 +7348,7 @@
   {
     "id": "smp-SM10",
     "name": "Shiinotic",
-    "supertype": "Pokémon",
+    "supertype": "Pokemon",
     "subtypes": ["Stage 1"],
     "types": ["Grass"],
     "abilities": [
@@ -7531,8 +7370,7 @@
       {
         "holofoil":{
           "low": 17.36,
-          "high": 22.42,
-          "market": 19.69
+          "high": 22.42
         }
       }
     ]
