@@ -3,110 +3,151 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Unbroken Bonds</title>
+    <title>Team Up</title>
     <link rel="icon" href="../src/assets/UB symbol.png">
     <link rel="stylesheet" href="../styles.css">
-    <script type="module" src="./set10.js"></script>
+    <script src="https://kit.fontawesome.com/07eddb103e.js" crossorigin="anonymous"></script>
 </head>
 <body id="UB">
     <section>
-        <nav class="Blackb">
-            <div class="">
-                <a href="../Home.html" target="_blank">  
-                    <img class="main-page-logo" src="../src/assets/Pokémon_Trading_Card_Game_logo.svg.png" alt="pokemon TCG Logo">
+        <nav class="Whiteb">
+            <div class="right">
+                <a href="../Home.html" target="_blank"> 
+                    <img class="page-logo" src="../src/assets/Pokémon_Trading_Card_Game_logo.svg.png" alt="pokemon TCG Logo">
                 </a>
             </div>
-            <div>
+            <div class="hfix">
+                <img src="../src/assets/C&R.jpeg" alt="">
+            </div>
+            <div class="left">
                 <a href="../pages/set9.html" target="_blank">
-                    <img class="main-page-logo" src="../src/assets/TU logo.png" alt="Charazard & Reshiram">
+                    <img class="page-opp-logo" src="../src/assets/TU logo.png" alt="Charazard & Reshiram">
                 </a>
             </div>
         </nav>
     </section>
     <main>
+        <div class="background-cards"></div>
         <section>
-            <div class="">
+            <div class="top">
                 <img class="title-logo" src="../src/assets/UB logo.png" alt="">
-                <div class="filters-containerUB">
-                    <div class="filter-section">
-                        <select class="selectUB" onchange="filterID(event)">
-                            <option value="" disabled selected> Card Catagory</option>
-                            <option value="id">Numeric</option>
-                            <option value="nomral">Nomral</option>
-                            <option value="reverseHolofoil">ReverseHolofoil</option>
-                            <option value="holofoil">Holofoil</option>
-                            <option value="Promo">Promo</option>                        
-                        </select>
+            </div>
+            <div class="down">
+                <div class="content-wrapper OW">
+                    <h1>
+                        <span class="F1">Filters:</span>
+                    </h1>
+                    <div class="content-wrapperll">
+                        <h1>
+                            <span class="F1">:Sort</span>
+                        </h1>
+                        <div ></div>
+                        <button class="btn__menu menu--open OW" onclick="openMenu()">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <div class="menu__backdrop WO">
+                            <div class="filters-containerUB">
+                                <button class="btn__menu btn__menu--close dfix OW" onclick="closeMenu()">
+                                    <i class="fa fa-times"></i>
+                                    <p class="pfix rowf">Choose a Type & Range</p>
+                                </button>
+                                <div class="filter-section">
+                                    <select class="selectUB" onchange="filterPriceType(event)">
+                                        <option value=""selected> Card Price Types</option>
+                                        <option value="normal">Normal</option>
+                                        <option value="reverseHolofoil">ReverseHolofoil</option>
+                                        <option value="holofoil">Holofoil</option>
+                                    </select>
+                                </div>
+                                <div class="filter-section">
+                                    <select class="selectUB" onchange="filterPriceRange(event)">
+                                        <option value=""selected>Price Ranges</option>
+                                        <option value="LowToHigh">Low to High</option>
+                                        <option value="HighToLow">High to Low</option>
+                                    </select>
+                                </div>
+                            </div>
+                        </div>
                     </div>
-                    <div class="filter-section">
-                        <select class="selectUB" onchange="filterSupertpyes(event)">
-                            <option value="" disabled selected>Card Type</option>
-                            <option value="Pokemon">Pokemon</option>
-                            <option value="Trainer">Trainer</option>
-                        </select>                
-                    </div>
-                    <div class="filter-section">
-                        <select class="selectUB" onchange="filterSubtypes(event)">
-                            <option value="" disabled selected>Subtypes</option>
-                            <option value="Basic">Basic</option>
-                            <option value="Stage 1">Stage 1</option>
-                            <option value="Stage 2">Stage 2</option>
-                            <option value="TAG TEAM">TAG TEAM</option>
-                            <option value="GX">GX</option>
-                            <option value="Ultra Beast">Ultra Beast</option>
-                            <option value="Supporter">Supporter</option>
-                            <option value="Item">Item</option>
-                            <option value="Pokemon Tool">Pokemon Tool</option>
-                            <option value="Stadium">Stadium</option>
-                            <option value="Special">Special</option>
-                        </select>                    
-                    </div>
-                    <div class="filter-section">
-                        <select class="selectUB" onchange="filterEnergytypes(event)">
-                            <option value="" disabled selected>Energy types</option>
-                            <option value="Grass">Grass</option>
-                            <option value="Fire">Fire</option>
-                            <option value="Water">Water</option>
-                            <option value="Lightning">Lightning</option>
-                            <option value="Psychic">Psychic</option>
-                            <option value="Fighting">Fighting</option>
-                            <option value="Darkness">Darkness</option>
-                            <option value="Metal">Metal</option>
-                            <option value="Fairy">Fairy</option>
-                            <option value="Colorless">Colorless</option>
-                        </select>        
-                    </div>
-                    <div class="filter-section">
-                        <select class="selectUB" onchange="filterRarity(event)">
-                            <option value="" disabled selected>Rarity</option>
-                            <option value="Common">Common</option>
-                            <option value="Uncommon">Uncommon</option>
-                            <option value="Rare">Rare</option>
-                            <option value="Rare Holo">Rare Holo</option>
-                            <option value="Rare Holo GX">Rare Holo GX</option>
-                            <option value="Rare Ultra">Rare Ultra</option>
-                            <option value="Rare Rainbow">Rare Rainbow</option>
-                            <option value="Rare Secret">Rare Secret</option>
-                            <option value="Promo">Promo</option>
-                        </select>        
-                    </div>
+                    <button class="btn__menu menu--open OW" onclick="openMenu()">
+                        <i class="fa fa-bars"></i>
+                    </button>
+                    <div class="menu__backdrop WO">
+                        <div class="filters-containerUB">
+                            <button class="btn__menu btn__menu--close dfix OW" onclick="closeMenu()">
+                                <i class="fa fa-times"></i>
+                            </button>
+                            <div class="filter-section">
+                                <select class="selectUB" onchange="filterSuperType(event)">
+                                    <option value=""selected>Card Type</option>
+                                    <option value="Pokémon">Pokémon</option>
+                                    <option value="Trainer">Trainer</option>
+                                </select>                
+                            </div>
+                            <div class="filter-section">
+                                <select class="selectUB" onchange="filterSubTypes(event)">
+                                    <option value=""selected>Subtypes</option>
+                                    <option value="Basic">Basic</option>
+                                    <option value="Stage 1">Stage 1</option>
+                                    <option value="Stage 2">Stage 2</option>
+                                    <option value="TAG TEAM">TAG TEAM</option>
+                                    <option value="GX">GX</option>
+                                    <option value="Ultra Beast">Ultra Beast</option>
+                                    <option value="Supporter">Supporter</option>
+                                    <option value="Item">Item</option>
+                                    <option value="Pokémon Tool">Pokémon Tool</option>
+                                    <option value="Stadium">Stadium</option>
+                                    <option value="Special">Special</option>
+                                </select>                    
+                            </div>
+                            <div class="filter-section">
+                                <select class="selectUB" onchange="filterEnergyTypes(event)">
+                                    <option value=""selected>Energy types</option>
+                                    <option value="Grass">Grass</option>
+                                    <option value="Fire">Fire</option>
+                                    <option value="Water">Water</option>
+                                    <option value="Lightning">Lightning</option>
+                                    <option value="Psychic">Psychic</option>
+                                    <option value="Fighting">Fighting</option>
+                                    <option value="Darkness">Darkness</option>
+                                    <option value="Metal">Metal</option>
+                                    <option value="Fairy">Fairy</option>
+                                    <option value="Colorless">Colorless</option>
+                                </select>        
+                            </div>
+                            <div class="filter-section">
+                                <select class="selectUB" onchange="filterRarity(event)">
+                                    <option value=""selected>Rarity</option>
+                                    <option value="Common">Common</option>
+                                    <option value="Uncommon">Uncommon</option>
+                                    <option value="Rare">Rare</option>
+                                    <option value="Rare Holo">Rare Holo</option>
+                                    <option value="Rare Holo GX">Rare Holo GX</option>
+                                    <option value="Rare Ultra">Rare Ultra</option>
+                                    <option value="Rare Rainbow">Rare Rainbow</option>
+                                    <option value="Rare Secret">Rare Secret</option>
+                                    <option value="Promo">Promo</option>
+                                </select>        
+                            </div>
+                        </div>
                     </div>
                 </div>
-                <div id="card-container"></div>
-            </div>  
+            </div>
+            <div id="card-container"></div>
         </section>
     </main>
-     <footer Id="contact">
+    <footer Id="contact">
         <div class="footer">
             <div class="background-wrapper">
-                <div class="footer__row">
-                    <a href="#"> 
-                        <img class="overlay-img cen main-page-logo" src="../src/assets/Pokémon_Trading_Card_Game_logo.svg.png" alt="pokemon TCG Logo">
+                <div class="row footer__row">
+                    <a href="#">
+                        <img class="overlay-img main-page-logo main-page-logo-mini-2" src="../src/assets/Pokémon_Trading_Card_Game_logo.svg.png" alt="pokemon TCG Logo">
                     </a>
                     <img class="bg-image" src="../src/assets/C&R Wallpaper copy.jpeg" alt="">
                 </div>
             </div>
         </div>
     </footer>
+    <script src="./set10.js" defer></script>
 </body>
 </html>

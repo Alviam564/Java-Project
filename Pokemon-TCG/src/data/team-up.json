@@ -600,13 +600,13 @@
     },
     "prices": [
       {
-        "reverseHolofoil":{
+        "holofoil":{
           "low": 1.5,
           "high": 8.99
         }
       },
       {
-        "holofoil":{
+        "reverseHolofoil":{
           "low": 1.5,
           "high": 8.99
         }
@@ -962,15 +962,15 @@
     },
     "prices": [
       {
-        "reverseHolofoil":{
-          "low": 1.99,
-          "high": 7.99
-        }
-      },
-      {
         "holofoil":{
           "low": 2,
           "high": 89
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 1.99,
+          "high": 7.99
         }
       }
     ]
@@ -1031,15 +1031,15 @@
     },
     "prices": [
       {
-        "reverseHolofoil":{
-          "low": 2.19,
-          "high": 5.49
-        }
-      },
-      {
         "holofoil":{
           "low": 1.43,
           "high": 5
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 2.19,
+          "high": 5.49
         }
       }
     ]
@@ -1254,6 +1254,12 @@
     },
     "prices": [
       {
+        "normal":{
+          "low": 0.03,
+          "high": 1.03
+        }
+      },
+      {
         "reverseHolofoil":{
           "low": 1.23,
           "high": 2.30
@@ -1280,15 +1286,15 @@
     },
     "prices": [
       {
-        "reverseHolofoil":{
-          "low": 3.4,
-          "high": 6
-        }
-      },
-      {
         "holofoil":{
           "low": 2.4,
           "high": 6.74
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 3.4,
+          "high": 6
         }
       }
     ]
@@ -1668,15 +1674,15 @@
     },
     "prices": [
       {
-        "reverseHolofoil":{
-          "low": 0.55,
-          "high": 1.09
-        }
-      },
-      {
         "holofoil":{
           "low": 0.5,
           "high": 2.99
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 0.55,
+          "high": 1.09
         }
       }
     ]
@@ -2455,15 +2461,15 @@
     },
     "prices": [
       {
-        "reverseHolofoil":{
-          "low": 0.66,
-          "high": 2.13
-        }
-      },
-      {
         "holofoil":{
           "low": 0.6,
           "high": 3.48
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 0.66,
+          "high": 2.13
         }
       }
     ]
@@ -2752,15 +2758,15 @@
     },
     "prices": [
       {
-        "reverseHolofoil":{
-          "low": 1.01,
-          "high": 1.46
-        }
-      },
-      {
         "holofoil":{
           "low": 0.8,
           "high": 3.5
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 1.01,
+          "high": 1.46
         }
       }
     ]
@@ -2853,15 +2859,15 @@
     },
     "prices": [
       {
-        "reverseHolofoil":{
-          "low": 0.89,
-          "high": 9.99
-        }
-      },
-      {
         "holofoil":{
           "low": 0.73,
           "high": 6.99
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 0.89,
+          "high": 9.99
         }
       }
     ]
@@ -2949,13 +2955,13 @@
     },
     "prices": [
       {
-        "reverseHolofoil":{
+        "holofoil":{
           "low": 0.21,
           "high": 1.25
         }
       },
       {
-        "holofoil":{
+        "reverseHolofoil":{
           "low": 0.21,
           "high": 1.25
         }
@@ -3077,15 +3083,15 @@
     },
     "prices": [
       {
-        "reverseHolofoil":{
-          "low": 1.15,
-          "high": 5.5
-        }
-      },
-      {
         "holofoil":{
           "low": 0.99,
           "high": 14.69
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 1.15,
+          "high": 5.5
         }
       }
     ]
@@ -3204,15 +3210,15 @@
     },
     "prices": [
       {
-        "reverseHolofoil":{
-          "low": 3.27,
-          "high": 8.99
-        }
-      },
-      {
         "holofoil":{
           "low": 4,
           "high": 7.99
+        }
+      },
+      {
+        "reverseHolofoil":{
+          "low": 3.27,
+          "high": 8.99
         }
       }
     ]
@@ -4386,7 +4392,7 @@
           "high": 8.32
         }
       }
-    ]
+    ] 
   },
 
   {
@@ -5358,7 +5364,7 @@
     },
     "prices": [
       {
-        "reverseHolofoil":{
+        "holofoil":{
           "low": 3.3,
           "high": 9.99
         }

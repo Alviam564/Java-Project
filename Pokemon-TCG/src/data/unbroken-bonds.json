@@ -2,8 +2,8 @@
   {
     "id": "sm10-1",
     "name": "Pheromosa & Buzzwole-GX",
-    "supertype": "Pokemon",
-    "subtypes": ["Basic, TAG TEAM, GX, Ultra Beast"],
+    "supertype": "Pokémon",
+    "subtypes": ["Basic", "TAG TEAM", "GX", "Ultra Beast"],
     "types": ["Grass"],
     "set": {
       "id": "sm10",
@@ -28,8 +28,8 @@
   {
     "id": "sm10-2",
     "name": "Caterpie",
-    "supertype": "Pokemon",
-    "subtypes": ["Basic" ],
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
     "types": ["Grass"],
     "abilities": [
       {
@@ -65,7 +65,7 @@
   {
     "id": "sm10-3",
     "name": "Metapod",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Stage 1"],
     "types": ["Grass"],
     "abilities": [
@@ -102,7 +102,7 @@
   {
     "id": "sm10-4",
     "name": "Butterfree",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Stage 2"],
     "types": ["Grass"],
     "set": {
@@ -134,8 +134,8 @@
   {
     "id": "sm10-5",
     "name": "Oddish",
-    "supertype": "Pokemon",
-    "subtypes": ["Basic" ],
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
     "types": ["Grass"],
     "set": {
       "id": "sm10",
@@ -166,8 +166,8 @@
   {
     "id": "sm10-6",
     "name": "Oddish",
-    "supertype": "Pokemon",
-    "subtypes": ["Basic" ],
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
     "types": ["Grass"],
     "set": {
       "id": "sm10",
@@ -198,7 +198,7 @@
   {
     "id": "sm10-7",
     "name": "Gloom",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Stage 1"],
     "types": ["Grass"],
     "set": {
@@ -230,7 +230,7 @@
   {
     "id": "sm10-8",
     "name": "Vileplume",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Stage 2"],
     "types": ["Grass"],
     "set": {
@@ -262,8 +262,8 @@
   {
     "id": "sm10-9",
     "name": "Venonat",
-    "supertype": "Pokemon",
-    "subtypes": ["Basic" ],
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
     "types": ["Grass"],
     "set": {
       "id": "sm10",
@@ -294,8 +294,8 @@
   {
     "id": "sm10-10",
     "name": "Venonat",
-    "supertype": "Pokemon",
-    "subtypes": ["Basic" ],
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
     "types": ["Grass"],
     "set": {
       "id": "sm10",
@@ -326,7 +326,7 @@
   {
     "id": "sm10-11",
     "name": "Venomoth",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Stage 1"],
     "types": ["Grass"],
     "set": {
@@ -358,8 +358,8 @@
   {
     "id": "sm10-12",
     "name": "Venomoth-GX",
-    "supertype": "Pokemon",
-    "subtypes": ["Stage 1, GX"],
+    "supertype": "Pokémon",
+    "subtypes": ["Stage 1", "GX"],
     "types": ["Grass"],
     "set": {
       "id": "sm10",
@@ -384,8 +384,8 @@
   {
     "id": "sm10-13",
     "name": "Bellsprout",
-    "supertype": "Pokemon",
-    "subtypes": ["Basic" ],
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
     "types": ["Grass"],
     "set": {
       "id": "sm10",
@@ -416,7 +416,7 @@
   {
     "id": "sm10-14",
     "name": "Weepinbell",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Stage 1"],
     "types": ["Grass"],
     "set": {
@@ -448,7 +448,7 @@
   {
     "id": "sm10-15",
     "name": "Victreebel",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Stage 2"],
     "types": ["Grass"],
     "set": {
@@ -480,8 +480,8 @@
   {
     "id": "sm10-16",
     "name": "Tangela",
-    "supertype": "Pokemon",
-    "subtypes": ["Basic" ],
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
     "types": ["Grass"],
     "set": {
       "id": "sm10",
@@ -512,7 +512,7 @@
   {
     "id": "sm10-17",
     "name": "Tangrowth",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Stage 1"],
     "types": ["Grass"],
     "set": {
@@ -544,8 +544,8 @@
   {
     "id": "sm10-18",
     "name": "Grubbin",
-    "supertype": "Pokemon",
-    "subtypes": ["Basic" ],
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
     "types": ["Grass"],
     "set": {
       "id": "sm10",
@@ -576,8 +576,8 @@
   {
     "id": "sm10-19",
     "name": "Kartana",
-    "supertype": "Pokemon",
-    "subtypes": ["Basic,  Ultra Beast"],
+    "supertype": "Pokémon",
+    "subtypes": ["Basic", "Ultra Beast"],
     "types": ["Grass"],
     "set": {
       "id": "sm10",
@@ -608,8 +608,8 @@
   {
     "id": "sm10-20",
     "name": "Reshiram & Charizard-GX",
-    "supertype": "Pokemon",
-    "subtypes": ["Basic, TAG TEAM, GX"],
+    "supertype": "Pokémon",
+    "subtypes": ["Basic", "TAG TEAM", "GX"],
     "types": ["Fire"],
     "set": {
       "id": "sm10",
@@ -634,8 +634,8 @@
   {
     "id": "sm10-21",
     "name": "Growlithe",
-    "supertype": "Pokemon",
-    "subtypes": ["Basic" ],
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
     "types": ["Fire"],
     "set": {
       "id": "sm10",
@@ -666,7 +666,7 @@
   {
     "id": "sm10-22",
     "name": "Arcanine",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Stage 1"],
     "types": ["Fire"],
     "set": {
@@ -698,8 +698,8 @@
   {
     "id": "sm10-23",
     "name": "Darumaka",
-    "supertype": "Pokemon",
-    "subtypes": ["Basic" ],
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
     "types": ["Fire"],
     "set": {
       "id": "sm10",
@@ -730,7 +730,7 @@
   {
     "id": "sm10-24",
     "name": "Darmanitan",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Stage 1"],
     "types": ["Fire"],
     "set": {
@@ -762,8 +762,8 @@
   {
     "id": "sm10-25",
     "name": "Volcanion",
-    "supertype": "Pokemon",
-    "subtypes": ["Basic" ],
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
     "types": ["Fire"],
     "set": {
       "id": "sm10",
@@ -794,8 +794,8 @@
   {
     "id": "sm10-26",
     "name": "Litten",
-    "supertype": "Pokemon",
-    "subtypes": ["Basic" ],
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
     "types": ["Fire"],
     "set": {
       "id": "sm10",
@@ -826,8 +826,8 @@
   {
     "id": "sm10-27",
     "name": "Litten",
-    "supertype": "Pokemon",
-    "subtypes": ["Basic" ],
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
     "types": ["Fire"],
     "set": {
       "id": "sm10",
@@ -858,7 +858,7 @@
   {
     "id": "sm10-28",
     "name": "Torracat",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Stage 1"],
     "types": ["Fire"],
     "set": {
@@ -890,7 +890,7 @@
   {
     "id": "sm10-29",
     "name": "Incineroar",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Stage 2"],
     "types": ["Fire"],
     "abilities": [
@@ -927,8 +927,8 @@
   {
     "id": "sm10-30",
     "name": "Salandit",
-    "supertype": "Pokemon",
-    "subtypes": ["Basic" ],
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
     "types": ["Fire"],
     "set": {
       "id": "sm10",
@@ -959,7 +959,7 @@
   {
     "id": "sm10-31",
     "name": "Salazzle",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Stage 1"],
     "types": ["Fire"],
     "abilities": [
@@ -996,8 +996,8 @@
   {
     "id": "sm10-32",
     "name": "Blacephalon",
-    "supertype": "Pokemon",
-    "subtypes": ["Basic,  Ultra Beast"],
+    "supertype": "Pokémon",
+    "subtypes": ["Basic", "Ultra Beast"],
     "types": ["Fire"],
     "set": {
       "id": "sm10",
@@ -1028,8 +1028,8 @@
   {
     "id": "sm10-33",
     "name": "Squirtle",
-    "supertype": "Pokemon",
-    "subtypes": ["Basic" ],
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
     "types": ["Water"],
     "set": {
       "id": "sm10",
@@ -1060,7 +1060,7 @@
   {
     "id": "sm10-34",
     "name": "Wartortle",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Stage 1"],
     "types": ["Water"],
     "abilities": [
@@ -1097,8 +1097,8 @@
   {
     "id": "sm10-35",
     "name": "Blastoise-GX",
-    "supertype": "Pokemon",
-    "subtypes": ["Stage 2, GX"],
+    "supertype": "Pokémon",
+    "subtypes": ["Stage 2", "GX"],
     "types": ["Water"],
     "abilities": [
       {
@@ -1128,8 +1128,8 @@
   {
     "id": "sm10-36",
     "name": "Poliwag",
-    "supertype": "Pokemon",
-    "subtypes": ["Basic" ],
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
     "types": ["Water"],
     "abilities": [
       {
@@ -1165,8 +1165,8 @@
   {
     "id": "sm10-37",
     "name": "Poliwag",
-    "supertype": "Pokemon",
-    "subtypes": ["Basic" ],
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
     "types": ["Water"],
     "set": {
       "id": "sm10",
@@ -1197,7 +1197,7 @@
   {
     "id": "sm10-38",
     "name": "Poliwhirl",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Stage 1"],
     "types": ["Water"],
     "set": {
@@ -1229,7 +1229,7 @@
   {
     "id": "sm10-39",
     "name": "Poliwrath",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Stage 2"],
     "types": ["Water"],
     "set": {
@@ -1261,8 +1261,8 @@
   {
     "id": "sm10-40",
     "name": "Tentacool",
-    "supertype": "Pokemon",
-    "subtypes": ["Basic" ],
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
     "types": ["Water"],
     "set": {
       "id": "sm10",
@@ -1293,7 +1293,7 @@
   {
     "id": "sm10-41",
     "name": "Tentacruel",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Stage 1"],
     "types": ["Water"],
     "set": {
@@ -1325,8 +1325,8 @@
   {
     "id": "sm10-42",
     "name": "Slowpoke",
-    "supertype": "Pokemon",
-    "subtypes": ["Basic" ],
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
     "types": ["Water"],
     "set": {
       "id": "sm10",
@@ -1357,7 +1357,7 @@
   {
     "id": "sm10-43",
     "name": "Slowbro",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Stage 1"],
     "types": ["Water"],
     "set": {
@@ -1389,8 +1389,8 @@
   {
     "id": "sm10-44",
     "name": "Seel",
-    "supertype": "Pokemon",
-    "subtypes": ["Basic" ],
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
     "types": ["Water"],
     "set": {
       "id": "sm10",
@@ -1421,7 +1421,7 @@
   {
     "id": "sm10-45",
     "name": "Dewgong",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Stage 1"],
     "types": ["Water"],
     "set": {
@@ -1453,8 +1453,8 @@
   {
     "id": "sm10-46",
     "name": "Krabby",
-    "supertype": "Pokemon",
-    "subtypes": ["Basic" ],
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
     "types": ["Water"],
     "set": {
       "id": "sm10",
@@ -1485,7 +1485,7 @@
   {
     "id": "sm10-47",
     "name": "Kingler",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Stage 1"],
     "types": ["Water"],
     "set": {
@@ -1517,8 +1517,8 @@
   {
     "id": "sm10-48",
     "name": "Goldeen",
-    "supertype": "Pokemon",
-    "subtypes": ["Basic" ],
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
     "types": ["Water"],
     "set": {
       "id": "sm10",
@@ -1549,7 +1549,7 @@
   {
     "id": "sm10-49",
     "name": "Seaking",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Stage 1"],
     "types": ["Water"],
     "set": {
@@ -1581,8 +1581,8 @@
   {
     "id": "sm10-50",
     "name": "Kyurem",
-    "supertype": "Pokemon",
-    "subtypes": ["Basic" ],
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
     "types": ["Water"],
     "set": {
       "id": "sm10",
@@ -1613,8 +1613,8 @@
   {
     "id": "sm10-51",
     "name": "Froakie",
-    "supertype": "Pokemon",
-    "subtypes": ["Basic" ],
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
     "types": ["Water"],
     "set": {
       "id": "sm10",
@@ -1645,7 +1645,7 @@
   {
     "id": "sm10-52",
     "name": "Frogadier",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Stage 1"],
     "types": ["Water"],
     "set": {
@@ -1677,8 +1677,8 @@
   {
     "id": "sm10-53",
     "name": "Pyukumuku",
-    "supertype": "Pokemon",
-    "subtypes": ["Basic" ],
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
     "types": ["Water"],
     "set": {
       "id": "sm10",
@@ -1709,8 +1709,8 @@
   {
     "id": "sm10-54",
     "name": "Pikachu",
-    "supertype": "Pokemon",
-    "subtypes": ["Basic" ],
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
     "types": ["Lightning"],
     "set": {
       "id": "sm10",
@@ -1741,7 +1741,7 @@
   {
     "id": "sm10-55",
     "name": "Raichu",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Stage 1"],
     "types": ["Lightning"],
     "set": {
@@ -1773,8 +1773,8 @@
   {
     "id": "sm10-56",
     "name": "Stunfisk",
-    "supertype": "Pokemon",
-    "subtypes": ["Basic" ],
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
     "types": ["Lightning"],
     "set": {
       "id": "sm10",
@@ -1805,8 +1805,8 @@
   {
     "id": "sm10-57",
     "name": "Dedenne-GX",
-    "supertype": "Pokemon",
-    "subtypes": ["Basic, GX"],
+    "supertype": "Pokémon",
+    "subtypes": ["Basic", "GX"],
     "types": ["Lightning"],
     "abilities": [
       {
@@ -1836,7 +1836,7 @@
   {
     "id": "sm10-58",
     "name": "Charjabug",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Stage 1"],
     "types": ["Lightning"],
     "abilities": [
@@ -1873,7 +1873,7 @@
   {
     "id": "sm10-59",
     "name": "Vikavolt",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Stage 2"],
     "types": ["Lightning"],
     "abilities": [
@@ -1910,7 +1910,7 @@
   {
     "id": "sm10-60",
     "name": "Zeraora",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Basic"],
     "types": ["Lightning"],
     "set": {
@@ -1942,8 +1942,8 @@
   {
     "id": "sm10-61",
     "name": "Muk & Alolan Muk-GX",
-    "supertype": "Pokemon",
-    "subtypes": ["Basic, TAG TEAM, GX"],
+    "supertype": "Pokémon",
+    "subtypes": ["Basic", "TAG TEAM", "GX"],
     "types": ["Psychic"],
     "set": {
       "id": "sm10",
@@ -1968,7 +1968,7 @@
   {
     "id": "sm10-62",
     "name": "Ekans",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Basic"],
     "types": ["Psychic"],
     "set": {
@@ -2000,7 +2000,7 @@
   {
     "id": "sm10-63",
     "name": "Arbok",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Stage 1"],
     "types": ["Psychic"],
     "set": {
@@ -2032,7 +2032,7 @@
   {
     "id": "sm10-64",
     "name": "Zubat",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Basic"],
     "types": ["Psychic"],
     "set": {
@@ -2064,7 +2064,7 @@
   {
     "id": "sm10-65",
     "name": "Golbat",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Stage 1"],
     "types": ["Psychic"],
     "set": {
@@ -2096,7 +2096,7 @@
   {
     "id": "sm10-66",
     "name": "Crobat",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Stage 2"],
     "types": ["Psychic"],
     "abilities": [
@@ -2133,7 +2133,7 @@
   {
     "id": "sm10-67",
     "name": "Gastly",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Basic"],
     "types": ["Psychic"],
     "abilities": [
@@ -2170,7 +2170,7 @@
   {
     "id": "sm10-68",
     "name": "Gastly",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Basic"],
     "types": ["Psychic"],
     "set": {
@@ -2202,7 +2202,7 @@
   {
     "id": "sm10-69",
     "name": "Haunter",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Stage 1"],
     "types": ["Psychic"],
     "set": {
@@ -2234,7 +2234,7 @@
   {
     "id": "sm10-70",
     "name": "Gengar",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Stage 2"],
     "types": ["Psychic"],
     "abilities": [
@@ -2271,7 +2271,7 @@
   {
     "id": "sm10-71",
     "name": "Drowzee",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Basic"],
     "types": ["Psychic"],
     "set": {
@@ -2303,7 +2303,7 @@
   {
     "id": "sm10-72",
     "name": "Hypno",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Stage 1"],
     "types": ["Psychic"],
     "abilities": [
@@ -2340,7 +2340,7 @@
   {
     "id": "sm10-73",
     "name": "Koffing",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Basic"],
     "types": ["Psychic"],
     "set": {
@@ -2372,7 +2372,7 @@
   {
     "id": "sm10-74",
     "name": "Weezing",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Stage 1"],
     "types": ["Psychic"],
     "abilities": [
@@ -2409,7 +2409,7 @@
   {
     "id": "sm10-75",
     "name": "Mewtwo",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Basic"],
     "types": ["Psychic"],
     "abilities": [
@@ -2446,7 +2446,7 @@
   {
     "id": "sm10-76",
     "name": "Mew",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Basic"],
     "types": ["Psychic"],
     "abilities": [
@@ -2483,7 +2483,7 @@
   {
     "id": "sm10-77",
     "name": "Misdreavus",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Basic"],
     "types": ["Psychic"],
     "set": {
@@ -2515,7 +2515,7 @@
   {
     "id": "sm10-78",
     "name": "Mismagius",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Stage 1"],
     "types": ["Psychic"],
     "abilities": [
@@ -2552,7 +2552,7 @@
   {
     "id": "sm10-79",
     "name": "Espurr",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Basic"],
     "types": ["Psychic"],
     "set": {
@@ -2584,7 +2584,7 @@
   {
     "id": "sm10-80",
     "name": "Meowstic",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Stage 1"],
     "types": ["Psychic"],
     "set": {
@@ -2616,7 +2616,7 @@
   {
     "id": "sm10-81",
     "name": "Marshadow",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Basic"],
     "types": ["Psychic"],
     "abilities": [
@@ -2653,8 +2653,8 @@
   {
     "id": "sm10-82",
     "name": "Marshadow & Machamp-GX",
-    "supertype": "Pokemon",
-    "subtypes": ["Basic, TAG TEAM, GX"],
+    "supertype": "Pokémon",
+    "subtypes": ["Basic", "TAG TEAM", "GX"],
     "types": ["Fighting"],
     "set": {
       "id": "sm10",
@@ -2679,7 +2679,7 @@
   {
     "id": "sm10-83",
     "name": "Sandshrew",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Basic"],
     "types": ["Fighting"],
     "set": {
@@ -2711,7 +2711,7 @@
   {
     "id": "sm10-84",
     "name": "Sandslash",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Stage 1"],
     "types": ["Fighting"],
     "set": {
@@ -2743,7 +2743,7 @@
   {
     "id": "sm10-85",
     "name": "Diglett",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Basic"],
     "types": ["Fighting"],
     "abilities": [
@@ -2780,7 +2780,7 @@
   {
     "id": "sm10-86",
     "name": "Dugtrio",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Stage 1"],
     "types": ["Fighting"],
     "set": {
@@ -2812,7 +2812,7 @@
   {
     "id": "sm10-87",
     "name": "Geodude",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Basic"],
     "types": ["Fighting"],
     "set": {
@@ -2844,7 +2844,7 @@
   {
     "id": "sm10-88",
     "name": "Graveler",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Stage 1"],
     "types": ["Fighting"],
     "set": {
@@ -2876,7 +2876,7 @@
   {
     "id": "sm10-89",
     "name": "Golem",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Stage 2"],
     "types": ["Fighting"],
     "set": {
@@ -2908,7 +2908,7 @@
   {
     "id": "sm10-90",
     "name": "Cubone",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Basic"],
     "types": ["Fighting"],
     "set": {
@@ -2940,7 +2940,7 @@
   {
     "id": "sm10-91",
     "name": "Marowak",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Stage 1"],
     "types": ["Fighting"],
     "set": {
@@ -2972,7 +2972,7 @@
   {
     "id": "sm10-92",
     "name": "Rhyhorn",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Basic"],
     "types": ["Fighting"],
     "set": {
@@ -3004,7 +3004,7 @@
   {
     "id": "sm10-93",
     "name": "Rhyhorn",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Basic"],
     "types": ["Fighting"],
     "set": {
@@ -3036,7 +3036,7 @@
   {
     "id": "sm10-94",
     "name": "Rhydon",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Stage 1"],
     "types": ["Fighting"],
     "set": {
@@ -3068,7 +3068,7 @@
   {
     "id": "sm10-95",
     "name": "Rhyperior",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Stage 2"],
     "types": ["Fighting"],
     "set": {
@@ -3100,7 +3100,7 @@
   {
     "id": "sm10-96",
     "name": "Wooper",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Basic"],
     "types": ["Fighting"],
     "set": {
@@ -3132,7 +3132,7 @@
   {
     "id": "sm10-97",
     "name": "Quagsire",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Stage 1"],
     "types": ["Fighting"],
     "set": {
@@ -3164,7 +3164,7 @@
   {
     "id": "sm10-98",
     "name": "Gligar",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Basic"],
     "types": ["Fighting"],
     "abilities": [
@@ -3201,7 +3201,7 @@
   {
     "id": "sm10-99",
     "name": "Gliscor",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Stage 1"],
     "types": ["Fighting"],
     "set": {
@@ -3233,7 +3233,7 @@
   {
     "id": "sm10-100",
     "name": "Tyrogue",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Basic"],
     "types": ["Fighting"],
     "abilities": [
@@ -3270,7 +3270,7 @@
   {
     "id": "sm10-101",
     "name": "Hitmontop",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Basic"],
     "types": ["Fighting"],
     "set": {
@@ -3302,7 +3302,7 @@
   {
     "id": "sm10-102",
     "name": "Riolu",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Basic"],
     "types": ["Fighting"],
     "set": {
@@ -3334,7 +3334,7 @@
   {
     "id": "sm10-103",
     "name": "Landorus",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Basic"],
     "types": ["Fighting"],
     "set": {
@@ -3366,7 +3366,7 @@
   {
     "id": "sm10-104",
     "name": "Crabrawler",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Basic"],
     "types": ["Fighting"],
     "set": {
@@ -3398,7 +3398,7 @@
   {
     "id": "sm10-105",
     "name": "Crabominable",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Stage 1"],
     "types": ["Fighting"],
     "set": {
@@ -3430,8 +3430,8 @@
   {
     "id": "sm10-106",
     "name": "Stakataka",
-    "supertype": "Pokemon",
-    "subtypes": ["Basic, Ultra Beast"],
+    "supertype": "Pokémon",
+    "subtypes": ["Basic", "Ultra Beast"],
     "types": ["Fighting"],
     "abilities": [
       {
@@ -3467,8 +3467,8 @@
   {
     "id": "sm10-107",
     "name": "Greninja & Zoroark-GX",
-    "supertype": "Pokemon",
-    "subtypes": ["Basic, TAG TEAM, GX"],
+    "supertype": "Pokémon",
+    "subtypes": ["Basic", "TAG TEAM", "GX"],
     "types": ["Darkness"],
     "set": {
       "id": "sm10",
@@ -3493,7 +3493,7 @@
   {
     "id": "sm10-108",
     "name": "Murkrow",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Basic"],
     "types": ["Darkness"],
     "set": {
@@ -3525,8 +3525,8 @@
   {
     "id": "sm10-109",
     "name": "Honchkrow-GX",
-    "supertype": "Pokemon",
-    "subtypes": ["Stage 1, GX"],
+    "supertype": "Pokémon",
+    "subtypes": ["Stage 1", "GX"],
     "types": ["Darkness"],
     "abilities": [
       {
@@ -3556,7 +3556,7 @@
   {
     "id": "sm10-110",
     "name": "Carvanha",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Basic"],
     "types": ["Darkness"],
     "set": {
@@ -3588,7 +3588,7 @@
   {
     "id": "sm10-111",
     "name": "Sharpedo",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Stage 1"],
     "types": ["Darkness"],
     "abilities": [
@@ -3625,7 +3625,7 @@
   {
     "id": "sm10-112",
     "name": "Spiritomb",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Basic"],
     "types": ["Darkness"],
     "abilities": [
@@ -3662,7 +3662,7 @@
   {
     "id": "sm10-113",
     "name": "Sandile",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Basic"],
     "types": ["Darkness"],
     "abilities": [
@@ -3699,7 +3699,7 @@
   {
     "id": "sm10-114",
     "name": "Sandile",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Basic"],
     "types": ["Darkness"],
     "set": {
@@ -3731,7 +3731,7 @@
   {
     "id": "sm10-115",
     "name": "Krokorok",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Stage 1"],
     "types": ["Darkness"],
     "set": {
@@ -3763,7 +3763,7 @@
   {
     "id": "sm10-116",
     "name": "Krookodile",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Stage 2"],
     "types": ["Darkness"],
     "set": {
@@ -3795,7 +3795,7 @@
   {
     "id": "sm10-117",
     "name": "Greninja",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Stage 2"],
     "types": ["Darkness"],
     "set": {
@@ -3827,7 +3827,7 @@
   {
     "id": "sm10-118",
     "name": "Inkay",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Basic"],
     "types": ["Darkness"],
     "set": {
@@ -3859,7 +3859,7 @@
   {
     "id": "sm10-119",
     "name": "Malamar",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Stage 1"],
     "types": ["Darkness"],
     "set": {
@@ -3891,8 +3891,8 @@
   {
     "id": "sm10-120",
     "name": "Lucario & Melmetal-GX",
-    "supertype": "Pokemon",
-    "subtypes": ["Basic, TAG TEAM, GX"],
+    "supertype": "Pokémon",
+    "subtypes": ["Basic", "TAG TEAM", "GX"],
     "types": ["Metal"],
     "set": {
       "id": "sm10",
@@ -3917,7 +3917,7 @@
   {
     "id": "sm10-121",
     "name": "Alolan Diglett",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Basic"],
     "types": ["Metal"],
     "set": {
@@ -3950,7 +3950,7 @@
   {
     "id": "sm10-122",
     "name": "Alolan Dugtrio",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Stage 1"],
     "types": ["Metal"],
     "abilities": [
@@ -3987,7 +3987,7 @@
   {
     "id": "sm10-123",
     "name": "Aron",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Basic"],
     "types": ["Metal"],
     "set": {
@@ -4019,7 +4019,7 @@
   {
     "id": "sm10-124",
     "name": "Lairon",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Stage 1"],
     "types": ["Metal"],
     "set": {
@@ -4051,7 +4051,7 @@
   {
     "id": "sm10-125",
     "name": "Aggron",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Stage 2"],
     "types": ["Metal"],
     "set": {
@@ -4083,7 +4083,7 @@
   {
     "id": "sm10-126",
     "name": "Lucario",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Stage 1"],
     "types": ["Metal"],
     "set": {
@@ -4115,7 +4115,7 @@
   {
     "id": "sm10-127",
     "name": "Genesect",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Basic"],
     "types": ["Metal"],
     "abilities": [
@@ -4152,7 +4152,7 @@
   {
     "id": "sm10-128",
     "name": "Meltan",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Basic"],
     "types": ["Metal"],
     "set": {
@@ -4184,7 +4184,7 @@
   {
     "id": "sm10-129",
     "name": "Melmetal",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Stage 1"],
     "types": ["Metal"],
     "abilities": [
@@ -4221,8 +4221,8 @@
   {
     "id": "sm10-130",
     "name": "Gardevoir & Sylveon-GX",
-    "supertype": "Pokemon",
-    "subtypes": ["Basic, TAG TEAM, GX"],
+    "supertype": "Pokémon",
+    "subtypes": ["Basic", "TAG TEAM", "GX"],
     "types": ["Fairy"],
     "set": {
       "id": "sm10",
@@ -4247,7 +4247,7 @@
   {
     "id": "sm10-131",
     "name": "Cleffa",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Basic"],
     "types": ["Fairy"],
     "abilities": [
@@ -4278,7 +4278,7 @@
   {
     "id": "sm10-132",
     "name": "Clefairy",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Basic"],
     "types": ["Fairy"],
     "set": {
@@ -4310,7 +4310,7 @@
   {
     "id": "sm10-133",
     "name": "Clefable",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Stage 1"],
     "types": ["Fairy"],
     "set": {
@@ -4342,7 +4342,7 @@
   {
     "id": "sm10-134",
     "name": "Jigglypuff",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Basic"],
     "types": ["Fairy"],
     "set": {
@@ -4374,7 +4374,7 @@
   {
     "id": "sm10-135",
     "name": "Wigglytuff",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Stage 1"],
     "types": ["Fairy"],
     "set": {
@@ -4406,7 +4406,7 @@
   {
     "id": "sm10-136",
     "name": "Togepi",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Basic"],
     "types": ["Fairy"],
     "set": {
@@ -4438,7 +4438,7 @@
   {
     "id": "sm10-137",
     "name": "Togetic",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Stage 1"],
     "types": ["Fairy"],
     "set": {
@@ -4470,7 +4470,7 @@
   {
     "id": "sm10-138",
     "name": "Togekiss",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Stage 2"],
     "types": ["Fairy"],
     "abilities": [
@@ -4507,7 +4507,7 @@
   {
     "id": "sm10-139",
     "name": "Cottonee",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Basic"],
     "types": ["Fairy"],
     "set": {
@@ -4539,8 +4539,8 @@
   {
     "id": "sm10-140",
     "name": "Whimsicott-GX",
-    "supertype": "Pokemon",
-    "subtypes": ["Stage 1, GX"],
+    "supertype": "Pokémon",
+    "subtypes": ["Stage 1", "GX"],
     "types": ["Fairy"],
     "abilities": [
       {
@@ -4570,7 +4570,7 @@
   {
     "id": "sm10-141",
     "name": "Spritzee",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Basic"],
     "types": ["Fairy"],
     "set": {
@@ -4602,7 +4602,7 @@
   {
     "id": "sm10-142",
     "name": "Aromatisse",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Stage 1"],
     "types": ["Fairy"],
     "set": {
@@ -4634,7 +4634,7 @@
   {
     "id": "sm10-143",
     "name": "Rattata",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Basic"],
     "types": ["Colorless"],
     "set": {
@@ -4666,7 +4666,7 @@
   {
     "id": "sm10-144",
     "name": "Raticate",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Stage 1"],
     "types": ["Colorless"],
     "set": {
@@ -4698,7 +4698,7 @@
   {
     "id": "sm10-145",
     "name": "Spearow",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Basic"],
     "types": ["Colorless"],
     "set": {
@@ -4730,7 +4730,7 @@
   {
     "id": "sm10-146",
     "name": "Fearow",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Stage 1"],
     "types": ["Colorless"],
     "set": {
@@ -4762,7 +4762,7 @@
   {
     "id": "sm10-147",
     "name": "Meowth",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Basic"],
     "types": ["Colorless"],
     "set": {
@@ -4794,7 +4794,7 @@
   {
     "id": "sm10-148",
     "name": "Persian",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Stage 1"],
     "types": ["Colorless"],
     "abilities": [
@@ -4831,8 +4831,8 @@
   {
     "id": "sm10-149",
     "name": "Persian-GX",
-    "supertype": "Pokemon",
-    "subtypes": ["Stage 1, GX"],
+    "supertype": "Pokémon",
+    "subtypes": ["Stage 1", "GX"],
     "types": ["Colorless"],
     "abilities": [
       {
@@ -4862,7 +4862,7 @@
   {
     "id": "sm10-150",
     "name": "Doduo",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Basic"],
     "types": ["Colorless"],
     "set": {
@@ -4894,7 +4894,7 @@
   {
     "id": "sm10-151",
     "name": "Dodrio",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Stage 1"],
     "types": ["Colorless"],
     "set": {
@@ -4926,7 +4926,7 @@
   {
     "id": "sm10-152",
     "name": "Lickitung",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Basic"],
     "types": ["Colorless"],
     "set": {
@@ -4958,7 +4958,7 @@
   {
     "id": "sm10-153",
     "name": "Lickilicky",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Stage 1"],
     "types": ["Colorless"],
     "set": {
@@ -4990,7 +4990,7 @@
   {
     "id": "sm10-154",
     "name": "Porygon",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Basic"],
     "types": ["Colorless"],
     "set": {
@@ -5022,7 +5022,7 @@
   {
     "id": "sm10-155",
     "name": "Porygon",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Basic"],
     "types": ["Colorless"],
     "set": {
@@ -5054,7 +5054,7 @@
   {
     "id": "sm10-156",
     "name": "Porygon2",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Stage 1"],
     "types": ["Colorless"],
     "set": {
@@ -5086,7 +5086,7 @@
   {
     "id": "sm10-157",
     "name": "Porygon-Z",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Stage 2"],
     "types": ["Colorless"],
     "abilities": [
@@ -5123,7 +5123,7 @@
   {
     "id": "sm10-158",
     "name": "Snorlax",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Basic"],
     "types": ["Colorless"],
     "abilities": [
@@ -5160,7 +5160,7 @@
   {
     "id": "sm10-159",
     "name": "Glameow",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Basic"],
     "types": ["Colorless"],
     "set": {
@@ -5192,7 +5192,7 @@
   {
     "id": "sm10-160",
     "name": "Purugly",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Stage 1"],
     "types": ["Colorless"],
     "set": {
@@ -5224,7 +5224,7 @@
   {
     "id": "sm10-161",
     "name": "Happiny",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Basic"],
     "types": ["Colorless"],
     "abilities": [
@@ -5261,7 +5261,7 @@
   {
     "id": "sm10-162",
     "name": "Chatot",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Basic"],
     "types": ["Colorless"],
     "set": {
@@ -5293,8 +5293,8 @@
   {
     "id": "sm10-163",
     "name": "Celesteela-GX",
-    "supertype": "Pokemon",
-    "subtypes": ["Basic, GX, Ultra Beast"],
+    "supertype": "Pokémon",
+    "subtypes": ["Basic", "GX", "Ultra Beast"],
     "types": ["Colorless"],
     "abilities": [
       {
@@ -5325,7 +5325,7 @@
     "id": "sm10-164",
     "name": "Beast Bringer",
     "supertype": "Trainer",
-    "subtypes": ["Pokemon Tool"],
+    "subtypes": ["Pokémon Tool"],
     "set": {
       "id": "sm10",
       "name": "Unbroken Bonds",
@@ -5542,7 +5542,7 @@
     "id": "sm10-171",
     "name": "Fairy Charm Ability",
     "supertype": "Trainer",
-    "subtypes": ["Pokemon Tool"],
+    "subtypes": ["Pokémon Tool"],
     "set": {
       "id": "sm10",
       "name": "Unbroken Bonds",
@@ -5573,7 +5573,7 @@
     "id": "sm10-172",
     "name": "Fairy Charm Lightning",
     "supertype": "Trainer",
-    "subtypes": ["Pokemon Tool"],
+    "subtypes": ["Pokémon Tool"],
     "set": {
       "id": "sm10",
       "name": "Unbroken Bonds",
@@ -5821,7 +5821,7 @@
     "id": "sm10-180",
     "name": "Metal Core Barrier",
     "supertype": "Trainer",
-    "subtypes": ["Pokemon Tool"],
+    "subtypes": ["Pokémon Tool"],
     "set": {
       "id": "sm10",
       "name": "Unbroken Bonds",
@@ -6007,7 +6007,7 @@
     "id": "sm10-186",
     "name": "Stealthy Hood",
     "supertype": "Trainer",
-    "subtypes": ["Pokemon Tool"],
+    "subtypes": ["Pokémon Tool"],
     "set": {
       "id": "sm10",
       "name": "Unbroken Bonds",
@@ -6161,8 +6161,8 @@
   {
     "id": "sm10-191",
     "name": "Pheromosa & Buzzwole-GX",
-    "supertype": "Pokemon",
-    "subtypes": ["Basic, TAG TEAM, GX, Ultra Beast"],
+    "supertype": "Pokémon",
+    "subtypes": ["Basic", "TAG TEAM", "GX", "Ultra Beast"],
     "types": ["Grass"],
     "set": {
       "id": "sm10",
@@ -6187,8 +6187,8 @@
   {
     "id": "sm10-192",
     "name": "Pheromosa & Buzzwole-GX",
-    "supertype": "Pokemon",
-    "subtypes": ["Basic, TAG TEAM, GX, Ultra Beast"],
+    "supertype": "Pokémon",
+    "subtypes": ["Basic", "TAG TEAM", "GX", "Ultra Beast"],
     "types": ["Grass"],
     "set": {
       "id": "sm10",
@@ -6213,8 +6213,8 @@
   {
     "id": "sm10-193",
     "name": "Venomoth-GX",
-    "supertype": "Pokemon",
-    "subtypes": ["Stage 1, GX"],
+    "supertype": "Pokémon",
+    "subtypes": ["Stage 1", "GX"],
     "types": ["Grass"],
     "set": {
       "id": "sm10",
@@ -6239,8 +6239,8 @@
   {
     "id": "sm10-194",
     "name": "Reshiram & Charizard-GX",
-    "supertype": "Pokemon",
-    "subtypes": ["Basic, TAG TEAM, GX"],
+    "supertype": "Pokémon",
+    "subtypes": ["Basic", "TAG TEAM", "GX"],
     "types": ["Fire"],
     "set": {
       "id": "sm10",
@@ -6265,8 +6265,8 @@
   {
     "id": "sm10-195",
     "name": "Dedenne-GX",
-    "supertype": "Pokemon",
-    "subtypes": ["Basic, GX"],
+    "supertype": "Pokémon",
+    "subtypes": ["Basic", "GX"],
     "types": ["Lightning"],
     "abilities": [
       {
@@ -6296,8 +6296,8 @@
   {
     "id": "sm10-196",
     "name": "Muk & Alolan Muk-GX",
-    "supertype": "Pokemon",
-    "subtypes": ["Basic, TAG TEAM, GX"],
+    "supertype": "Pokémon",
+    "subtypes": ["Basic", "TAG TEAM", "GX"],
     "types": ["Psychic"],
     "set": {
       "id": "sm10",
@@ -6322,8 +6322,8 @@
   {
     "id": "sm10-197",
     "name": "Muk & Alolan Muk-GX",
-    "supertype": "Pokemon",
-    "subtypes": ["Basic, TAG TEAM, GX"],
+    "supertype": "Pokémon",
+    "subtypes": ["Basic", "TAG TEAM", "GX"],
     "types": ["Psychic"],
     "set": {
       "id": "sm10",
@@ -6348,8 +6348,8 @@
   {
     "id": "sm10-198",
     "name": "Marshadow & Machamp-GX",
-    "supertype": "Pokemon",
-    "subtypes": ["Basic, TAG TEAM, GX"],
+    "supertype": "Pokémon",
+    "subtypes": ["Basic", "TAG TEAM", "GX"],
     "types": ["Fighting"],
     "set": {
       "id": "sm10",
@@ -6374,8 +6374,8 @@
   {
     "id": "sm10-199",
     "name": "Marshadow & Machamp-GX",
-    "supertype": "Pokemon",
-    "subtypes": ["Basic, TAG TEAM, GX"],
+    "supertype": "Pokémon",
+    "subtypes": ["Basic", "TAG TEAM", "GX"],
     "types": ["Fighting"],
     "set": {
       "id": "sm10",
@@ -6400,8 +6400,8 @@
   {
     "id": "sm10-200",
     "name": "Greninja & Zoroark-GX",
-    "supertype": "Pokemon",
-    "subtypes": ["Basic, TAG TEAM, GX"],
+    "supertype": "Pokémon",
+    "subtypes": ["Basic", "TAG TEAM", "GX"],
     "types": ["Darkness"],
     "set": {
       "id": "sm10",
@@ -6426,8 +6426,8 @@
   {
     "id": "sm10-201",
     "name": "Greninja & Zoroark-GX",
-    "supertype": "Pokemon",
-    "subtypes": ["Basic, TAG TEAM, GX"],
+    "supertype": "Pokémon",
+    "subtypes": ["Basic", "TAG TEAM", "GX"],
     "types": ["Darkness"],
     "set": {
       "id": "sm10",
@@ -6452,8 +6452,8 @@
   {
     "id": "sm10-202",
     "name": "Honchkrow-GX",
-    "supertype": "Pokemon",
-    "subtypes": ["Stage 1, GX"],
+    "supertype": "Pokémon",
+    "subtypes": ["Stage 1", "GX"],
     "types": ["Darkness"],
     "abilities": [
       {
@@ -6483,8 +6483,8 @@
   {
     "id": "sm10-203",
     "name": "Lucario & Melmetal-GX",
-    "supertype": "Pokemon",
-    "subtypes": ["Basic, TAG TEAM, GX"],
+    "supertype": "Pokémon",
+    "subtypes": ["Basic", "TAG TEAM", "GX"],
     "types": ["Metal"],
     "set": {
       "id": "sm10",
@@ -6509,8 +6509,8 @@
   {
     "id": "sm10-204",
     "name": "Gardevoir & Sylveon-GX",
-    "supertype": "Pokemon",
-    "subtypes": ["Basic, TAG TEAM, GX"],
+    "supertype": "Pokémon",
+    "subtypes": ["Basic", "TAG TEAM", "GX"],
     "types": ["Fairy"],
     "set": {
       "id": "sm10",
@@ -6535,8 +6535,8 @@
   {
     "id": "sm10-205",
     "name": "Gardevoir & Sylveon-GX",
-    "supertype": "Pokemon",
-    "subtypes": ["Basic, TAG TEAM, GX"],
+    "supertype": "Pokémon",
+    "subtypes": ["Basic", "TAG TEAM", "GX"],
     "types": ["Fairy"],
     "set": {
       "id": "sm10",
@@ -6561,8 +6561,8 @@
   {
     "id": "sm10-206",
     "name": "Whimsicott-GX",
-    "supertype": "Pokemon",
-    "subtypes": ["Stage 1, GX"],
+    "supertype": "Pokémon",
+    "subtypes": ["Stage 1", "GX"],
     "types": ["Fairy"],
     "abilities": [
       {
@@ -6592,8 +6592,8 @@
   {
     "id": "sm10-207",
     "name": "Persian-GX",
-    "supertype": "Pokemon",
-    "subtypes": ["Stage 1, GX"],
+    "supertype": "Pokémon",
+    "subtypes": ["Stage 1", "GX"],
     "types": ["Colorless"],
     "abilities": [
       {
@@ -6623,8 +6623,8 @@
   {
     "id": "sm10-208",
     "name": "Celesteela-GX",
-    "supertype": "Pokemon",
-    "subtypes": ["Basic, GX, Ultra Beast"],
+    "supertype": "Pokémon",
+    "subtypes": ["Basic", "GX", "Ultra Beast"],
     "types": ["Colorless"],
     "abilities": [
       {
@@ -6804,8 +6804,8 @@
   {
     "id": "sm10-215",
     "name": "Pheromosa & Buzzwole-GX",
-    "supertype": "Pokemon",
-    "subtypes": ["Basic, TAG TEAM, GX, Ultra Beast"],
+    "supertype": "Pokémon",
+    "subtypes": ["Basic", "TAG TEAM", "GX", "Ultra Beast"],
     "types": ["Grass"],
     "set": {
       "id": "sm10",
@@ -6830,8 +6830,8 @@
   {
     "id": "sm10-216",
     "name": "Venomoth-GX",
-    "supertype": "Pokemon",
-    "subtypes": ["Stage 1, GX"],
+    "supertype": "Pokémon",
+    "subtypes": ["Stage 1", "GX"],
     "types": ["Grass"],
     "set": {
       "id": "sm10",
@@ -6856,8 +6856,8 @@
   {
     "id": "sm10-217",
     "name": "Reshiram & Charizard-GX",
-    "supertype": "Pokemon",
-    "subtypes": ["Basic, TAG TEAM, GX"],
+    "supertype": "Pokémon",
+    "subtypes": ["Basic", "TAG TEAM", "GX"],
     "types": ["Fire"],
     "set": {
       "id": "sm10",
@@ -6882,8 +6882,8 @@
   {
     "id": "sm10-218",
     "name": "Blastoise-GX",
-    "supertype": "Pokemon",
-    "subtypes": ["Stage 2, GX"],
+    "supertype": "Pokémon",
+    "subtypes": ["Stage 2", "GX"],
     "types": ["Water"],
     "abilities": [
       {
@@ -6913,8 +6913,8 @@
   {
     "id": "sm10-219",
     "name": "Dedenne-GX",
-    "supertype": "Pokemon",
-    "subtypes": ["Basic, GX"],
+    "supertype": "Pokémon",
+    "subtypes": ["Basic", "GX"],
     "types": ["Lightning"],
     "abilities": [
       {
@@ -6944,8 +6944,8 @@
   {
     "id": "sm10-220",
     "name": "Muk & Alolan Muk-GX",
-    "supertype": "Pokemon",
-    "subtypes": ["Basic, TAG TEAM, GX"],
+    "supertype": "Pokémon",
+    "subtypes": ["Basic", "TAG TEAM", "GX"],
     "types": ["Psychic"],
     "set": {
       "id": "sm10",
@@ -6970,8 +6970,8 @@
   {
     "id": "sm10-221",
     "name": "Marshadow & Machamp-GX",
-    "supertype": "Pokemon",
-    "subtypes": ["Basic, TAG TEAM, GX"],
+    "supertype": "Pokémon",
+    "subtypes": ["Basic", "TAG TEAM", "GX"],
     "types": ["Fighting"],
     "set": {
       "id": "sm10",
@@ -6996,8 +6996,8 @@
   {
     "id": "sm10-222",
     "name": "Greninja & Zoroark-GX",
-    "supertype": "Pokemon",
-    "subtypes": ["Basic, TAG TEAM, GX"],
+    "supertype": "Pokémon",
+    "subtypes": ["Basic", "TAG TEAM", "GX"],
     "types": ["Darkness"],
     "set": {
       "id": "sm10",
@@ -7022,8 +7022,8 @@
   {
     "id": "sm10-223",
     "name": "Honchkrow-GX",
-    "supertype": "Pokemon",
-    "subtypes": ["Stage 1, GX"],
+    "supertype": "Pokémon",
+    "subtypes": ["Stage 1", "GX"],
     "types": ["Darkness"],
     "abilities": [
       {
@@ -7053,8 +7053,8 @@
   {
     "id": "sm10-224",
     "name": "Lucario & Melmetal-GX",
-    "supertype": "Pokemon",
-    "subtypes": ["Basic, TAG TEAM, GX"],
+    "supertype": "Pokémon",
+    "subtypes": ["Basic", "TAG TEAM", "GX"],
     "types": ["Metal"],
     "set": {
       "id": "sm10",
@@ -7079,8 +7079,8 @@
   {
     "id": "sm10-225",
     "name": "Gardevoir & Sylveon-GX",
-    "supertype": "Pokemon",
-    "subtypes": ["Basic, TAG TEAM, GX"],
+    "supertype": "Pokémon",
+    "subtypes": ["Basic", "TAG TEAM", "GX"],
     "types": ["Fairy"],
     "set": {
       "id": "sm10",
@@ -7105,8 +7105,8 @@
   {
     "id": "sm10-226",
     "name": "Whimsicott-GX",
-    "supertype": "Pokemon",
-    "subtypes": ["Stage 1, GX"],
+    "supertype": "Pokémon",
+    "subtypes": ["Stage 1", "GX"],
     "types": ["Fairy"],
     "abilities": [
       {
@@ -7136,8 +7136,8 @@
   {
     "id": "sm10-227",
     "name": "Persian-GX",
-    "supertype": "Pokemon",
-    "subtypes": ["Stage 1, GX"],
+    "supertype": "Pokémon",
+    "subtypes": ["Stage 1", "GX"],
     "types": ["Colorless"],
     "abilities": [
       {
@@ -7167,8 +7167,8 @@
   {
     "id": "sm10-228",
     "name": "Celesteela-GX",
-    "supertype": "Pokemon",
-    "subtypes": ["Basic, GX, Ultra Beast"],
+    "supertype": "Pokémon",
+    "subtypes": ["Basic", "GX", "Ultra Beast"],
     "types": ["Colorless"],
     "abilities": [
       {
@@ -7199,7 +7199,7 @@
     "id": "sm10-229",
     "name": "Beast Bringer",
     "supertype": "Trainer",
-    "subtypes": ["Pokemon Tool"],
+    "subtypes": ["Pokémon Tool"],
     "set": {
       "id": "sm10",
       "name": "Unbroken Bonds",
@@ -7274,7 +7274,7 @@
     "id": "sm10-232",
     "name": "Metal Core Barrier",
     "supertype": "Trainer",
-    "subtypes": ["Pokemon Tool"],
+    "subtypes": ["Pokémon Tool"],
     "set": {
       "id": "sm10",
       "name": "Unbroken Bonds",
@@ -7348,7 +7348,7 @@
   {
     "id": "smp-SM10",
     "name": "Shiinotic",
-    "supertype": "Pokemon",
+    "supertype": "Pokémon",
     "subtypes": ["Stage 1"],
     "types": ["Grass"],
     "abilities": [
