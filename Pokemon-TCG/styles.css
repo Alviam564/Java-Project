@@ -46,6 +46,7 @@ html {
 
 .F1 {
   font-size: 30PX;
+  margin-bottom: 10%;
 }
 
 #TU {
@@ -67,9 +68,11 @@ html {
   display: flex;
   align-items: center;
 }
+
 .hfix {
   line-height: 0;
 }
+
 .left {
   padding-left: 10px;
   padding-right: 10px;
@@ -81,12 +84,14 @@ html {
 }
 
 .down {
-  padding-bottom: 350px;
+  padding-bottom: 410px;
 
 }
+
 .top {
   padding-top: 50px
 }
+
 .top-e {
   padding-top: 38px;
 }
@@ -165,6 +170,7 @@ img {
   height: 110vh;
   overflow: hidden;
 }
+
 .background-wrapperO {
   position: relative;
   overflow: hidden;
@@ -175,14 +181,17 @@ img {
   height: 100%;
   object-fit: cover;
 }
+
 .bg-imageY {
   width: 1920px;
   height: 100%;
 }
+
 .bg-imageO {
   width: 1920px;
   height: 100%;
 }
+
 .overlay-img {
   position: absolute;
   height: auto;
@@ -233,18 +242,21 @@ bottom: 73.7%;
   border: none;
   cursor: pointer;
   position: absolute;
-  padding-top: 30px;
+  padding-top: 40px;
   padding-left: 1px;
 }
 
 .menu__backdrop {
   position: absolute;
-  margin-top: 82px;
+  margin-top: 130px;
   padding-top: 45px;
   border-radius: 8px;
   z-index: 100;
   transition: all 300ms ease;
   opacity: 0;
+  visibility: hidden;
+}
+.openhid {
   visibility: hidden;
 }
 
@@ -279,6 +291,15 @@ bottom: 73.7%;
   border-radius: 5px;
 }
 
+.selectTUs{
+  padding: 0.5rem;
+  background: yellow;
+  color: #2c2c2c;
+  border: none;
+  border-radius: 5px;
+  font-size: 20px;
+}
+
 .selectUB{
   width: 100%;
   padding: 0.5rem;
@@ -286,6 +307,22 @@ bottom: 73.7%;
   color: black;
   border: none;
   border-radius: 5px;
+}
+
+.selectUBs{
+  width: 100%;
+  padding: 0.5rem;
+  background: orange;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  font-size: 20px;
+
+}
+
+.input {
+  margin-left: 33%;
+  width: 490px;
 }
 
 .Ffix {
@@ -383,6 +420,14 @@ footer {
     bottom: 17%;
     width: 300px
   }
+  .input {
+    margin-left: 33%;
+    width: 490px;
+  }
+  .title-logo,
+  .title-logo-e {
+    left: 37%;
+  }
 }
 @media (max-width: 1024px) {
   .overlay-img.PTCG {
@@ -410,6 +455,10 @@ footer {
   .main-page-logo-mini-2 {
     right: 22%;
     bottom: 17%;
+  }
+  .input {
+    margin-left: 34%;
+    width: 332px;
   }
 }
 
@@ -457,7 +506,7 @@ footer {
     font-size: 40px;
   }
   .rowf {
-    padding-top: 9px;
+    padding-top: 8px;
   }
   .overlay-img.TU {
     left: 0;
@@ -476,13 +525,17 @@ footer {
     right: 15%;
     bottom: 19%;
   }
+  .input {
+    margin-left: 30%;
+    width: 334px;
+  }
 }
 
 @media (max-width: 425px) {
   .title-logo,
   .title-logo-e {
     width: 250px;
-    left: 23%;
+    left: 26%;
   }
   .down {
     padding-bottom: 700px;
@@ -554,7 +607,10 @@ footer {
   .hidUD{
     display:none
   }
-  
+  .input {
+    margin-left: 33%;
+    width: 169px;
+  }
 }
 
 @media (max-width: 375px) {
@@ -612,6 +668,10 @@ footer {
   }
   .hidUD{
     display:none
+  }
+  .input {
+    margin-left: 30%;
+    width: 168px;
   }
 }
 
@@ -683,5 +743,9 @@ footer {
   }
   .hidUD{
     display:none
+  }
+  .input {
+    margin-left: 25%;
+    width: 170px;
   }
 }

@@ -102,10 +102,11 @@ function displayCards(cards) {
   });
 }
 
-async function renderCards(filter) {
+async function renderCards(filteredCards = cardsData) {
   const container = document.getElementById('card-container');
   container.innerHTML = '';
   
+  if (filteredCards.len)
   if (
     !selectedPriceType &&
     !selectedSuperType &&
@@ -118,7 +119,6 @@ async function renderCards(filter) {
     return;
   }
 
-  let filteredCards = cardsData;
 
   if (selectedPriceType) {
     filteredCards = filteredCards.filter(card =>
@@ -172,6 +172,23 @@ async function renderCards(filter) {
   }
   
   displayCards(filteredCards);
+}
+
+function searchFunction() {
+  const input = document.getElementById(`searchBar`)
+  const filter = input.value.toUpperCase()
+
+  let filteredCards = cardsData.filter(card => {
+    return (
+      card.name.toUpperCase().includes(filter) ||
+      card.id.toUpperCase().includes(filter) ||
+      card.supertype.toUpperCase().includes(filter) ||
+      (card.types && card.types.some(type => type.toUpperCase().includes(filter))) ||
+      (card.rarity && card.rarity.toUpperCase().includes(filter))
+    )
+  })
+  renderCards(filteredCards)
+
 }
 
 function filterPriceRange(event) {
